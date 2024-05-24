@@ -1,0 +1,2 @@
+(window.officehome_webpackJsonp=window.officehome_webpackJsonp||[]).push([[75],{DZQ9:VDyW:function(n,r,t){"use strict";t.d(r,"a",();var e=t("QjXU"),a=t("nX9G"),u=function(n){return Object(e.__awaiter)(void 0,void 0,void 0,(function(){return Object(e.__generator)(this,(function(r){switch(r.label){case 0:return[4,Object(a.a)()];case 1:return[2,(0,r.sent().openFileInExplorer)(n)]}}))}))}}}]);
+//# sourceMappingURL=75.5c51a980845ff42194e4.chunk.v7.js.map

@@ -1,0 +1,1 @@
+profile-icon{float:right}.clickable-overlay{cursor:pointer;height:100%;left:0;position:absolute;top:0;width:100%;z-index:90000000}.profile-menu{background:#FFF;bottom:0;box-shadow:2px 2px 5px 0 #CCC;font-size:13.5px;position:absolute;right:0;transform:translateY(100%);width:250px;z-index:10}

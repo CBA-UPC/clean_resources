@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/bf3ab674f8cb/00c926efb2aa/571c9231d38d/RCcf248c52bdbc4a10b324917f8f40e603-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/bf3ab674f8cb/00c926efb2aa/571c9231d38d/RCcf248c52bdbc4a10b324917f8f40e603-source.min.js', "ire(\"identify\",{customerId:_satellite.getVar(\"Tracking ID\"),customerEmail:\"\"});");

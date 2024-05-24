@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/475abcba9222/2dd2a974be18/768b7ebd523b/RCf06097e039cc4989b716cd10ae552495-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/475abcba9222/2dd2a974be18/768b7ebd523b/RCf06097e039cc4989b716cd10ae552495-source.min.js', "_tdTags.transformationPhase=!0;");

@@ -1,0 +1,3 @@
+"use strict";!function(e,r,t,n){if(!e[n]){e[n]={};var a=e[n];a.VERSION="v0.8.5",a.queue=a.queue||[];for(var s=0;s<t.length;s++){var u=t[s];a[u]=a[u]||function(n){return function(){for(var e=arguments.length,r=new Array(e),t=0;t<e;t++)r[t]=arguments[t];a.queue.push({name:n,arguments:r.slice()})}}(u)}n=r.createElement("script"),r=r.querySelectorAll("script")[0];n.async=!0,n.src="//img.ak.impact-ad.jp/ut/a1/tracking.min.js",r.parentNode.insertBefore(n,r)}}(window,document,["ready","send","sendEvent","setParams","initParams","sendCustomerId","getSegments","getUserId"],"a1tracker");
+a1tracker.setParams('c7fa75350a4dace7', 'tagsource', 'bta_general');
+a1tracker.send('c7fa75350a4dace7');

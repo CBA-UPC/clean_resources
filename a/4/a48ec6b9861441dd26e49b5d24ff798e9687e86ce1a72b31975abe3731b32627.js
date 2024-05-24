@@ -1,0 +1,1 @@
+.PublicLink__banner{background-color:var(--color-blue-600)}.PublicLink__banner--button{text-decoration:none}

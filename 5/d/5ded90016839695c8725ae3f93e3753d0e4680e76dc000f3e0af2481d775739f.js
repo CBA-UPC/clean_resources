@@ -1,0 +1,1 @@
+.markdown.svelte-1n02ybu{font-family:NormsRegular,Trebuchet MS,Arial,sans-serif;font-size:1.125rem;line-height:1.75rem;--tw-text-opacity:1;color:rgb(241 245 249/var(--tw-text-opacity))}.star-rating.svelte-ul6x60{align-items:center;display:flex}.star-container.svelte-ul6x60{display:flex}.star-container.svelte-ul6x60:not(:last-child){margin-right:5px}

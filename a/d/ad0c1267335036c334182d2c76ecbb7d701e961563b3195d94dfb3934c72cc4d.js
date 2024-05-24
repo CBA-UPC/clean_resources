@@ -1,0 +1,37 @@
+;/*FB_PKG_DELIM*/
+
+__d("RTLKeys",["Keys","Locale"],(,98);
+__d("useKeyboardFocus",["KeyStatus","RTLKeys","VirtualCursorStatus","react"],(,98);
+__d("AdsPerfTiming",["performance"],(,98);
+__d("createLayoutContext",["compareDOMOrder","emptyFunction","react","useRefEffect","useUnsafeRef_DEPRECATED"],(,98);
+__d("BUIPrivateButtonLayoutContext",["createLayoutContext"],(,98);
+__d("BUIPrivateDisabledFocusContext",["react"],(,98);
+__d("BUIPrivateFormLabelLayoutContext",["createLayoutContext"],(,98);
+__d("PositionEnum",["keyMirror","objectValues","prop-types"],(,98);
+__d("Popup",["isTruthy"],(,98);
+__d("isFalsey",[],(,66);
+__d("PopupWindow",["DOMDimensions","DOMQuery","FlowMigrationUtilsForLegacyFiles","Layer","Popup","getViewportDimensions","isFalsey"],(,98);
+__d("ContextualLayerUpdateOnScroll",["Event"],(,98);
+__d("WebIconUtils",["coerceImageishSprited","coerceImageishURL","getImageSourceURLFromImageish","isFalsey","memoizeWithArgsWeak"],(,98);
+__d("WebCSSTintedIcon.react",["WebIconUtils","react","stylex"],(,98);
+__d("KeyActivationToClickHOC.react",["isKeyActivation","react"],(,98);
+__d("isStringNullOrWhitespaceOnly",[],(,66);
+__d("joinDomIDs",[],(,66);
+__d("useContentRect",["react","useResizeObserver"],(,98);
+__d("useControllableProp",["react"],(,98);
+__d("useDebounced",["debounce","react"],(,98);
+__d("useThrottled",["cr:6101"],(,34);
+__d("ShimButton.react",["KeyActivationToClickHOC.react","emptyFunction","killswitch","prop-types","react"],(,null);
+__d("FlexLayout.react",["cx","joinClasses","react"],(,98);
+__d("flatMapArray",[],(,66);
+__d("objectKeys",[],(,66);
+__d("getUnqualifiedURI",["URI","unqualifyURI"],(function(a,b,c,d,e,f,g){var h;function a(a){a=new(h||(h=c("URI")))(a);c("unqualifyURI")(a);return a}g["default"]=a}),98);
+__d("fbglyph",[],(,66);
+__d("ClientAjaxIdsUpdater",["CurrentUserInitialData","MRequestConfig","cr:8959","cr:8960"],(,98);
+__d("fbjs/lib/ExecutionEnvironment",["ExecutionEnvironment"],(,null);
+__d("fbjs/lib/shallowEqual",["shallowEqual"],(function(a,b,c,d,e,f){"use strict";e.exports=b("shallowEqual")}),null);
+__d("shallowCompare",["fbjs/lib/shallowEqual"],(,66);
+__d("RelayFBResponseCache",["RelayRuntime"],(,null);
+__d("ReactRouterDOM",["react-router-dom"],(,null);
+__d("WebBloksSSRUtils",[],(,66);
+__d("Clipboard",["Promise","UserAgent"],(,98);

@@ -1,0 +1,2 @@
+//tealium universal tag - utag.sync ut4.0.202401241611, Copyright 2024 Tealium.com Inc. All Rights Reserved.
+var optoutmultiCookie=decodeURI(getCookie('CONSENTMGR'));if((optoutmultiCookie&&!(/c1:0/i).test(optoutmultiCookie))||optoutmultiCookie===""){console.log("Target tag is turned on");}else{console.log("Target tag is turned off");}

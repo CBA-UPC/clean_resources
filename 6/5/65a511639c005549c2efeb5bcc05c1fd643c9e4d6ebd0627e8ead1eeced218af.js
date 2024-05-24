@@ -1,0 +1,1 @@
+.cfBaP{border:5px solid #fff}

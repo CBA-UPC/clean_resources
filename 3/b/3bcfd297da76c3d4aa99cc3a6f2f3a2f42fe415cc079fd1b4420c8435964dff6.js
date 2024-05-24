@@ -1,0 +1,9 @@
+var ADX_CAT_1 = "NC";
+var ADX_CAT_2 = "NC";
+var ADX_CAT_3 = "NC";
+var ADX_CAT_4 = "NC";
+var ADX_CAT_5 = "NC";
+var ADX_BS_1 = "NC";
+var ADX_ENT_PEOPLE = "";
+var ADX_ENT_PLACE = "Torino";
+var ADX_ENT_ORG = "GEDI Gruppo Editoriale S.p.A.";

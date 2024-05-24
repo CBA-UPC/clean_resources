@@ -1,0 +1,1 @@
+/**/ typeof _dbljson4 === 'function' && _dbljson4({"result":true});

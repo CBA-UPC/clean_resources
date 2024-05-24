@@ -1,0 +1,1 @@
+!function(){const{currentScript:t}=document;if(null!==t)try{var n;const e=new URL(t.getAttribute("src"));e.searchParams.append("ref",document.location.origin);const c=document.createElement("script");c.src=e.toString(),c.async=!0,null==(n=t.parentNode)||n.insertBefore(c,t)}catch{}}();

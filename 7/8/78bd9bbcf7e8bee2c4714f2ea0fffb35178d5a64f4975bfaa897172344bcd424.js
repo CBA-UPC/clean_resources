@@ -1,0 +1,4 @@
+0;return("x"==e?t:3&t|8).toString(16)})}function setCookie(e,t){var i=e+"="+t+"; path=/;SameSite=None;secure",n=new Date;return n.setTime(n.getTime()+63072e6),i+="; expires="+n.toGMTString(),document.cookie=i,t}function checkAndSet(e){for(var t=document.cookie.split(";"),i=0;i<t.length;i++){var n=t[i].split("=");if(e==n[0].trim())return decodeURIComponent(n[1])}return setCookie(e,uuidv4()+"-"+Math.round(Date.now()/1e3))}function getExpiry(){for(var e=1607000000410;(e+=1728e5)<(new Date).getTime(););return e}window.parent.postMessage({__tiluuid:checkAndSet("__tiluuid"),__tiluuid_expiry_ms:getExpiry(),reset:!1,__tiluuid_reset_script_path:"https://tilanalytics.timesinternet.in/production/inject-2.1.js"},"*")</script>
+</head>
+<body></body>
+</html>

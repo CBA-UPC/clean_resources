@@ -1,0 +1,1 @@
+#gde_ins_btn_gb{background-color:#0085ba;color:#fff;height:38px;padding:15px;text-align:center;display:inline-flex;align-items:center;border:1px solid #e2e4e7;font-size:17px;cursor:pointer}#root{display:none!important;background-color:#0085ba;color:#fff;height:25px;font-size:12px}

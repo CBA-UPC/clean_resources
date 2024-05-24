@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/a18f612bc208/7fa79028d944/57e3b2e25d44/RCad22775988a044ae9772347b9ba5f339-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/a18f612bc208/7fa79028d944/57e3b2e25d44/RCad22775988a044ae9772347b9ba5f339-source.min.js', "window.targetGlobalSettings={allowHighEntropyClientHints:!0};");

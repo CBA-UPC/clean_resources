@@ -1,0 +1,1 @@
+import{delegate as p}from"../base/croco.js";export function trackingPromotion(m,k){if(m&&m.dataset.trackingData){import("../base/event-tracker.js").then(({sendEventOnEnterViewport:t,sendEvent:o,EVENTS:i})=>{const O={ecommerce:JSON.parse(m.dataset.trackingData)};t(m,i.VIEW_PROMOTION,O,true);p(m,k,"click",})}}

@@ -1,0 +1,11 @@
+var var_5k82w8k7xu = '';
+var_5k82w8k7xu += "<"+"script src=\"https://imhentai.xxx/js/combined_YaxD6Zu19s.js\"><"+"/script>\n";
+var_5k82w8k7xu += "<"+"script>\n";
+var_5k82w8k7xu += "RAytKpEaA.bindTo(\'.inner_thumb\', \'.left_cover\', \'.gthumb\', \'#gimg\');\n";
+var_5k82w8k7xu += "RAytKpEaA.config({\n";
+var_5k82w8k7xu += "tricksChrome: false,\n";
+var_5k82w8k7xu += "coverScrollbar: false\n";
+var_5k82w8k7xu += "});\n";
+var_5k82w8k7xu += "RAytKpEaA.add(\'https://go.hentaigold.net/new/d784421c69cdf16c0a79a18e4ea93150/\', {under: true, newTab: false, cookieExpires: 3600, cookieName: \'firstpop\'});\n";
+var_5k82w8k7xu += "<"+"/script>\n";
+document.write(var_5k82w8k7xu);

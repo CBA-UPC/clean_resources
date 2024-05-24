@@ -1,0 +1,1 @@
+span.su-source.mif-cockade{background-image:url(https://media.ouest-france.fr/v1/pictures/2eb475446588da31b253dffa25df971f-madeinfoot-x2.png)}

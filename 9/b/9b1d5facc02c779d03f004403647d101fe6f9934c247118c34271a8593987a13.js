@@ -1,0 +1,2 @@
+(window.officehome_webpackJsonp=window.officehome_webpackJsonp||[]).push([[560],{"5Z98":sitivityButtonLearnMoreLinkText":{"s":"深入了解","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"關閉","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"無法移除標籤","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"您的組織要求您為此項目加上標籤。","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings85.c16cc58f3a7900496673.chunk.v7.js.map

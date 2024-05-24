@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC29031075b55443d69c02f04845c4be34-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC29031075b55443d69c02f04845c4be34-source.min.js', "function gtag(){dataLayer.push(arguments)}gtag(\"event\",\"conversion\",{allow_custom_scripts:!0,send_to:\"DC-4053494/comca517/xfini011+standard\"}),_satellite.logger.info(\"DTM:Google Doubleclick Floodlight - MV - 2727704 Multicultural Hispanic EVENT\");");

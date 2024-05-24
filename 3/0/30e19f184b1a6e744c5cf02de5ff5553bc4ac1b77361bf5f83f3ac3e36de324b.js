@@ -1,0 +1,1 @@
+//# sourceMappingURL=xpui-routes-recent-searches.2bdcae2e.js.map

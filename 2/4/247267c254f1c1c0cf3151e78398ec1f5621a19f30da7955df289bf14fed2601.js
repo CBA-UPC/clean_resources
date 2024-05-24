@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/1eecba5bc341/de31c2d2f016/7633eb2619cc/RC8acb98c06da640fba5e21f521336d006-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/1eecba5bc341/de31c2d2f016/7633eb2619cc/RC8acb98c06da640fba5e21f521336d006-source.min.js', "try{var isLoggedIn=!document.getElementById(\"user-logged\").classList.contains(\"-hidden\")}catch(e){console.log(\"cannote evaluate loggedin\")}");

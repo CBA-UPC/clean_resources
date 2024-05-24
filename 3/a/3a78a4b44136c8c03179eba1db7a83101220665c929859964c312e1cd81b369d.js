@@ -1,0 +1,2 @@
+window.Criteo=window.Criteo||{};window.Criteo.oneTagConfig={partnerId:22679,visitEventEnabled:true,fpIdentifier:"0",waitForGum:true,dynamic:!0,gumDomain:"gum.criteo.com",privateModeDetectionEnabled:true};
+!);

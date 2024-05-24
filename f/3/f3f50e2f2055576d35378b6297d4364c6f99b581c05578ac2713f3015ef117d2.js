@@ -1,0 +1,6 @@
+
+
+
+![);
+__initializeMutinySlim({"config":{"blacklisted_query_params":{"tve":[]},"track_calendly":false,"track_drift":false,"track_hubspot":false,"tracking_mode":"batch","write_to_segment":true,"api_key":"9c3178d500a6d974","blocked_ips":[],"campaign_query_param_keys":["mt"],"client_iteration":480,"company_slug":"tailscale","company_token":"2717960877f6aef7","exposed_user_data_attributes":[],"integrations":["mutiny","window"],"preserve_redirect_query_params":true,"preview":null,"published_at":"2024-01-19T12:30:18.454-08:00","tracked_domains":null,"whitelisted_domains":[]},"selectors":[{"url_host":"tailscale.com","url_path":"/enterprise","selectors":["div.is-wide.items-center"]},{"url_host":"tailscale.com","url_path":"/use-cases/zero-trust-networking","selectors":["div.is-wide.items-center"]},{"url_host":"tailscale.com","url_path":"/","selectors":["div.relative.w-auto > div.overflow-hidden","span.hidden","div.text-left.mx-auto > div.text-body-black > div.content-prose > p","span.relative > span:nth-of-type(1)","h1[class*=\"text\"]","div:nth-of-type(1) > div.inline-flex > a.section-link","div.grid.text-center > div:nth-of-type(1) > p.body-l","div.items-center.will-change-transform > span","div.text-left.mx-auto > div.justify-start > div.flex"]},{"url_host":"www.tailscale.com","url_path":"/","selectors":["div.is-wide.items-center"]}]})
+

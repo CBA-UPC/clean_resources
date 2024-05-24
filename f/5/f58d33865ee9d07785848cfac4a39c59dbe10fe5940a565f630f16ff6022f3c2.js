@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunk_twitter_responsive_web=self.webpackChunk_twitter_responsive_web||[]).push([["shared~bundle.BookmarkFolders~bundle.TwitterArticles~bundle.Settings"],{728215:function _(e,t,r){r.d(t,{Z:function Z(){return b;}});var n=r(133028),o=r(459740),l=r(202784),c=r(325686),i=r(973186),a=r(191964);var s="activeRoute";var d=["children"],u=i.Z.create(;var b=function b(e){var t=e.children,r=(0,o.Z)(e,d);return l.createElement(a.Z,r,;};},516955:function _(e,t,r){r.d(t,{Z:);var n=r(807896),o=r(202784),l=r(430318),c=r(510364),i=r(882392),a=r(728215);var s=function s(e){var t=(0,l.Z)().direction;return o.createElement(a.Z,{exact:!0,path:e.link},;};}}]);
+
+//# sourceMappingURL=shared~bundle.BookmarkFolders~bundle.TwitterArticles~bundle.Settings.4bc63e9a.js.map

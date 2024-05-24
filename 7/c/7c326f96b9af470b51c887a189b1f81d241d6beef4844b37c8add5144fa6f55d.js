@@ -1,0 +1,2 @@
+turn t},reset(){wn.initialized=!1}};En.init();window.__hsCollectedFormsDebug={};window.__hsCollectedFormsDebug.manualStart=En.init.bind(En)}});
+//# sourceMappingURL=//static.hsappstatic.net/collected-forms-embed-js/static-1.451/bundles/project.js.map

@@ -1,0 +1,1 @@
+:target:before{content:"";display:block;height:43px;margin-top:-43px}@media screen and (max-width:599px){:target:before{height:49px;margin-top:-49px}}

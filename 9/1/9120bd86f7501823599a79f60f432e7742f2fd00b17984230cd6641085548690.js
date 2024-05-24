@@ -1,0 +1,1 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <title>[UOL TagManager] Mercúrio</title> </head> <body> <script src="//tm.jsuol.com.br/modules/mercurio.js"></script> </body> </html>

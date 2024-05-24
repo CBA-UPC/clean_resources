@@ -1,0 +1,9 @@
+window.dmm_mkbase_ga_geo_param = {};
+window.dmm_mkbase_ga_geo_param.userinfo_country = "ES"; 
+window.dmm_mkbase_ga_geo_param.userinfo_country_name = "Spain"; 
+window.dmm_mkbase_ga_geo_param.userinfo_region_code = "CT"; 
+window.dmm_mkbase_ga_geo_param.userinfo_country_region_name = "Catalonia"; 
+window.dmm_mkbase_ga_geo_param.userinfo_city = "Badalona"; 
+window.dmm_mkbase_ga_geo_param.userinfo_latitude = "41.44330"; 
+window.dmm_mkbase_ga_geo_param.userinfo_longitude = "2.25240"; 
+window.dmm_mkbase_ga_geo_param.userinfo_ip = "147.83.130.27"; 

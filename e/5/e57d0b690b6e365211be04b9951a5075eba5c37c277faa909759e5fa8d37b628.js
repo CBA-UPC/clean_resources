@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC37c960ab9bab46fbbceb74a4f50b238f-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC37c960ab9bab46fbbceb74a4f50b238f-source.min.js', "_satellite.setVar({aepEventType:\"Web Page View\"}),_satellite.setVar({pageViewValue:1});");

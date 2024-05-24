@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/ccc66c06b30b/7f1afd17dc3b/6f35e5da5294/RCe869f13aba8541c88988760dcd92697c-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/ccc66c06b30b/7f1afd17dc3b/6f35e5da5294/RCe869f13aba8541c88988760dcd92697c-source.min.js', "_satellite.getVar(\"DL - _resetDataLayer\");");

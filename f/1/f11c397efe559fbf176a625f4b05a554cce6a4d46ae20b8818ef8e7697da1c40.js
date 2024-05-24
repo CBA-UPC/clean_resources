@@ -1,0 +1,2 @@
+(window.officehome_webpackJsonp=window.officehome_webpackJsonp||[]).push([[844],{"0/6u":kText":"մուտք գործել","searchMEItemSelected":"Միավորը ընտրված է:","searchMESearchComplete":"Որոնումն ավարտված է","searchMESearchCleared":"Որոնման խմբագրման դաշտը մաքրված է:"}}')}}]);
+//# sourceMappingURL=844.bbb07b6de8fad74f44c6.chunk.v7.js.map

@@ -1,0 +1,63 @@
+/**
+* Component: codex-label
+* Generated on Tue Mar 07 2023 18:42:07 GMT-0300 (Brasilia Standard Time)
+**/
+:root {
+  --codex-label-font-family: var(--codex-font-family-label);
+  --codex-label-font-feature-settings: var(--codex-font-feature-settings-label);
+  --codex-label-font-variant: var(--codex-font-variant-null);
+  --codex-label-font-text-align: var(--codex-font-text-align-label);
+  --codex-label-font-text-transform: var(--codex-font-text-transform-null);
+  --codex-label-font-text-decoration: var(--codex-font-text-decoration-null);
+  --codex-label-font-style: var(--codex-font-style-roman);
+  --codex-label-color-text--on-mode-dark: var(--codex-color-text-primary-dark);
+  --codex-label-color-text--on-mode-light: var(--codex-color-text-primary-light);
+  --codex-label-font-size-small--on-screen-small: var(--codex-font-size-label-small);
+  --codex-label-font-size-small--on-screen-medium: var(--codex-font-size-label-small);
+  --codex-label-font-size-small--on-screen-large: var(--codex-font-size-label-small);
+  --codex-label-font-size-small--on-screen-large-1x: var(--codex-font-size-label-small);
+  --codex-label-font-letter-spacing-small--on-screen-small: var(--codex-font-letter-spacing-label-small);
+  --codex-label-font-letter-spacing-small--on-screen-medium: var(--codex-font-letter-spacing-label-small);
+  --codex-label-font-letter-spacing-small--on-screen-large: var(--codex-font-letter-spacing-label-small);
+  --codex-label-font-letter-spacing-small--on-screen-large-1x: var(--codex-font-letter-spacing-label-small);
+  --codex-label-font-line-height-small--on-screen-small: var(--codex-font-line-height-label-small);
+  --codex-label-font-line-height-small--on-screen-medium: var(--codex-font-line-height-label-small);
+  --codex-label-font-line-height-small--on-screen-large: var(--codex-font-line-height-label-small);
+  --codex-label-font-line-height-small--on-screen-large-1x: var(--codex-font-line-height-label-small);
+  --codex-label-font-weight-small--on-screen-small: var(--codex-font-weight-label-small);
+  --codex-label-font-weight-small--on-screen-medium: var(--codex-font-weight-label-small);
+  --codex-label-font-weight-small--on-screen-large: var(--codex-font-weight-label-small);
+  --codex-label-font-weight-small--on-screen-large-1x: var(--codex-font-weight-label-small);
+  --codex-label-font-size-medium--on-screen-small: var(--codex-font-size-label-medium);
+  --codex-label-font-size-medium--on-screen-medium: var(--codex-font-size-label-medium);
+  --codex-label-font-size-medium--on-screen-large: var(--codex-font-size-label-medium);
+  --codex-label-font-size-medium--on-screen-large-1x: var(--codex-font-size-label-medium);
+  --codex-label-font-letter-spacing-medium--on-screen-small: var(--codex-font-letter-spacing-label-medium);
+  --codex-label-font-letter-spacing-medium--on-screen-medium: var(--codex-font-letter-spacing-label-medium);
+  --codex-label-font-letter-spacing-medium--on-screen-large: var(--codex-font-letter-spacing-label-medium);
+  --codex-label-font-letter-spacing-medium--on-screen-large-1x: var(--codex-font-letter-spacing-label-medium);
+  --codex-label-font-line-height-medium--on-screen-small: var(--codex-font-line-height-label-medium);
+  --codex-label-font-line-height-medium--on-screen-medium: var(--codex-font-line-height-label-medium);
+  --codex-label-font-line-height-medium--on-screen-large: var(--codex-font-line-height-label-medium);
+  --codex-label-font-line-height-medium--on-screen-large-1x: var(--codex-font-line-height-label-medium);
+  --codex-label-font-weight-medium--on-screen-small: var(--codex-font-weight-label-medium);
+  --codex-label-font-weight-medium--on-screen-medium: var(--codex-font-weight-label-medium);
+  --codex-label-font-weight-medium--on-screen-large: var(--codex-font-weight-label-medium);
+  --codex-label-font-weight-medium--on-screen-large-1x: var(--codex-font-weight-label-medium);
+  --codex-label-font-size-large--on-screen-small: var(--codex-font-size-label-large);
+  --codex-label-font-size-large--on-screen-medium: var(--codex-font-size-label-large);
+  --codex-label-font-size-large--on-screen-large: var(--codex-font-size-label-large);
+  --codex-label-font-size-large--on-screen-large-1x: var(--codex-font-size-label-large);
+  --codex-label-font-letter-spacing-large--on-screen-small: var(--codex-font-letter-spacing-label-large);
+  --codex-label-font-letter-spacing-large--on-screen-medium: var(--codex-font-letter-spacing-label-large);
+  --codex-label-font-letter-spacing-large--on-screen-large: var(--codex-font-letter-spacing-label-large);
+  --codex-label-font-letter-spacing-large--on-screen-large-1x: var(--codex-font-letter-spacing-label-large);
+  --codex-label-font-line-height-large--on-screen-small: var(--codex-font-line-height-label-large);
+  --codex-label-font-line-height-large--on-screen-medium: var(--codex-font-line-height-label-large);
+  --codex-label-font-line-height-large--on-screen-large: var(--codex-font-line-height-label-large);
+  --codex-label-font-line-height-large--on-screen-large-1x: var(--codex-font-line-height-label-large);
+  --codex-label-font-weight-large--on-screen-small: var(--codex-font-weight-label-large);
+  --codex-label-font-weight-large--on-screen-medium: var(--codex-font-weight-label-large);
+  --codex-label-font-weight-large--on-screen-large: var(--codex-font-weight-label-large);
+  --codex-label-font-weight-large--on-screen-large-1x: var(--codex-font-weight-label-large);
+  }

@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[335],{1808:function(n,e,r){"use strict";r.r(e),r.d(e,{__N_SSP:);var t=r(7294).createElement;var u=!0;e.default=n=>{let{linkType:e}=n;return t("p",null,"Weiterleitung zur ",e,".")}},7292:,function(n){n.O(0,[102,888,179],();var e=n.O();_N_E=e}]);

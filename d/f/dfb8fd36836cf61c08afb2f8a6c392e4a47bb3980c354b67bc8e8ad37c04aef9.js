@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/dba7b4ad2c8b/91f40365a420/a4aba62100f0/RC3b51422ab9cc4fe1a4280e8cb356bd7d-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/dba7b4ad2c8b/91f40365a420/a4aba62100f0/RC3b51422ab9cc4fe1a4280e8cb356bd7d-source.min.js', "<img src=\"https://amplifypixel.outbrain.com/pixel?mid=004d2133385513d6a3dbfd9993b43474ab\" style=\"display:none\">");

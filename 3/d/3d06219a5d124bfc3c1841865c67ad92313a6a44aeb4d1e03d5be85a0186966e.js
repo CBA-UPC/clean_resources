@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8545],{18654:743:function(n,e,u){"use strict";u.r(e),u.d(e,{__N_SSP:);var t=u(52322),i=!0;e.default=function(n){let{success:e,error:u}=n;return e?null:(0,t.jsxs)("div",{children:[(0,t.jsx)("div",{children:"Salesforce authentication failed."}),(0,t.jsx)("span",{children:u})]})}}},);
+//# sourceMappingURL=salesforce-1b2822335a76b904.js.map

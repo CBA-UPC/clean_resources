@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/6055abd7bbba/d4daa566f179/140897230c44/RCb5ed0b4d6b034ad487f9049f79e4ec7a-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/6055abd7bbba/d4daa566f179/140897230c44/RCb5ed0b4d6b034ad487f9049f79e4ec7a-source.min.js', "<script>\ndocument.body.addEventListener(\"click\", function(event) {\n    if(event && event.target && event.target.id === 'truste-consent-button') {\n       setTimeout(() => { window.location.reload(); }, 1000);\n    }\n});\n</script>");

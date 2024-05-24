@@ -1,0 +1,1 @@
+importScripts('https://widgets.ir0.webengage.com/js/service-worker.js');

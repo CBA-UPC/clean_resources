@@ -1,0 +1,2 @@
+(window.officehome_webpackJsonp=window.officehome_webpackJsonp||[]).push([[489],{"/Av0":"f":0},"sensitivityButtonLearnMoreLinkText":{"s":"تعرّف على المزيد","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"إغلاق","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"لا يمكن إزالة التسمية","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"تطلب منظمتك منك تسمية هذا العنصر.","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings2.5763ec49303319407ee1.chunk.v7.js.map

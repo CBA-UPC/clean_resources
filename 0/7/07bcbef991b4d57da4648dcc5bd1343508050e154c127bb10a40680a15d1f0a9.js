@@ -1,0 +1,1 @@
+(function(_ds){var window=this;customElements.whenDefined(_ds.GI()).then(()=>{try{customElements.define(_ds.UI(),_ds.Laa)}catch(a){console.warn("devsite.app.customElement.CloudxUser",a)}});})(_ds_www);

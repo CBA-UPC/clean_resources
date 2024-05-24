@@ -1,0 +1,1 @@
+.skip-block{position:absolute;right:0}

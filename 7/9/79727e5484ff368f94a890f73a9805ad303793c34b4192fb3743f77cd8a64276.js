@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/31ba12aaaf5b/3f9fafe0f01a/57ef051d03b0/RC498073cf36d34bb4b967102bc1159139-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/31ba12aaaf5b/3f9fafe0f01a/57ef051d03b0/RC498073cf36d34bb4b967102bc1159139-source.min.js', "function aa_customLinkTrack(a){a.linkName&&s.tl(!0,\"o\",a.linkName)}");

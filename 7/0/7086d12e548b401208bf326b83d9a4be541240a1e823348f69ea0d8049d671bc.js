@@ -1,0 +1,2 @@
+.background-video[data-v-3047266e]{display:block;height:100%;left:0;object-fit:cover;position:absolute;top:0;width:100%}@media (min-width: 768px){.background-video-mobile[data-v-3047266e]::cue{font-size:14px}}
+rule":"evenodd",d:"M7.707.293a1 1 0 0 1 0 1.414L2.414 7l5.293 5.293a1 1 0 1 1-1.414 1.414l-6-6a1 1 0 0 1 0-1.414l6-6a1 1 0 0 1 1.414 0Z","clip-rule":"evenodd"},null,-1),r=[n];function a(s,c){return e(),o("svg",l,r)}const i={render:a};export{i as default,a as render};

@@ -1,0 +1,16 @@
+fl=49f148
+h=cloudflare.com
+ip=147.83.130.27
+ts=1705430422.09
+visit_scheme=https
+uag=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+colo=MRS
+sliver=none
+http=http/1.1
+loc=ES
+tls=TLSv1.2
+sni=plaintext
+warp=off
+gateway=off
+rbi=off
+kex=P-256

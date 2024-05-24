@@ -1,0 +1,1 @@
+<!doctype html0;'><script>window.onload=function(){parent.postMessage("otmSlotDestroy","*");}</script></body></html>

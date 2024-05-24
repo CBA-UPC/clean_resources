@@ -1,0 +1,2 @@
+0},"sensitivityButtonAriaLabel":{"s":"Конфиденциальлек тамгасы төймәсе","f":0},"sensitivityButtonLearnMoreLinkText":{"s":"Тулырак мәгълүмат","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"Ябу","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"Тамганы бетереп булмый","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"Оешмагыз әлеге объектны тамгалавыгызны таләп итә.","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings78.b2d7aea7ac7650c5d476.chunk.v7.js.map

@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC9853f54b0bc34a4caf9956087962ea40-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC9853f54b0bc34a4caf9956087962ea40-source.min.js', "window.targetPageParams=function(){var a={},r=adobe.consulting.util.getObjVal(digitalData,\"segment.list\");if(!Array.isArray(r))return a;for(var t=0;t<r.length;t++)a[\"DC_Geo__\"+r[t]]=\"yes\";return a};");

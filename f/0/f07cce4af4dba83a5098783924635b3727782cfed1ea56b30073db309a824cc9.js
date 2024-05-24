@@ -1,0 +1,1 @@
+.Right_right__ogltP{margin:0 auto 5px;text-align:center}

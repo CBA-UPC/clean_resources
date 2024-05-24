@@ -1,0 +1,2 @@
+// UniConsent CMP is disabled, please enable at your dashboard or contact hello@uniconsent.com
+console.log('UniConsent CMP is disabled, please enable at your dashboard or contact hello@uniconsent.com');

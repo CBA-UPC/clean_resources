@@ -1,0 +1,2 @@
+// AdBlock
+adb = 0;

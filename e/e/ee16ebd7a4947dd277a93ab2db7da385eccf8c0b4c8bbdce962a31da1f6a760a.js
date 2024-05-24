@@ -1,0 +1,1 @@
+&o>=0&&s>=0&&h>=0?null:{top:e,right:o,bottom:s,left:h,clientRect:r,viewport:t}}Object.defineProperty(t,"__esModule",{value:!0});t.collidesWith=r;t.getCollisionExtents=u})})();

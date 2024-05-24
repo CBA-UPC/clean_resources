@@ -1,0 +1,5 @@
+import{h as u,j as l,af as c,z as a}from"./index-64e4e9e7.js";/**
+ * @license
+ * Copyright 2018 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */const o="important",d=" !"+o,p=u(class extends l{constructor(s){if(super(s),s.type!==c.ATTRIBUTE||s.name!=="style"||s.strings?.length>2)throw Error("The `styleMap` directive must be used in the `style` attribute and must be the only part in the attribute.")}render(s){return Object.keys(s).reduce((n,e)=>{const t=s[e];return t==null?n:n+`${e=e.includes("-")?e:e.replace(/(?:^(webkit|moz|ms|o)|)(?=[A-Z])/g,"-$&").toLowerCase()}:${t};`},"")}update(s,[n]){const{style:e}=s.element;if(this.ut===void 0)return this.ut=new Set(Object.keys(n)),this.render(n);for(const t of this.ut)n[t]==null&&(this.ut.delete(t),t.includes("-")?e.removeProperty(t):e[t]=null);for(const t in n){const r=n[t];if(r!=null){this.ut.add(t);const i=typeof r=="string"&&r.endsWith(d);t.includes("-")||i?e.setProperty(t,i?r.slice(0,-11):r,i?o:""):e[t]=r}}return a}});export{p as o};

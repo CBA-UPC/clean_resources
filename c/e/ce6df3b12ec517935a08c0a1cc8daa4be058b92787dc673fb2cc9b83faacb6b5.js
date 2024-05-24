@@ -1,0 +1,1 @@
+!{28:function(e,t,n){"use strict";n.r(t);({init(){window.pmc.hooks.add_filter("cxense_entitlements",(e,{has:t,or:n,exec:r})=>r({"rs-reg":t("RS.REG"),"rs-com":n(t("RollingStone.COM"),t("RollingStone.BUNDLE"))})||e)}}).init()}});

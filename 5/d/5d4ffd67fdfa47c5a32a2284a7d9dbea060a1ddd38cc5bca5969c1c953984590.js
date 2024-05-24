@@ -1,0 +1,3 @@
+import{html as i}from"../../vendors/lit-html/lit-html.js";import{getAutomationClass as l}from"../../base/config.js";export const tplEmpty=export const tplErrorMessage=export const tplIframe=({src,className})=>i`<iframe credentialless class="${className}" src="${src}"></iframe>`;export const tplCounter=(t,o=0)=>{return!t?i`<span class="js-icon-count icon-count l-absolute text-center rounded ${o===0?"bg-white text-primary":"bg-conversion text-white"} ${l("header","minicartCount")}">
+        ${o}
+    </span>`:""};

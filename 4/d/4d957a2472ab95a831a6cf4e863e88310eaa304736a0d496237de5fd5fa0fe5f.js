@@ -1,0 +1,1 @@
+window.adsapp=!0;

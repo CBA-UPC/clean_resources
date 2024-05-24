@@ -1,0 +1,3 @@
+(function(){
+run(document, 'https://cdn.pbstck.com/collector-cf25573.js', '_.collector.pubstackAutoconfig(' + JSON.stringify({"endpoint":{"script":"https://cdn.pbstck.com/collector-cf25573.js","gateway":"https://intake.pbstck.com/v1/intake"},"scopeId":"b16adf3b-a8a1-4ecc-b404-30a688afb9a7","tagId":"d093eb6d-dd20-4b61-874a-2c0471779362","pbjsVariableName":"pbjs","bootstrapTime":1707134780418,"bootstrapVersion":"undefined","device":"desktop","browserName":"Firefox","browserVersion":"45","osName":"Windows","osVersion":"7","country":"ES"}) + ');');
+})()

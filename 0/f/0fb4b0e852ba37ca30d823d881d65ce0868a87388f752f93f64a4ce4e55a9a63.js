@@ -1,0 +1,1 @@
+.shareStyles-module__share-control__QO7pm{box-sizing:border-box;outline:1px solid transparent;z-index:5;border-radius:8px;box-shadow:0 0 5px 0 rgba(0,0,0,.4);border:none;transform:translate(-50%)}

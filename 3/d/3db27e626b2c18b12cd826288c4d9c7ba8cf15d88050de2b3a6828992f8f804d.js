@@ -1,0 +1,1 @@
+@keyframes blink{0%{opacity:.5}90%{opacity:.8}to{opacity:.5}}

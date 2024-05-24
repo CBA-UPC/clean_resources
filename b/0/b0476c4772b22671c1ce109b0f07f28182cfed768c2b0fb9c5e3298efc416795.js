@@ -1,0 +1,1 @@
+.SectionTitle_title__qjjpz{position:relative;margin-left:15px;letter-spacing:.1rem}.SectionTitle_title__qjjpz:before{content:attr(data-highlight-word);position:absolute;top:0;left:0}.SectionTitle_title__qjjpz[data-highlight-color=white]:before{color:#fff}.SectionTitle_title__qjjpz[data-highlight-color=black]:before{color:#000}

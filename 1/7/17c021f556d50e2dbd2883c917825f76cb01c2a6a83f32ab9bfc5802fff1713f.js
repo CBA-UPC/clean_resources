@@ -1,0 +1,2 @@
+/*! elementor-pro - v3.18.0 - 20-12-2023 */
+"use strict";(self.webpackChunkelementor_pro=self.webpackChunkelementor_pro||[]).push([[50],{8872:(e,t)=>{Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;t.default=elementorModules.frontend.handlers.Base.extend({getDefaultSettings:getDefaultElementsbindEventshandleFormAction)}}]);

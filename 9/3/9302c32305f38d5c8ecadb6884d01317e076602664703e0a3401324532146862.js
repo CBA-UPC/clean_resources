@@ -1,0 +1,1 @@
+.campaignCard--text-discount{font-size:.55rem;line-height:.85rem}

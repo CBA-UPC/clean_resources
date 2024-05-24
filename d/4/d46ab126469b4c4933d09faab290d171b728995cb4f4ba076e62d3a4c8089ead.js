@@ -1,0 +1,6 @@
+
+
+
+![);
+__initializeMutinySlim({"config":{"blacklisted_query_params":{"tve":[]},"track_calendly":false,"track_drift":false,"track_hubspot":false,"tracking_mode":"batch","write_to_segment":true,"api_key":"916165514f17e690","blocked_ips":[],"campaign_query_param_keys":["mt"],"client_iteration":242,"company_slug":"launchdarkly","company_token":"ee9f04850f51f5a2","exposed_user_data_attributes":[],"integrations":["mutiny","window","google_analytics","google_tag_manager","marketo"],"preserve_redirect_query_params":true,"preview":null,"published_at":"2024-01-16T11:33:28.226-08:00","tracked_domains":null,"whitelisted_domains":[]},"selectors":[{"url_host":"launchdarkly.com","url_path":"/exec-management-program/hsbc","selectors":["a[class*=\"withArrow\"]","a.styles-module--linkButton--THpOw","div.styles-module--wrapper--PePLe > a.button"]},{"url_host":"launchdarkly.com","url_path":"/exec-management-program/capital-one","selectors":["a[class*=\"withArrow\"]","a.styles-module--linkButton--THpOw","div.styles-module--wrapper--PePLe > a.button"]},{"url_host":"launchdarkly.com","url_path":"/request-a-demo","selectors":["h1[class*=\"styles\"]"]},{"url_host":"launchdarkly.com","url_path":"/talkin-ship","selectors":["div.styles-module--textContainer--kzvaP > p","div[class*=\"formContent\"] > div:nth-of-type(1) > h2","div.styles-module--textContainer--kzvaP > a"]}]})
+

@@ -1,0 +1,1 @@
+/*! {© 2016 - 2024 Match Group, LLC, ALL RIGHTS RESERVED} */.expandable-view-summary::-webkit-details-marker{display:none}

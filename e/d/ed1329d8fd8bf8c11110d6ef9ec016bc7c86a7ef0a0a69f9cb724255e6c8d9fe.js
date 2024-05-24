@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/82bf3c13a525/6733f7abbcb7/b1a8b77c2576/RCa44ec113a28f4e748d80c755a6fe2c9c-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/82bf3c13a525/6733f7abbcb7/b1a8b77c2576/RCa44ec113a28f4e748d80c755a6fe2c9c-source.min.js', "\"nba:purchase-funnel:payment\"==_satellite.getVar(\"Page: Page Info: Page Name\")&&_satellite.track(\"payments_page\");");

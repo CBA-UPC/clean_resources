@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/80bda08f0087/1015fcf0b78f/d20fe7560048/RC5164a3f0a71345d680514e8a67839757-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/80bda08f0087/1015fcf0b78f/d20fe7560048/RC5164a3f0a71345d680514e8a67839757-source.min.js', "_satellite.setVar(\"has Adobe Analytics Page Track Fired\",!0);");

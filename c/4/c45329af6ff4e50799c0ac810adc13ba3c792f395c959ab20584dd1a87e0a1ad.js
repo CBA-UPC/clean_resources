@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/528526b3f782/ddfab9399b13/3da937b13c51/RC2cc723bbea43472596a5d0ea917b7795-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/528526b3f782/ddfab9399b13/3da937b13c51/RC2cc723bbea43472596a5d0ea917b7795-source.min.js', "if(_satellite.getVar(\"cjs_marketing_ispot_trigger\")){var iSpotIdArr=_satellite.getVar(\"cjs_marketing_ispot_ids\")||[];iSpotIdArr.forEach((function(t){var e=new Image;e.style.display=\"none\",e.src=t.url.concat(t.id,\"?app=web&type=\",t.type)}))}");

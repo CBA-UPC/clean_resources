@@ -1,0 +1,1 @@
+.break-words{word-wrap:anywhere;-webkit-hyphens:auto;-ms-hyphens:auto;hyphens:auto;-moz-hyphens:none;overflow-wrap:break-word;word-break:break-word}

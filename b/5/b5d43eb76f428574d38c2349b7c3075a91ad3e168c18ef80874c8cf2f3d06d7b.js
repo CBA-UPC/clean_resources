@@ -1,0 +1,1 @@
+const a=()=>"GNVer1.1.200",e=export{e as a,a as g};

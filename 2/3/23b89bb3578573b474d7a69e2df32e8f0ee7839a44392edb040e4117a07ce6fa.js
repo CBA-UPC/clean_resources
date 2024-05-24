@@ -1,0 +1,1 @@
+{return console.error("🔔",t,...e),t}static debug(t,...e){return console.debug("🔔",t,...e),t}}}}]);

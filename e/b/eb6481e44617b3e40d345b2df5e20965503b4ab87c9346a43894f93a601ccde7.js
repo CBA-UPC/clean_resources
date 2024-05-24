@@ -1,0 +1,1 @@
+jQuery(document).on("ready fusion-element-render-fusion_alert",;

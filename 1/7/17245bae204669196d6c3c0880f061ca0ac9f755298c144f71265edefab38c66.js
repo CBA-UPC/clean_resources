@@ -1,0 +1,1 @@
+.bold[data-v-67b2dadc]{font-weight:700}.table-secondary[data-v-67b2dadc],.table-secondary td[data-v-67b2dadc]{background-color:rgba(0,0,0,.05)}.table-row-small[data-v-67b2dadc]{font-size:12px}.table-row-small td[data-v-67b2dadc]:first-child{padding-left:40px}

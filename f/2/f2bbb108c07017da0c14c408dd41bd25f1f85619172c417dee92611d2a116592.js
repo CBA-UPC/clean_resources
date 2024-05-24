@@ -1,0 +1,1 @@
+﻿var across_adn_ad_data = {'ad_exist':false};

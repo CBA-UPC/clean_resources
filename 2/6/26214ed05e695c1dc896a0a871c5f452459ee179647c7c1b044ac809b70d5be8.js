@@ -1,0 +1,1 @@
+yolWPJsonp([73],{322:function(t,o,e){"use strict";!function(){tinymce.create("tinymce.plugins.shortcodeMovie",{init:function(t,o){t.addButton("movieShortCodeButton",{title:"movie shortcode",text:"動画カテゴリリンク",type:"menubutton",menu:getCategoryInfo(t)t,o){return null}}),tinymce.PluginManager.add("shortcodeMovieButton",tinymce.plugins.shortcodeMovie)}()}},[322]);

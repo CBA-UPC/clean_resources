@@ -1,0 +1,2 @@
+ padding: 20px 0;\n  display: inline-block;\n"],["\n  padding: 20px 0;\n  display: inline-block;\n"])))}}]);
+//# sourceMappingURL=vendors~gamesOnboardingOfferLandingPage~newsOnboardingOfferLandingPage-77f994b04f94cb3a1e84.js.map

@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.ovkvmf=ASCDP.ovkvmf||{},ASCDP.ovkvmf.propagateOnScroll=function(){for(var v in ovkvmf.registredFrames)ovkvmf.registredFrames.hasOwnProperty(v)&&(ovkvmf.sendWinScroll(v),-1===v.indexOf("ascdplacebo")&&ovkvmf.isVisible(v))};

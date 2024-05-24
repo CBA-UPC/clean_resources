@@ -1,0 +1,1 @@
+@keyframes toTopFromBottom{49%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}50%{opacity:0;-webkit-transform:translateY(100%);transform:translateY(100%)}51%{opacity:1}}@-webkit-keyframes blink{0%{opacity:.5}90%{opacity:.8}to{opacity:.5}}@keyframes blink{0%{opacity:.5}90%{opacity:.8}to{opacity:.5}}

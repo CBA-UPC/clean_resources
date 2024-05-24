@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper_c27b6911_r24-02-0_b0_t240129-161140.js";import{A as t,B as o}from"./vendor_6ed58054_r24-02-0_b0_t240129-161140.js";const r={name:"TrusteeConsentBlackbar"},s={id:"consent_blackbar"};function n(c,a,_,p,i,d){return t(),o("div",s)}const l=e(r,[["render",n]]);export{l as default};

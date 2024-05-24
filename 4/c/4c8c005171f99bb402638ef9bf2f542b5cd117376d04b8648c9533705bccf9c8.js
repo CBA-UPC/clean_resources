@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/764583179334/cc8234bc2247/6530a4a5720b/RC142a6df807bf4a5ba568775accecaeee-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/764583179334/cc8234bc2247/6530a4a5720b/RC142a6df807bf4a5ba568775accecaeee-source.min.js', "<script src=\"https://cdn.trackjs.com/agent/v3/latest/t.js\"></script>\n<script>\n  TrackJS.install({\n    token: \"0c5b97c46b8f4d5e8eda712bf23d518c\",\n    application: \"pingdom\"\n  });\n</script>");

@@ -1,0 +1,1 @@
+window.getLacosteAPI=function(){return{addToCart:async(...t)=>{const{addToCart:o}=await import("../components/addtocart.js");return o(...t)},openLoginPanelWithRefresh:async(...t)=>{const{openLoginPanelWithRefresh:o}=await import("../modules/authentication.js");return o(...t)},urlToBase64:async(...t)=>{const{urlToBase64:o}=await import("../helpers/base64.js");return o(...t)}}};

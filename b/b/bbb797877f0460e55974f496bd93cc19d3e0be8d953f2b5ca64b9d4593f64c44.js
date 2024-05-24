@@ -1,0 +1,2 @@
+uthLinkText":"είσοδος","searchMEItemSelected":"Επιλεγμένο στοιχείο.","searchMESearchComplete":"Η αναζήτηση ολοκληρώθηκε","searchMESearchCleared":"Έγινε απαλοιφή του πεδίου \\"Επεξεργασία αναζήτησης\\"."}}')}}]);
+//# sourceMappingURL=803.5f214785f740c36a7a80.chunk.v7.js.map

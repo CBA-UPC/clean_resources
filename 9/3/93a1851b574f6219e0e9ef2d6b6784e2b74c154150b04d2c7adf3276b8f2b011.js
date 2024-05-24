@@ -1,0 +1,14 @@
+/*!
+ * ------------------------------------------- START OF THIRD PARTY NOTICE -----------------------------------------
+ * 
+ * This file is based on or incorporates material from the projects listed below (Third Party IP). The original copyright notice and the license under which Microsoft received such Third Party IP, are set forth below. Such licenses and notices are provided for informational purposes only. Microsoft licenses the Third Party IP to you under the licensing terms for the Microsoft product. Microsoft reserves all other rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
+ * 
+ *   json2.js (2016-05-01)
+ *   https://github.com/douglascrockford/JSON-js
+ *   License: Public Domain
+ * 
+ * Provided for Informational Purposes Only
+ * 
+ * ----------------------------------------------- END OF THIRD PARTY NOTICE ------------------------------------------
+ */![function(e,n,t){ar o=t(2),i=t(0),a=t(3),s=t(7),u=t(9).getInstance(window.ServerData),c=i.String,l=a.Helper,d=o.KeyCode;.applyExtensions=function(e){var n,t=1,o={};e.components.loaders.unshift({loadComponent:),n=e.bindingHandlers.component.init,e.bindingHandlers.component.init=e.bindingHandlers.pageViewComponent={init:,e.bindingHandlers.component.preprocess=e.bindingHandlers.defineGlobals={init:,e.bindingHandlers.autoSubmit={update:,e.bindingHandlers.postRedirectForm={init:update:,e.bindingHandlers.href={update:function(n,t){e.bindingHandlers.attr.update(n,(function(){return{href:t()}}))}},e.bindingHandlers.placeholder={update:,e.bindingHandlers.ariaLabel={update:function(n,t){e.bindingHandlers.attr.update(n,(function(){return{"aria-label":t()}}))}},e.bindingHandlers.ariaDescribedBy={update:,e.bindingHandlers.htmlWithBindings={init:update:,e.bindingHandlers.backgroundImage={update:,e.bindingHandlers.addEventHandlers={init:,e.bindingHandlers.wizardCssCheck={update:,e.bindingHandlers.withProperties={init:,e.bindingHandlers.clickExpr={preprocess:init:,e.bindingHandlers.imgSrc={init:,e.bindingHandlers.svgSrc={update:,e.bindingHandlers.injectScript={init:,e.bindingHandlers.injectIframe={init:,e.bindingHandlers.injectDfpIframe={init:,e.bindingHandlers.hasFocusEx={init:e.bindingHandlers.hasFocus.init,update:,e.bindingHandlers.preventTabbing={init:,e.bindingHandlers.ariaHidden={update:,e.bindingHandlers.moveOffScreen={update:,e.bindingHandlers.pressEnter={init:,e.bindingHandlers.isScrolledToBottom={init:update:,e.bindingHandlers.animationEnd={init:,e.bindingHandlers.htmlWithMods={init:,e.bindingHandlers.externalCss={update:,e.virtualElements.allowedBindings.withProperties=!0,(e.options=e.options||{}).createChildContextWithAs=!0}},),window.__FetchSessions_Core=!0;
+//# sourceMappingURL=b4b7edf49ba6366dbf92.map

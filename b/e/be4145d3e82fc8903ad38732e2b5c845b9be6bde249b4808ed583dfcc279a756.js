@@ -1,0 +1,2 @@
+/*! For license information please see _bundle.js.LICENSE.txt */
+p(t+"=([^&]*)","i"),n=(r.getAttribute("data-wovnio")||"").match(e);return n?"false"!==n[1]&&n[1]:""}};return l}(o,a,i,u,t,e,n);return Cb(r).then((function(){}))}window.WOVN=null;window.Wovnio=null;e.WOVNIO=null}))}function Cb(e){return new t.Promise((function(t){var n=document.getElementsByTagName("html")[0];if(n&&ke(n,"wovn-ignore"))t(e);else{e.c("WidgetInit").start((function(){return t(e)}))}}))}0;if(window._wovnIsQUnitTest){null}else document.WOVNIO||Tb(document,location,localStorage)}()}();

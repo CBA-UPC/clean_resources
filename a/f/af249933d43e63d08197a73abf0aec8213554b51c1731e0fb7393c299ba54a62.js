@@ -1,0 +1,2 @@
+d 0:t,onMouseEnter:n?void 0:this.onMouseEnter,onMouseLeave:n?void 0:this.onMouseLeave}))},n.displayName="WithControl@desktop("+(0,s.G)(e)+")",n}(r.PureComponent);return t}}}]);
+//# sourceMappingURL=https://s3.mds.yandex.net/passport-source-maps/core/v1.136.6/react.authv2.lego.ru.js.map

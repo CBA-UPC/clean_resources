@@ -1,0 +1,2 @@
+okie&&a()})),c(),window.addEventListener("message",(e=>{e.data.readOldCookie&&c()})),window.parent.postMessage("iframeContentLoaded","*")}();
+//# sourceMappingURL=3pc.js.map</script></head><body></body></html>

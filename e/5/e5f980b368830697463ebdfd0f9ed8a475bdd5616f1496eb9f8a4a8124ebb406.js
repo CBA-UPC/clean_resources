@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[7487],{3203:7487:function(e,o,t){t.r(o);var n=t(6994),r=t.n(n),A=t(3203),i={insert:"head",singleton:!1};r()(A.Z,i);o.default=A.Z.locals||{}}}]);
+//# sourceMappingURL=7487.js.map?id=65a24da3d67658b0

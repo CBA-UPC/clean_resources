@@ -1,0 +1,1 @@
+<img src='https://ib.adnxs.com/prebid/setuid?bidder=amx&gdpr=&gdpr_consent=&gpp=&gpp_sid=&f=b&uid=' /><script src='https://assets.a-mo.net/js/n1.js'></script>

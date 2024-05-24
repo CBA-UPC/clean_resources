@@ -1,0 +1,2 @@
+import{A as e,B as t,I as o}from"./vendor_6ed58054_r24-02-0_b0_t240129-161140.js";const r={xmlns:"http://www.w3.org/2000/svg",width:"10",height:"10",fill:"none",viewBox:"0 0 10 10"},s=o("path",{stroke:"currentColor","stroke-linecap":"round","stroke-width":"2",d:"M1 5h8M5 9V1"},null,-1),n=[s];function c(l,a){return e(),t("svg",r,n)}const h={render:c};export{h as default,c as render};
+t,c as render};

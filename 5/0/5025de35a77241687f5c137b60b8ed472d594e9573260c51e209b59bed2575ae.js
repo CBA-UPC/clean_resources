@@ -1,0 +1,1 @@
+table{margin-top:16px}table th{text-align:left}[style*=font]{font-weight:300!important}

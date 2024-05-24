@@ -1,0 +1,7 @@
+(function() {window.PARSELY = window.PARSELY || {}; window.PARSELY.version = "2.1.0"; window.PARSELY.majorVersion = 2; window.PARSELY.hotfixName = ""; window.PARSELY.flavor = "conversions-engagedtime-slots-video"; window.PARSELY.__template_track_ips = false; window.PARSELY.__template_heartbeat_should_honor_autotrack = undefined; window.PARSELY.__template_limit_et_sample_len = false; window.PARSELY.__template_apikey = "skysport.it"; window.PARSELY.__template_is_first_party = false; window.PARSELY.__template_pixelhost = ""; window.PARSELY.__template_customizations = {"customer":{"apikey":"skysport.it"},"conversions":[{"type":"Newsletter Signup","selector":"button#button1","documentSelector":"iframe[id*='lightbox-iframe']","event":"digioh","label":"Newsletter Subscription"},{"type":"Lead Capture","selector":"a[href*='https://tg24.sky.it/messenger']","event":"click","label":"Messenger Subscription"},{"type":"Link Click","selector":"div.getsocial a","event":"click","label":"Share","poll":true}]}; })();
+
+/*! parsely-js-api - v2.1.0 - 2022-07-21
+ * http://www.parsely.com/
+ * 2022 Parsely, Inc. */
+
+indow.PARSELY=window.PARSELY||{},),),"object"!==("undefined"==typeof JSON?"undefined":_typeof(JSON))&&(JSON={}),),),"undefined"!=typeof window?window:this,,"undefined"==typeof window.PARSELY&&(window.PARSELY={}),0,,),this.PARSELY),this.PARSELY),),),),),this.PARSELY),),),),),),),);

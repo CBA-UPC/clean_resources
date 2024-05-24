@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.getLocalData=function(){if(document.cookie)for(var o=document.cookie.split(";"),a=0;a<o.length;a++){var t=o[a].split("=");ASCDP.pageSet.cookies[t[0].trim()]=t[1]}};

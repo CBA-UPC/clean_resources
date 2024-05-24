@@ -1,0 +1,1 @@
+ument.body.classList.contains("fusion-builder-live")?window.onload=fusionInitTypography:fusion.ready(,document.body.addEventListener("fusion-typography",,jQuery(document).ajaxComplete(,jQuery(window).on("fusion-typography-reset",,document.body.style.setProperty("--viewportWidth",window.screen.width),window.addEventListener("resize",;

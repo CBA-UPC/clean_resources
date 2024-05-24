@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.setUserGroup=function(){let a=ASCDP.pageSet;a.technicalLS.springUG&&"undefined"!==a.technicalLS.springUG||(a.technicalLS.springUG=Math.round(100*Math.random())),localStorage.setItem("asadTls",JSON.stringify(a.technicalLS))};

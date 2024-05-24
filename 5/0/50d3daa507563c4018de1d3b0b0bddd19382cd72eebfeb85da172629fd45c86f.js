@@ -1,0 +1,2 @@
+import{l as r,j as a}from"./rsa-plugins-common.min.js";import{d as t}from"./rsa-plugins-legacyEncryptionUtils.min.js";const e="StorageMigrator",l=()=>({name:e,initialize:r=>{r.plugins.loadedPlugins.value=[...r.plugins.loadedPlugins.value,e]},storage:{migrate(e,l,n,o){try{const n=l.getItem(e);if(r(n))return null;let o=t(n);return o===n&&(o=a(n)),r(o)?null:JSON.parse(o)}catch(r){return null==n||n.onError(r,"StorageMigratorPlugin",((e)),null}}}});export{l as StorageMigrator,l as default};
+//# sourceMappingURL=rsa-plugins-remote-StorageMigrator.min.js.map

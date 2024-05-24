@@ -1,0 +1,1 @@
+try{document.getElementById('PX-Tab-3d').innerHTML = '';}catch(e){};

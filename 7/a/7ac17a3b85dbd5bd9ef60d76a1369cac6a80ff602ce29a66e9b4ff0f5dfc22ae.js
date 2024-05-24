@@ -1,0 +1,1 @@
+const r=typeof window<"u"?window:typeof globalThis<"u"?globalThis:global;let i;const l=new Uint8Array(16);onst t=[];for(let n=0;n<256;++n)t.push((n+256).toString(16).slice(1));onst g=typeof crypto<"u"&&crypto.randomUUID&&crypto.randomUUID.bind(crypto),c={randomUUID:g};xport{r as g,m as v};

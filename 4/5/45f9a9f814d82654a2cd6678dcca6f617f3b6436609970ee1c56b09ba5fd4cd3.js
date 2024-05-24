@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/1eecba5bc341/de159831b208/94d16b5ef8e9/RCc24ec1ca77bc47b9b7026452a9966b36-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/1eecba5bc341/de159831b208/94d16b5ef8e9/RCc24ec1ca77bc47b9b7026452a9966b36-source.min.js', "var op=_satellite.getVar(\"operatore\");adobe.target.trackEvent({mbox:\"mboxOperatore\",params:{operatoreType:op}});");

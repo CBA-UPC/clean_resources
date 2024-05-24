@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/dca8f73c45d4/3a5f7a2d196e/364e8900c69f/RC1a28e3ed51574ebbb272ec786ffa172c-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/dca8f73c45d4/3a5f7a2d196e/364e8900c69f/RC1a28e3ed51574ebbb272ec786ffa172c-source.min.js', "<!--\n  #QSIFeedbackButton-pullup-container {\n      top: 10% !important;\n      height: 85% !important;\n  }  \n-->\n\n<style>  \n  #QSIFeedbackButton-overlay-container {\n      width: 70% !important;\n      height: 85% !important;\n  }\n</style>");

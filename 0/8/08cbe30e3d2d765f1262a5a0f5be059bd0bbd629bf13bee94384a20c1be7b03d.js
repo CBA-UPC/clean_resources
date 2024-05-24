@@ -1,0 +1,1 @@
+.detail___Jwg0b{background:#f5f5f5}.detail___Jwg0b .title___1f_Ty{font-size:24px;font-weight:500;line-height:24px;color:rgba(0,0,0,.87);overflow-wrap:break-word;padding:16px 12px;background:#fff}

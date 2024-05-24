@@ -1,0 +1,1 @@
+!,jQuery.cookie=jQuery(document).ready(;

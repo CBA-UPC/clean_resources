@@ -1,0 +1,24 @@
+
+/*@preserve
+***Version 1.106.0***
+*/
+
+/*@license
+ *                       Copyright 2002 - 2018 Qualtrics, LLC.
+ *                                All rights reserved.
+ *
+ * Notice: All code, text, concepts, and other information herein (collectively, the
+ * "Materials") are the sole property of Qualtrics, LLC, except to the extent
+ * otherwise indicated. The Materials are proprietary to Qualtrics and are protected
+ * under all applicable laws, including copyright, patent (as applicable), trade
+ * secret, and contract law. Disclosure or reproduction of any Materials is strictly
+ * prohibited without the express prior written consent of an authorized signatory
+ * of Qualtrics. For disclosure requests, please contact notice@qualtrics.com.
+ */
+
+n()];case 3:if((u=i.sent()).error)throw""+u.desc;return u.done?P(u.done):u.questions&&u.questions.length&&(p(!1),T(!1),v(u)),[3,5];case 4:return s=i.sent(),window.QSI.dbg.e("Error closing survey "+e+": "+s.toString()),O(!0),[3,5];case 5:return[2]}}))}))}),[b,e]),B=Object(r.a)((function(){return a(l,void 0,void 0,(function(){var r,a,o,u,c,l,g,f,d,S;return i(this,(function(i){switch(i.label){case 0:Q(!0),i.label=1;case 1:return i.trys.push([1,4,,5]),r={},n&&t&&(a=window.QSI.Request[n].Intercepts[t].Targeting||{},o=a.ContactID,u=a.DistributionID,c=a.DirectoryID,o&&u&&c&&(r.Q_Touchpoint=u+"_"+o+"_"+c)),l="",s&&(l="?Q_SurveyVersionID="+s),g=window.QSI.config.brandId||window.QSI.global.brandID||window.location.host,f="Q_BRANDID="+encodeURIComponent(g),0==l.length?l+="?"+f:l+="&"+f,[4,fetch(H+"/sessions"+l,{method:"POST",mode:"cors",headers:{"Content-Type":"application/json"},body:JSON.stringify({embeddedData:r})})];case 2:return[4,i.sent().json()];case 3:if((d=i.sent()).error)throw""+d.desc;return v(d),window.QSI.config.surveySessionId=d.sessionId,[3,5];case 4:return S=i.sent(),O(!0),window.QSI.dbg.e("Error starting survey session for survey "+e+": "+S.toString()),[3,5];case 5:return[2]}}))}))}),[v,e]);return Object(r.d)((function(){L||b||D||!g.length&&!c||B()}),[b,D,d,L,c]),Object(r.d)((function(){L||b&&y&&g.length&&!m&&j()}),[b,y,m,L]),{enqueueResponse:U,closeSurvey:k,surveySession:b,doneMessage:C}}}]]);
+} catch(e) {
+  if (typeof QSI !== 'undefined' && QSI.dbg && QSI.dbg.e) {
+    QSI.dbg.e(e);
+  }
+}

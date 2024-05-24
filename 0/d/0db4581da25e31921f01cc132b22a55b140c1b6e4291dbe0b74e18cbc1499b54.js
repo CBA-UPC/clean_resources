@@ -1,0 +1,1 @@
+Query(document).ready(,jQuery(window).on("load fusion-sticky-change fusion-resize-horizontal",fusionInitStickyColumns);

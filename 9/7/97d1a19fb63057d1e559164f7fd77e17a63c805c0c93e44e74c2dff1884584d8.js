@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/92c238f848e3/7634fe33bd4f/ed2152575416/RC68426709cd7743c5a576a931b307453f-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/92c238f848e3/7634fe33bd4f/ed2152575416/RC68426709cd7743c5a576a931b307453f-source.min.js', "_linkedin_data_partner_id=\"37981\",function(){var t=document.getElementsByTagName(\"script\")[0],e=document.createElement(\"script\");e.type=\"text/javascript\",e.async=!0,e.src=\"https://snap.licdn.com/li.lms-analytics/insight.min.js\",t.parentNode.insertBefore(e,t)}();");

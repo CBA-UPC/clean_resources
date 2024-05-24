@@ -1,0 +1,1 @@
+import{AttributePart as i,directive as t}from"../lit-html.js";const o=new WeakMap;export const ifDefined=t(value=>part=>{const t=o.get(part);if(value===undefined&&part instanceof i){if(t!==undefined||!o.has(part)){const name=part.committer.name;part.committer.element.removeAttribute(name)}}else if(value!==t){part.setValue(value)}o.set(part,value)});

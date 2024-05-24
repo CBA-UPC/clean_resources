@@ -1,0 +1,1 @@
+const o=new WeakMap;export const directive=f=>(...t)=>{const d=f(...t);o.set(d,true);return d};export const isDirective=t=>{return typeof t==="function"&&o.has(t)};

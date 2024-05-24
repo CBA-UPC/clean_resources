@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.getSChain=function(){return{validation:"strict",config:{ver:"1.0",complete:1,nodes:[{asi:"mediaimpact.de",sid:ASCDP.pageSet.SChainId,hp:1}]}}};

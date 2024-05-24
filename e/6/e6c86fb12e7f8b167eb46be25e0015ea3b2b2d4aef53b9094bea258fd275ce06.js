@@ -1,0 +1,1 @@
+@media screen and (min-width:600px){.p-main-contents figure{max-width:100%}}

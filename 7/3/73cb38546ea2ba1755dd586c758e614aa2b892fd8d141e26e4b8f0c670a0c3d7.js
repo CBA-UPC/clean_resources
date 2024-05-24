@@ -1,0 +1,1 @@
+<VAST version="3.0"><Error><![CDATA[ 没有可展示的广告 ]]></Error></VAST>

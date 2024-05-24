@@ -1,0 +1,1 @@
+svg circle[data-v-74716c6c]{fill:var(--color)}@media (max-width:768px){svg circle[data-v-74716c6c]{fill:var(--mobile-color)}}svg circle[data-v-1a648f67]{fill:var(--color)}@media (max-width:768px){svg circle[data-v-1a648f67]{fill:var(--mobile-color)}}

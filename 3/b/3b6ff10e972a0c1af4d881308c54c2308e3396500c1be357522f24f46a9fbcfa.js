@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/530368109655/f1f8bc547915/d60514f8bf87/RC1b94b3e65d5246f88e182a50945c6448-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/530368109655/f1f8bc547915/d60514f8bf87/RC1b94b3e65d5246f88e182a50945c6448-source.min.js', "var vendor=\"<!-- Vendor: FullStory| -->\",uid=_satellite.getVar(\"Login ID\");uid&&FS.identify(uid);");

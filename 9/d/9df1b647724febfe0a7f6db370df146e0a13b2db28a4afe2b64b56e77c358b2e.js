@@ -1,0 +1,14 @@
+var var_583iwwym6v = '';
+var_583iwwym6v += "<"+"script type=\"application/javascript\">\n";
+var_583iwwym6v += "var ad_idzone = \"5126806\",\n";
+var_583iwwym6v += "ad_popup_fallback = false,\n";
+var_583iwwym6v += "ad_popup_force = false,\n";
+var_583iwwym6v += "ad_chrome_enabled = true,\n";
+var_583iwwym6v += "ad_new_tab = false,\n";
+var_583iwwym6v += "ad_frequency_period = 60,\n";
+var_583iwwym6v += "ad_frequency_count = 1,\n";
+var_583iwwym6v += "ad_trigger_method = 3,\n";
+var_583iwwym6v += "ad_trigger_delay = 0;\n";
+var_583iwwym6v += "<"+"/script>\n";
+var_583iwwym6v += "<"+"script type=\"application/javascript\" src=\"https://a.pemsrv.com/popunder1000.js\"><"+"/script>\n";
+document.write(var_583iwwym6v);

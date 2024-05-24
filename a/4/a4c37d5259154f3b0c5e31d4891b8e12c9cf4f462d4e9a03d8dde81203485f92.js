@@ -1,0 +1,1 @@
+window._bcp=window._bcp||{},window._bcp.engagementRanker=window._bcp.engagementRanker||{},window._bcp.engagementRanker.RESERVED_TERMS=["constructor","hasownproperty","ispropertyof","propertyisenumerable","tolocalestring","tostring","valueof"];

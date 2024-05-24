@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1292],{51292:function(e,a,t){t.r(a),t(32735);var s=t(99),l=t(74512);function r(e){var a=e.source,t=e.onLoadCallback,r=(0,s.Z)(),c=r.css;return r.theme,(0,l.jsx)("div",{className:c({textAlign:"center"}),children:(0,l.jsx)("iframe",{title:"Spotify",src:a,frameBorder:"0",onLoad:t,className:c({width:"100%",maxWidth:"640px",height:"152px"})})})}r.defaultProps={onLoadCallback:null},a.default=r}}]);
+//# sourceMappingURL=1292.d1551d6541b28e6a.js.map

@@ -1,0 +1,1 @@
+import{directive as t}from"../lit-html.js";const i=new WeakMap;export const guard=t((value,f)=>part=>{const o=i.get(part);if(Array.isArray(value)){if(Array.isArray(o)&&o.length===value.length&&value.every(){return}}else if(o===value&&(value!==undefined||i.has(part))){return}part.setValue(f());i.set(part,Array.isArray(value)?Array.from(value):value)});

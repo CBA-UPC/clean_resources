@@ -1,0 +1,1 @@
+const o=(e=[],n=null,l=new Event("default"))=>{const t=l.keyCode||l.which,f=e[e.length-1].hasAttribute("disabled")?e[e.length-2]:e[e.length-1];t===27?n&&n(l):l.target===f&&!l.shiftKey&&t===9?(l.preventDefault(),e[0].focus()):l.target===e[0]&&l.shiftKey&&t===9&&(l.preventDefault(),e[e.length-1].focus())};export{o as t};

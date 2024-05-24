@@ -1,0 +1,5 @@
+/**
+ * @file
+ * Progress bar.
+ */
+

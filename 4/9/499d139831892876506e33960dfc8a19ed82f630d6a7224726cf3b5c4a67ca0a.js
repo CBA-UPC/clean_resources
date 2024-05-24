@@ -1,0 +1,1 @@
+.threadShare-image{height:216px}

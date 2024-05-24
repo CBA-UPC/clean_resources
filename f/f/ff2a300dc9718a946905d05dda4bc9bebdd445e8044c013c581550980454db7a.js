@@ -1,0 +1,1 @@
+(function() { if (window.__asumi__ === undefined) { document.write('<script type="text/javascript" charset="utf-8" src="//cnobi.jp/v1/asumi/arms/1.17.46"></script>'); } document.write('<script type="text/javascript" charset="utf-8" src="//asumi.shinobi.jp/fire?f=190"></script>'); })();

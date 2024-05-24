@@ -1,0 +1,1 @@
+/*! {© 2016 - 2024 Match Group, LLC, ALL RIGHTS RESERVED} */.liked_photoSquare__img:first-child{transform:translate(60px,16px) rotate(-16deg)}.liked_photoSquare__img:nth-child(2){height:168px;width:126px;z-index:1}.liked_photoSquare__img:nth-child(3){transform:translate(-60px,16px) rotate(16deg)}

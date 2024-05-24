@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.rescaleAll=function(){ASCDP.adS.loadModules(["backchanger","getNavHeight","getBarHeight","calcX"],function(){for(var e=ASCDP.adS,a=0;a<e.resizeArr.length;a++)e.adElts[e.resizeArr[a]].rescale&&e.adElts[e.resizeArr[a]].rescale();e.backchanger(),ovkvmf.propagateWinResize()})};

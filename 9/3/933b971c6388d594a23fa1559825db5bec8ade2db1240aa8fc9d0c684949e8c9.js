@@ -1,0 +1,1 @@
+{"ok":false,"error":{"code":"MethodNotAllowedError","message":"GET is not allowed"}}

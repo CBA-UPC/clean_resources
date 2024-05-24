@@ -1,0 +1,2 @@
+cription":"તમારે આ એપ્લિકેશનનો ઉપયોગ કરવા માટે {0} કરવાની જરૂર પડશે.","searchMEAuthLinkText":"સાઇન ઇન કરો","searchMEItemSelected":"આઇટમ પસંદ કરી.","searchMESearchComplete":"શોધ પૂર્ણ","searchMESearchCleared":"શોધ સંપાદન ફીલ્ડ સાફ કર્યું."}}')}}]);
+//# sourceMappingURL=831.7a5be0e6517a228a9036.chunk.v7.js.map

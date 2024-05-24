@@ -1,0 +1,1 @@
+yolWPJsonp([32],{362:function(s,t,o){"use strict";var i=o(1);i(function(){i(".taros-btn-js").on("click",function(s){i(this).prop("disabled",!0),i(this).closest("form").submit()})})}},[362]);

@@ -1,0 +1,2 @@
+"use strict";(("undefined"!=typeof self?self:global).webpackChunkclient_web=("undefined"!=typeof self?self:global).webpackChunkclient_web||[]).push([[1021],{47753:(e,t,s)=>{s.d(t,{w:()=>o});var a=s(39017),n=s(8517),r=s(7116);const c=o=e=>{const t=["concertInCollection",e];return(0,a.useQuery)(t,c,{keepPreviousData:!1,retry:!1,enabled:!!e.username})}},9085:}}]);
+//# sourceMappingURL=this-is-playlist-concerts-carousel.b58e7c7e.js.map

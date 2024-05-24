@@ -1,0 +1,2 @@
+(window.officehome_webpackJsonp=window.officehome_webpackJsonp||[]).push([[799],{"/hz1":overStorageMissingFeaturesMessage":"Currently, you\'re not able to:","overStorageNotAbleToUploadOrEditInfo":"Upload new files or edit existing files","overStorageNotAbleToSendRecieveEmailsInfo":"Send or recieve emails on Outlook","overStorageNotAbleToBackUpFilesInfo":"Back up new files from your PC or phone","getMoreStorageButtonText":"Get more storage","doItLaterButtonText":"I\'ll do it later"}}')}}]);
+//# sourceMappingURL=799.96141cfa6dd6f69aaf97.chunk.v7.js.map

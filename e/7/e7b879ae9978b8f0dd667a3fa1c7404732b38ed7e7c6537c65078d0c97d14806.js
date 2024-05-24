@@ -1,0 +1,1 @@
+.scroll-indicator{background:#ffc300;bottom:0;height:4px;-webkit-transition:width .1s;transition:width .1s;width:0}@media screen and (prefers-reduced-motion:reduce){.scroll-indicator{-webkit-transition:none;transition:none}}

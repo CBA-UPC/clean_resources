@@ -1,0 +1,30 @@
+(function(_ds){var window=this;try{customElements.define("devsite-fast-track-profile-creator",_ds.HK)}catch(a){console.warn("Unrecognized DevSite custom element - DevsiteFastTrackProfileCreator",a)};})(_ds_www);
+n,input,ul,li){all:unset}.toggle,label{cursor:pointer}.toggle{border-radius:18px;color:var(--devsite-appearance-selector-toggle-color,var(--devsite-secondary-text-color));display:grid;height:36px;place-content:center;visibility:visible;width:36px}.toggle:is(:hover,:focus){background:var(--devsite-appearance-selector-toggle-background-hover,var(--devsite-header-link-background-hover,var(--devsite-background-3)))}.menu{background:var(--devsite-appearance-selector-menu-background,var(--devsite-background-1));border:var(--devsite-list-border,var(--devsite-secondary-border));border-radius:var(--devsite-list-border-radius,2px);box-shadow:0 1px 2px 0 var(--devsite-elevation-key-shadow-color),0 2px 6px 2px var(--devsite-elevation-ambient-shadow-color);left:0;list-style:none;padding:8px 0;position:absolute;top:36px;-webkit-transform:var(--devsite-appearance-selector-menu-transform);transform:var(--devsite-appearance-selector-menu-transform)}[hidden]{display:none}label{-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;font-size:14px;outline:0;padding-block:12px;padding-inline:16px;white-space:nowrap}input:focus+label,label:hover{background:var(--devsite-appearance-selector-menu-background-hover,var(--devsite-background-3))}input:checked+label,input:checked+label:before{background:var(--devsite-appearance-selector-menu-background-selected,var(--devsite-item-background-selected,var(--devsite-background-3)));font-weight:var(--devsite-item-font-weight-selected,500)}label:before{margin-inline:0 8px}:is([data-appearance],[for]):before{font:24px/24px Material Icons;-webkit-font-feature-settings:"liga";-moz-font-feature-settings:"liga";font-feature-settings:"liga";-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;text-transform:none;word-wrap:normal}:is([data-appearance=dark],[for=dark]):before{content:"dark_mode"}:is([data-appearance=light],[for=light]):before{content:"light_mode"}:is([data-appearance=device],[for=device]):before{content:"brightness_medium"}']);var NU=[{label:"\u30e9\u30a4\u30c8\u30e2\u30fc\u30c9",value:"light"},{label:"\u30c0\u30fc\u30af\u30e2\u30fc\u30c9",value:"dark"},{label:"\u30c7\u30d0\u30a4\u30b9\u306e\u30c7\u30d5\u30a9\u30eb\u30c8",value:"device"}],OU=function(a){_ds.un(a.preference);a.dispatchEvent(new CustomEvent("devsite-appearance-updated",{detail:{preference:a.preference},bubbles:!0}))},PU=async function(a,b){const c=b.value;a.label=b.label;a.preference=c;OU(a);await (await _ds.v()).getStorage().set("devsite-appearance","",
+a.preference);a.dispatchEvent(new CustomEvent("devsite-analytics-observation",{detail:{category:"Site-Wide Custom Events",label:"Appearance selector",action:`change to ${a.preference} preference`},bubbles:!0}));a.open=!1},QU=function(a){const b=e=>{e.target!==a&&(a.open=!1,d())};a.eventHandler.listen(document.body,"click",b);const c=e=>{"Escape"===e.key&&(a.open=!1,a.toggle.focus(),d())};a.eventHandler.listen(document.body,"keydown",c);const d=()=>{a.eventHandler.unlisten(document.body,"click",b);
+a.eventHandler.unlisten(document.body,"keydown",c)}},RU=class extends _ds.yI{static get styles(){return MU}constructor(){super();this.eventHandler=new _ds.H;this.g=[];this.label="";this.open=!1;this.preference="light";this.g=NU.map(a=>a.value)}disconnectedCallback(){super.disconnectedCallback();_ds.I(this.eventHandler)}async Vb(){let a=await (await _ds.v()).getStorage().get("devsite-appearance",""),b;(null==(b=this.g)?0:b.includes(a))||(a="light");this.preference=a;this.eventHandler.listen(document.body,
+"devsite-content-updated",()=>{_ds.un(this.preference)});let c;this.label=(null==(c=NU.find(d=>d.value===this.preference))?void 0:c.label)||"\u30e9\u30a4\u30c8\u30e2\u30fc\u30c9";OU(this)}async j(){if(this.open=!this.open){await this.h;const b=this.Jd.querySelector(".menu");if(b){b.style.setProperty("--devsite-appearance-selector-menu-transform","translate3d(0, 0, 0)");const {x:d,width:e}=b.getBoundingClientRect();var a="rtl"===document.documentElement.getAttribute("dir");const f=this.Jd.querySelector(".toggle");
+if(f){let g=0;a&&0>d?g=Math.abs(d)+e+((null==f?void 0:f.getBoundingClientRect().x)||0):!a&&0>window.innerWidth-(d+e)&&(a=(null==f?void 0:f.getBoundingClientRect().x)+(null==f?void 0:f.getBoundingClientRect().width),g=d+e-a);b.style.setProperty("--devsite-appearance-selector-menu-transform",`translate3d(-${g}px, 0, 0)`)}}let c;null==(c=this.Jd.querySelector("[checked]"))||c.focus();QU(this)}}render(){const a=`${"\u5916\u89b3"}: ${this.label}`;return(0,_ds.Z)` <button
+        type="button"
+        aria-controls="menu"
+        aria-haspopup="true"
+        aria-label="${a}"
+        class="toggle"
+        data-appearance="${this.preference}"
+        data-title="${a}"
+        @click="${this.j}"></button>
+      <ul class="menu" role="dialog" id="menu" ?hidden=${!this.open}>
+        ${NU.map(b=>{const c=b.value;return(0,_ds.Z)` <li>
+            <input
+              type="radio"
+              name="appearance"
+              id="${c}"
+              value="${c}"
+              @keydown="${d=>{"Enter"===d.key&&PU(this,b)}}"
+              ?checked="${c===this.preference}" />
+            <label
+              for="${c}"
+              @click="${()=>void PU(this,b)}">
+              ${b.label}
+            </label>
+          </li>`})}
+      </ul>`}};_ds.x([_ds.Q(),_ds.y(Object)],RU.prototype,"label",void 0);_ds.x([_ds.Q(),_ds.y(Object)],RU.prototype,"open",void 0);_ds.x([_ds.Q(),_ds.y(Object)],RU.prototype,"preference",void 0);_ds.x([_ds.lr("button"),_ds.y(HTMLButtonElement)],RU.prototype,"toggle",void 0);try{customElements.define("devsite-appearance-selector",RU)}catch(a){console.warn("Unrecognized DevSite custom element - DevsiteAppearanceSelector",a)};})(_ds_www);

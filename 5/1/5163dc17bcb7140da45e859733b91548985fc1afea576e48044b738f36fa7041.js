@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.sendEvent=function(e,n,t){var d;try{d=new CustomEvent(e,{detail:n})}catch(t){(d=document.createEvent("CustomEvent")).initCustomEvent(e,!0,!0,{detail:n})}(t||window).dispatchEvent(d),ASCDP.adS.debug&&window.console&&console.log("%cADLIB: event "+e+" dispatched",ASCDP.adS.logColor,n)};

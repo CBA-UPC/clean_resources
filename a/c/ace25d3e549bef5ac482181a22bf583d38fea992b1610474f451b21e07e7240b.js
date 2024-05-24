@@ -1,0 +1,1 @@
+function e(){return!!navigator.userAgentData?.platform?.match(/windows/i)||!!navigator.userAgent.match(/windows/i)}function i(){return"share"in navigator}function n(){return window.storeViewModel?.environmentName}function o(){return n()==="Production"}function r(){return window.storeViewModel?.version}export{r as a,e as b,i as c,n as e,o as i};

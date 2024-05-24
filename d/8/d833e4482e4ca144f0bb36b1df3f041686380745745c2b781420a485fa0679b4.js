@@ -1,0 +1,2 @@
+yText":{"s":"Không thể loại bỏ nhãn","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"Tổ chức của bạn yêu cầu bạn dán nhãn mục này.","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings83.590a3ecae404b42c5a7f.chunk.v7.js.map

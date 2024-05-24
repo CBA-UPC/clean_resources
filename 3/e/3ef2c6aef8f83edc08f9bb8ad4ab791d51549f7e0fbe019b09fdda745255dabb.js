@@ -1,0 +1,1 @@
+/*! {© 2016 - 2024 Match Group, LLC, ALL RIGHTS RESERVED} */.flip-button-animation{animation-name:flipToReval}@keyframes flipToReval{0%{transform:rotateY(0)}10%{transform:rotateY(90deg)}20%,70%{transform:rotateY(180deg)}80%{transform:rotateY(270deg)}to{transform:rotateY(1turn)}}

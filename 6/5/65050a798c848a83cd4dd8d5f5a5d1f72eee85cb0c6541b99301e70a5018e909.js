@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/82bf3c13a525/6733f7abbcb7/b1a8b77c2576/RC21e0b07fb783469c937a3a36edc4256d-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/82bf3c13a525/6733f7abbcb7/b1a8b77c2576/RC21e0b07fb783469c937a3a36edc4256d-source.min.js', "_satellite.track(\"ContentSquare Main Tag Trigger\");");

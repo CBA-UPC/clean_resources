@@ -1,0 +1,25 @@
+
+/*@preserve
+***Version 1.95.0***
+*/
+
+/*@license
+ *                       Copyright 2002 - 2018 Qualtrics, LLC.
+ *                        CONFIDENTIAL.  All rights reserved.
+ *
+ * Notice: All code, text, concepts, and other information herein (collectively, the
+ * "Materials") are the sole property of Qualtrics, LLC, except to the extent
+ * otherwise indicated. The Materials are proprietary to Qualtrics and are protected
+ * under all applicable laws, including copyright, patent (as applicable), trade
+ * secret, and contract law. Disclosure or reproduction of any Materials is strictly
+ * prohibited without the express prior written consent of an authorized signatory
+ * of Qualtrics. For disclosure requests, please contact notice@qualtrics.com.
+ */
+
+try {
+  ![function(e,t){void 0===window.QSI.WebResponsiveDialog&&(QSI.WebResponsiveDialog={CREATIVE_CONTAINER_CLASS:QSI.BuildResponsiveElementModule.PARENT_CONTAINER_CLASS+"-creative-container",smallViewportBreakpoint:768,smallLivePreviewerViewportBreakpoint:330,Animation:{TYPES:{FADE:"fade",SLIDE_IN:"slide-in"},fade:{initCreativeStyles:function(e){e.style.opacity=0,e.style.transform="translateY(40px)",e.style.margin="8%"},updateCreativeAnimationStyles:setInitialCreativeStyles:function(e){this.initCreativeStyles(e)},setCreativeAnimationStyles:function(e){this.updateCreativeAnimationStyles(e)},initLivePreviewerCreativeAnimationStyles:function(e){this.initCreativeStyles(e)},updateLivePreviewerCreativeAnimationStyles:addCreativeTransitionEndListener:,"slide-in":{TOP_LEFT:"top-left",TOP_RIGHT:"top-right",BOTTOM_LEFT:"bottom-left",BOTTOM_RIGHT:"bottom-right",initMobileViewportStyles:initDesktopViewportStyles:updateMobileViewportAnimationStyles:updateDesktopViewportAnimationStyles:setInitialCreativeStyles:function(e,t){QSI.WebResponsiveDialog.isMobileViewport()?this.initMobileViewportStyles(e,t):this.initDesktopViewportStyles(e,t)},setCreativeAnimationStyles:function(e,t){QSI.WebResponsiveDialog.isMobileViewport()?this.updateMobileViewportAnimationStyles(e,t):this.updateDesktopViewportAnimationStyles(e,t)},initLivePreviewerCreativeAnimationStyles:function(e,t){QSI.WebResponsiveDialog.isMobileViewportForLivePreviewer()?this.initMobileViewportStyles(e,t):this.initDesktopViewportStyles(e,t)},updateLivePreviewerCreativeAnimationStyles:addCreativeTransitionEndListener:},initLivePreviewerCreativeStyles:getStaticClassNames:getButtonClassName:display:_display:_displayForLivePreviewer:impress:buildCreativeContainer:setInitialShadowBoxStyles:setShadowBoxAnimationStyles:shouldDisplayCloseButton:shouldDisplayLogo:isMobileViewportForLivePreviewer:function(){return window.innerWidth<=QSI.WebResponsiveDialog.smallLivePreviewerViewportBreakpoint},isMobileViewport:buildModalContentStyle:buildTextStyle:buildButtonStyle:addStandardButtonStyle:function(e,t){t.style.color=e.LabelColor,t.style["background-color"]=e.BackgroundColor,t.style["border-color"]=e.BorderColor},addAccessibilityFunctionality:getCreativeContainerStylesheetString:)},function(e,t){QSI.LocalizationModule={getBrowserLangs:isLocalized:getLocalizedString:setUpGetLangToShow:getTranslation:getTranslationCode:getDefaultLang:getLangToShow:findLangMatchIfExists:function(e,t){if("ZH-S"===t?t="ZH-CN":"ZH-T"===t&&(t="ZH-TW"),e[t=t.toUpperCase()])return t;var i=this.trimLangCode(t);return e[i]?i:null},trimLangCode:},   font-weight: 600;      }      "+r(e.FONT_WEIGHT)+"-bold {          font-weight: 700;      }      "+r(e.DESCRIPTION)+"{          text-align: center;          white-space: pre-wrap;      }      "+r(e.BUTTON_CONTAINER)+"{          text-align: center;          display: block;          word-wrap: break-word;          overflow-wrap: break-word;      }      "+r(e.CLOSE_BUTTON)+"{          background: rgba(255, 255, 255, 0.6);          border: 0;          width: 28px;          height: 28px;          border-radius: 14px;          margin-top: 5px;          margin-right: 10px;          padding: 0px;      }      "+r(e.BUTTON)+"{          box-sizing: border-box;          font-weight: 600;          padding: 10px 25px;          cursor: pointer;          width: 100%;          border-width: 2px;          max-width: 240px;          border-style: solid;      }      ."+e.BUTTON+"-compact + ."+e.BUTTON+"-compact{          margin-top: 8px;      }      ."+e.BUTTON+"-medium + ."+e.BUTTON+"-medium{          margin-top: 12px;      }      ."+e.BUTTON+"-spacious + ."+e.BUTTON+"-spacious{          margin-top: 16px;      }      "+r(e.BUTTON_BORDER_RADIUS)+"-none {        border-radius: 0px;      }      "+r(e.BUTTON_BORDER_RADIUS)+"-slightly-rounded {        border-radius: 4px;      }      "+r(e.BUTTON_BORDER_RADIUS)+"-moderately-rounded {        border-radius: 12px;      }      "+r(e.BUTTON_BORDER_RADIUS)+"-completely-rounded {        border-radius: 20px;      }    "}(t)},getDesktopHeights:l,getMobileHeights:d};i(3),i(4)}]);
+} catch(e) {
+  if (typeof QSI !== 'undefined' && QSI.dbg && QSI.dbg.e) {
+    QSI.dbg.e(e);
+  }
+}

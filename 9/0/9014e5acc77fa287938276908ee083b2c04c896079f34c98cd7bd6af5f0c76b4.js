@@ -1,0 +1,1 @@
+exports=t();else if("function"==typeof define&&define.amd)define([],t);else{var r,n=t();for(r in n)("object"==typeof exports?exports:e)[r]=n[r]}}();

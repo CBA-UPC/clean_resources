@@ -1,0 +1,3 @@
+this.workbox=this.workbox||{},this.workbox.precaching=function(e,t,n,r,s){"use strict";try{self.workbox.v["workbox:precaching:3.6.1"]=1}catch(e){}onst c="revision",o="url",l="precached-details-models";onst u=(d=babelHelpers.asyncToGenerator(,;var d;ar p=Object.freeze({PrecacheController:h});let f=!1,y=!1,b=!1,w=[];const g=t.cacheNames.getPrecacheName(),v=new h(g),m=R={precache:addRoute:precacheAndRoute:suppressWarnings:addPlugins:;return Object.assign(R,p)}(workbox.core._private,workbox.core._private,workbox.core._private,workbox.core._private,workbox.core._private);
+
+//# sourceMappingURL=workbox-precaching.prod.js.map

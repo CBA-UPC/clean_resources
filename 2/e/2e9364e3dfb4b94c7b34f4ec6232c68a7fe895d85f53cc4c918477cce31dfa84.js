@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/062a88abff57/3f6a592c0c6e/b1cc1a7e7646/RC0735c435725f46dcbe7bc59aaa502eaa-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/062a88abff57/3f6a592c0c6e/b1cc1a7e7646/RC0735c435725f46dcbe7bc59aaa502eaa-source.min.js', "\"object\"==typeof s&&(s.events=\"\",s.linkTrackVars=\"\",s.linkTrackEvents=\"\");");

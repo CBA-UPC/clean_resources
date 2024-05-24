@@ -1,0 +1,3 @@
+/*! jssdk 2023-10-02 10:01, 4f0eca16edf7ed30db42128420e4c94ae72045ad */
+(function(){function c(a){a.spot&&a.tracksUrl&&(this.f=a,window.addEventListener("message",this.c.bind(this)))}c.prototype.c=function(a){var b=this.f;a.data===b.spot&&this.g(b.tracksUrl)};c.prototype.g=function(a){for(var b=0;b<a.length;b++){var c=a[b];c&&this.b(c)}};c.prototype.b=function(a){var b=document.createElement("img");b.style.position="absolute";b.style.bottom="-1px";b.style.width=0;b.style.height=0;b.src=a;b.addEventListener("load",this.a);b.addEventListener("error",this.a);document.body.appendChild(b)};
+c.prototype.a=window.bannerNativeTrackImpression=)();

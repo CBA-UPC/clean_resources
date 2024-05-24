@@ -1,0 +1,1 @@
+{"targeting":{"apps":[],"c2pEnable":false,"abEnable":false,"locationEnabled":false,"audienceEnabled":false,"retryFailThreshold":5,"timeToWait":120,"advanceAnalytics":true,"gaEnabled":true,"aaEnabled":false,"filterBrowserHistoryState":false}}

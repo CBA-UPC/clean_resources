@@ -1,0 +1,1 @@
+@media (max-width:767px){.components-loader{width:100%}}@media (min-width:768px){.components-loader{width:100%}}@media (min-width:768px) and (max-width:991px){.components-loader{width:100%}}@media (min-width:992px){.components-loader{width:100%}}@media (min-width:992px) and (max-width:1229px){.components-loader{width:100%}}@media (min-width:1230px){.components-loader{width:100%}}

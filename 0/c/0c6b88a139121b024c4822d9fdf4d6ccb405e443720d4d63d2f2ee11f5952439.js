@@ -1,0 +1,7 @@
+(function(exoDynamicParams){(function(){function getSearchObject(){const query=window.location.search;return query?(/^[?#]/.test(query)?query.slice(1):query).split("&").reduce((params,param)=>{let[key,value]=param.split("=");params[key]=value?decodeURIComponent(value.replace(/\+/g," ")):"";return params},{}):{}}const params=getSearchObject();let queryParams='';Object.keys(params).forEach(item=>{if(item!=="idzone"){queryParams+="&"+item+"="+params[item]}});const hostname="https://"+exoDynamicParams.adsDomain;const script=document.createElement('script');script.type="application/javascript";script.src=hostname+'/iframe.js?idzone='+exoDynamicParams.idzone+queryParams;document.body.appendChild(script)})()})({"adsDomain":"a.magsrv.com","idzone":3414295})BxRnb7innkujtGWtg3KT8lbQCthWfPjkZKqm04hmBL6kM76BhqTpLqW56Y_07Dd_ZeHBBXfMNC0i5OBdZRJL2Qh9Dm3tU2FxSZWl-GFc8nABsxNlsE-ppGiwv-brimAGni66kjgpQ1e_V2opQs?DC=DO";</script><script async type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> 
+    <ins class="eas6a97888e" data-zoneid="5097428"></ins> 
+    <script>(AdProvider = window.AdProvider || []).push({"serve": {}});
+    let dataKeyword= document.getElementsByName('keywords')[0].getAttribute('content');
+        var dataElements = document.getElementsByClassName("eas6a97888e");
+        for (var i=0; i<dataElements.length; i++) {dataElements[i].setAttribute("data-keywords",dataKeyword);}
+    </script><!-- Postgen NTV-A Spot --></body></html>

@@ -1,0 +1,1 @@
+.Scrollbar__root--zwrWE{background-color:#0000001a;cursor:pointer;display:block;overflow:hidden;right:0;user-select:none;width:8px}.Scrollbar__root--zwrWE,.Scrollbar__thumb--KDd7O{border-radius:4px;height:100%;position:absolute;top:0}.Scrollbar__thumb--KDd7O{background-color:#0009;width:100%}

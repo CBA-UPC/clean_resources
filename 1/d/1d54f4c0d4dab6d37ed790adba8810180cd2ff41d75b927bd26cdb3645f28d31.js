@@ -1,0 +1,2 @@
+//tealium universal tag - utag.sync ut4.0.202312041851, Copyright 2023 Tealium.com Inc. All Rights Reserved.
+var cdn='//cdn-pci.optimizely.com/js/';pid={shawca_qa:'8461872384',shawca_prod:'8460507306',},prod=['shaw.ca','www.shaw.ca','shop.shaw.ca','beta.shaw.ca'],hostname=document.location.hostname,project=(prod.indexOf(hostname)>-1)?pid.shawca_prod:pid.shawca_qa,url=cdn+project+'.js';document.write('<script type="text/javascript" src="'+url+'"></scr'+'ipt>');

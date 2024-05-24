@@ -1,0 +1,1 @@
+.post-item-description[data-v-0973c369]{min-height:205px}.post-image[data-v-0973c369]{height:237px;background-position:50%;background-size:cover}.empty-state[data-v-0973c369]{text-align:center}

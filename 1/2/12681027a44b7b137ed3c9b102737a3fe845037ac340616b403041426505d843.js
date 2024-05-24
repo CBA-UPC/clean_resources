@@ -1,0 +1,1 @@
+{"forms": [], "templates": [], "button_templates": [], "integrations": [], "settings": {"hide_copyright": true, "premium": true}, "frequency": {"minimal_timeout": null, "session": null, "day": null, "week": null, "month": null}, "global_ab_tests": [], "ip": "1.1.1.1", "contacts": [], "geo": null}

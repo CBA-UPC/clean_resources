@@ -1,0 +1,1 @@
+import{j as s}from"./e5833d38.js";const r=()=>s.jsx("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 2048 2048",children:s.jsx("path",{d:"M1902 1511l-878-878-878 878-121-121 999-999 999 999-121 121z"})});export{r as default};

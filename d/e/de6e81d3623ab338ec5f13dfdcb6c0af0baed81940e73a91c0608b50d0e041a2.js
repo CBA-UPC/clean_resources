@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.getScrollTop=function(){return ASCDP.adS.shadowScroll||window.pageYOffset||document.documentElement&&document.documentElement.scrollTop||document.body&&document.body.scrollTop||0};

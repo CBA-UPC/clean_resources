@@ -1,0 +1,1 @@
+d 0,void 0,(function*(){return ge=yield ye(),ge}))}();Do(e),jo(e).catch(console.error),uo(e).catch(console.error),yield Ro(e);const t={subscribe:Qt,hasSubscribed:en,addAttribute:En,getAttributes:Tn,deleteAttribute:In};window.Najva=Object.assign(Object.assign({},window.Najva),t),window.dispatchEvent(new CustomEvent("najva-execution-end",{bubbles:!0,cancelable:!1}))}))}()})()})();

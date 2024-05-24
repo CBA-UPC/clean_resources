@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/82bf3c13a525/6733f7abbcb7/b1a8b77c2576/RCb80ef2dcf324471cbaada25bf9059ea1-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/82bf3c13a525/6733f7abbcb7/b1a8b77c2576/RCb80ef2dcf324471cbaada25bf9059ea1-source.min.js', "_satellite.getVar(\"Cookie Consent: Ads Vendor\"),_satellite.getVar(\"Cookie Consent: Performance General\"),_satellite.logger.info(\"Permissions were evaluated\");");

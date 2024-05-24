@@ -1,0 +1,4 @@
+jQuery(document).on("ready fusion-widget-render-Fusion_Widget_Tabs",function(){jQuery(".fusion-tabs-widget .fusion-tabs-nav li a").on("click",function(n){var t=jQuery(this).data("link");n.preventDefault(),jQuery(this).parents(".fusion-tabs-nav").find("li").removeClass("active"),jQuery(this).parent().addClass("active"),jQuery(this).parents(".fusion-tabs-widget").find(".fusion-tab-content").hide(),jQuery(this).parents(".fusion-tabs-widget").find('.fusion-tab-content[data-name="'+t+'"]').fadeIn()})});flow: auto;\n  position: relative;\n  display: block;\n  white-space: nowrap;\n}\npacsys-text div {\n  width: 100%;\n  -webkit-user-select: none;\n  -moz-user-select: none;\n  -ms-user-select: none;\n  user-select: none;\n}\npacsys-text.pacsys_text--selectable div {\n  -webkit-user-select: inherit;\n  -moz-user-select: inherit;\n  -ms-user-select: inherit;\n  user-select: inherit;\n}"; }
+};
+
+export { PacsysInput as pacsys_text };

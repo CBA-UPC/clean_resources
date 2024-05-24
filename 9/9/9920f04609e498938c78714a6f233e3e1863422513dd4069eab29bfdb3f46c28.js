@@ -1,0 +1,1 @@
+ccs_cc_log.clear('1');

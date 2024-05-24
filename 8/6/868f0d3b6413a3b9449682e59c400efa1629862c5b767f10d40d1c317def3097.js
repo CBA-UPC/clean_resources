@@ -1,0 +1,2 @@
+"f":0},"sensitivityButtonAriaLabel":{"s":"민감도 레이블 단추","f":0},"sensitivityButtonLearnMoreLinkText":{"s":"자세한 정보","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"닫기","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"레이블을 제거할 수 없음","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"사용자의 조직에서 이 항목에 레이블을 지정할 것을 요구합니다.","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings43.7ff49568468aed1ba3c2.chunk.v7.js.map

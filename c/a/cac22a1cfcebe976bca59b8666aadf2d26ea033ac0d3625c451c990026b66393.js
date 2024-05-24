@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/99b399019383/927c2d2012b0/e1638381e2fc/RC0a7572aff73041d8853cf96e901e06fb-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/99b399019383/927c2d2012b0/e1638381e2fc/RC0a7572aff73041d8853cf96e901e06fb-source.min.js', "var pageLoadStartTime=_satellite.getVar(\"_pageLoadStartTime\"),pageLoadEndTime=_satellite.getVar(\"_pageLoadEndTime\"),pageLoadTime=((pageLoadEndTime-pageLoadStartTime)/1e3).toFixed(2);_satellite.cookie.set(\"s_pv_lt\",pageLoadTime);");

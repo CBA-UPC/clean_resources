@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2661],{32661:function(e,u,t){t.r(u),t.d(u,{default:);var n=t(64824),f=t(67294),c=t(94611),s=t(49469),r=t(11163);function a(){let e=(0,r.useRouter)(),u=(0,n.yW)(s.e_),t=(0,n.Dv)(c.ot),a=(0,n.Dv)(c.Tc);return(0,f.useEffect)([e.asPath]),(0,f.useEffect)([t]),null}}}]);

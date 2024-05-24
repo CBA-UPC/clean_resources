@@ -1,0 +1,7 @@
+import{getThemeClass as p}from"../../base/config.js";import{html as $}from"../../vendors/lit-html/lit-html.js";import{ifDefined as v}from"../../vendors/lit-html/directives/if-defined.js";import{tplIcon as h}from"./icon.tpl.js";export const FLAG_TYPES={OUT_OF_STOCK:"outofstock"};export const tplFlag=({label,icon=null,theme:l,textColor:t,backgroundColor,style,className="",type="",mobileHideLabel:o})=>{let i="";const m=type&&type==="exclusivity";const u=type&&type==="customize";const g=type&&type==="durable-elegance";if(l){i=p(l,"title")}if(t&&backgroundColor){style=`color: ${t}; background-color: ${backgroundColor}`}return $`
+        <div class="item-flag item-flag--${type} l-inline-block font-xsmall l-hmargin--small ${i} ${className}" style="${v(style)}">
+            ${icon&&h({name:icon,className:`${m?"js-update-exclusivity-flag ":""}item-flag-picto${g?" item-flag-picto--full-height":""}${o?" item-flag-picto-m--no-hmargin":""}`})}
+            ${icon&&!u?$`<span class="${v(o?"no-mob":undefined)}">${label}</span>`:label}
+        </div>`};export const tplExclusiveFlag=(l=false,title)=>{return $`<div class="item-flag-absolute l-absolute bg-white rounded text-center" title="${v(title)}">
+        ${h({name:(l?"un":"")+"lock-exclusive"})}
+    </div>`};

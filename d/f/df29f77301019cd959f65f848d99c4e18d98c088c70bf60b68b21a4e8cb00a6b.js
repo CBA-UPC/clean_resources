@@ -1,0 +1,1 @@
+yolWPJsonp([65],{317:function(n,t,o){"use strict";var u=o(1);u(document).ready(function(){u(document).on("contextmenu","img",function(n){return!1}),u(document).on("mousedown","img",function(n){return!1}),u(document).on("selectstart","img",})}},[317]);

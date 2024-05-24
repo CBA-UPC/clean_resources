@@ -1,0 +1,1 @@
+ction(e){e&&localStorage.removeItem(e)},i);function i(){}t.LocalStorage=o}]);

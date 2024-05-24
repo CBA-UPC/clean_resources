@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/5d4962a43b79/96fada676f0e/e9577b77b705/RC97b008e73d314efeaaaa2d3ca6244832-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/5d4962a43b79/96fada676f0e/e9577b77b705/RC97b008e73d314efeaaaa2d3ca6244832-source.min.js', "window._uxa=window._uxa||[],window._uxa.push([\"trackConsentGranted\"]);");

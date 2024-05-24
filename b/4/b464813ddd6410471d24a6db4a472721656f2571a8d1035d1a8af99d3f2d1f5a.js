@@ -1,0 +1,1 @@
+jQuery.fn.fusionCalculateBlogEqualHeights=jQuery(document).ready(,jQuery(window).on("load fusion-element-render-fusion_blog",,jQuery(window).on("fusion-column-resized",,jQuery(window).on("fusion-dynamic-content-render",;

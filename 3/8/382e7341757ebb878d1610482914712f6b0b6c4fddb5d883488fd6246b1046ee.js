@@ -1,0 +1,1 @@
+div[class*=right-rail] div#primisPlayerContainerDiv{margin-left:auto;width:300px}

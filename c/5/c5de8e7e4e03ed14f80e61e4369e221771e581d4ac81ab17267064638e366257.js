@@ -1,0 +1,3 @@
+function setCookie(cname,cvalue,exdays,domain){const d=new Date();d.setTime(d.getTime()+(exdays*24*60*60*1000));const expires='expires='+d.toUTCString();document.cookie=cname+'='+cvalue+';'+expires+';'+'domain='+domain+';path=/';}
+if(!getCookie('visitorId')){const fpPromise=import('https://assets.brevo.com/js/fingerprint-source.js').then(FingerprintJS=>FingerprintJS.load())
+fpPromise.then(.then(result=>{setCookie('visitorId',result.visitorId,365,'.brevo.com')})}

@@ -1,0 +1,1 @@
+.series-gradient.svelte-1vcs2vg{background:linear-gradient(0deg,#0f172a,#0f172a 55%,#0f172a00)}@media (min-width:768px){.series-gradient.svelte-1vcs2vg{background:linear-gradient(90deg,#0f172a,#0f172a 45%,#0f172a00 70%,#0f172a00)}}

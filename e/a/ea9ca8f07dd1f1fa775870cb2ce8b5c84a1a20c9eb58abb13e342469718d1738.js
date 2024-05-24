@@ -1,0 +1,1 @@
+.description_descContainer__PHOiL{margin-top:1rem;border-radius:.5rem;border-width:1px;padding:3.5rem 1rem 2rem}@media (min-width:768px){.description_descContainer__PHOiL{padding:2rem}}.description_descContainer__PHOiL{background-repeat:no-repeat;background-image:url(/assets/images/quote.png);background-position:top right 20px}

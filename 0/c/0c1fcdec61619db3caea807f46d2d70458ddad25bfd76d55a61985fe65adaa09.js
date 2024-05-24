@@ -1,0 +1,1 @@
+(function(){var b=window;function d(c){this.cb_configs=c;this.cb_plugin_version=1;b._cbv=b._cbv||[];b._cbv.push(this)}a(b.videojs)&&(a(b.videojs.registerPlugin)?b.videojs.registerPlugin("chartbeat",d):a(b.videojs.plugin)&&b.videojs.plugin("chartbeat",d));})();

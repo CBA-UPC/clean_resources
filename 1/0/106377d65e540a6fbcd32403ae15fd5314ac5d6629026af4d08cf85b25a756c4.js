@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4452],{93313:12004:function(n,u,t){"use strict";t.r(u),t.d(u,{__N_SSP:);var i=t(52322),c=!0;u.default=function(n){let{error:u}=n;return u?(0,i.jsxs)("div",{children:[(0,i.jsx)("div",{children:"Slack authentication failed."}),(0,i.jsx)("span",{children:u})]}):null}}},);
+//# sourceMappingURL=slack-b93848808602eef5.js.map

@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/12e39899e692/RC69cbbfd7ebb6486594b9c81eeb55ad2d-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/12e39899e692/RC69cbbfd7ebb6486594b9c81eeb55ad2d-source.min.js', "\"function\"==typeof window.__tcfapi?window.__tcfapi(\"addEventListener\",2,(function(e,t){t&&\"useractioncomplete\"===e.eventStatus&&_satellite.track(\"consent-useractioncomplete\")})):_satellite.logger.error(\"__tcfapi is not defined in Consent complete trigger (listener) Rule\");");

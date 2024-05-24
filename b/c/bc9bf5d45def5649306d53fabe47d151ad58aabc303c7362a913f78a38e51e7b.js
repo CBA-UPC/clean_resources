@@ -1,0 +1,2 @@
+","settingSearchBuyOrRenewOfficeText":"Prynu Office neu adnewyddu tanysgrifiad","settingSearchEnterProductKeyText":"Rhowch allwedd cynnyrch","settingSearchInstallOfficeText":"Gosod Office","settingSearchManageDevicesText":"Rheoli dyfeisiau","settingSearchMyAccountText":"Fy nghyfrif","settingSearchMyProfileText":"Fy mhroffil","settingSearchRedeemGiftCardText":"Defnyddio cerdyn rhodd"}}')}}]);
+//# sourceMappingURL=796.5bfbe6dc493f032331eb.chunk.v7.js.map

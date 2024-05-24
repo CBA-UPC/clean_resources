@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/36b74e34ece7/5e2db1ff2965/98a15182e19e/RC275e17c5d726419abe0ab3efbca6ad98-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/36b74e34ece7/5e2db1ff2965/98a15182e19e/RC275e17c5d726419abe0ab3efbca6ad98-source.min.js', "<!-- Salesforce Audience studio to AAM  match pixel  -->\n<img width=\"1\" height=\"1\" style=\"display:none\" src=https://usermatch.krxd.net/um/v2?partner=adobe&amp;redir=https%3A%2F%2Fbeacon.krxd.net%2Fusermatch.gif%3Fpartner%3Dadobe%26partner_uid%3D%24%7BDD_UUID%7D />");

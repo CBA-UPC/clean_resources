@@ -1,0 +1,1 @@
+ocument.currentScript.dataset.index)

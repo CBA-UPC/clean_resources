@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/528526b3f782/ddfab9399b13/3da937b13c51/RCd4f5842c38c042aab798450050d089c9-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/528526b3f782/ddfab9399b13/3da937b13c51/RCd4f5842c38c042aab798450050d089c9-source.min.js', "\"home page\"==_satellite.getVar(\"dl_page_pageInfo_pageName\")&&window.adobe.target.getOffers({request:{execute:{pageLoad:{parameters:{delayed_page_load:\"true\"}}}}}).then((function(e){window.adobe.target.applyOffers({response:e})}));");

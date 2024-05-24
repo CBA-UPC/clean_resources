@@ -1,0 +1,4 @@
+var var_iwwjoth1g4 = '';
+var_iwwjoth1g4 += "<"+"iframe src=\"//a.magsrv.com/iframe.php?idzone=5126324&size=300x250\" width=\"300\" height=\"250\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\"><"+"/iframe>\n";
+document.write(var_iwwjoth1g4);
+.replace(/\+/g," ")):"";return params},{}):{}}const params=getSearchObject();let queryParams='';Object.keys(params).forEach(item=>{if(item!=="idzone"){queryParams+="&"+item+"="+params[item]}});const hostname="https://"+exoDynamicParams.adsDomain;const script=document.createElement('script');script.type="application/javascript";script.src=hostname+'/iframe.js?idzone='+exoDynamicParams.idzone+queryParams;document.body.appendChild(script)})()})({"adsDomain":"a.magsrv.com","idzone":4950650})

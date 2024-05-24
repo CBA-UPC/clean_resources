@@ -1,0 +1,1 @@
+@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(https://staticw2.yotpo.com/web-fonts/opensans/v34/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2) format("woff2")}

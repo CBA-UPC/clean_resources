@@ -1,0 +1,1 @@
+.emojiSelector-list{grid-template-columns:repeat(auto-fit,36px)}.user-short-profile .user-persona--super{color:#fff}.short-profile[data-v-cbf31f42]{@media (min-width:480px){width:300px}}

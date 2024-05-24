@@ -1,0 +1,1 @@
+ction(t){return t.whiteLabelData||{}}}]);

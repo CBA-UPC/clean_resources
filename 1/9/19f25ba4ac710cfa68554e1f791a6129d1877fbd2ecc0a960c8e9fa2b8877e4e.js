@@ -1,0 +1,53 @@
+window.mouseflowHtmlDelay = 4000;;window.mouseflowAutoStart = false;
+setTimeout(function() {
+function loadMouseflow() { 
+if (typeof mouseflow != 'undefined' && window.name.indexOf('mf_liveHeatmaps') < 0) {
+mouseflow.start();
+}
+document.removeEventListener('mousemove', loadMouseflow);
+document.removeEventListener('touchstart', loadMouseflow);
+document.removeEventListener('scroll', loadMouseflow);
+}
+document.addEventListener('mousemove', loadMouseflow);
+document.addEventListener('touchstart', loadMouseflow);
+document.addEventListener('scroll', loadMouseflow);
+}, 500);;var mouseflowCrossDomainSupport = true;;window._mfq = window._mfq || [];
+(function() {
+    function getParameter(variable) {
+        var query = location.search.substring(1);
+        var vars = query.split('&');
+        for (var i = 0; i < vars.length; i++) {
+            var pair = vars[i].split('=');
+            if (decodeURIComponent(pair[0]) == variable) {
+                return decodeURIComponent(pair[1]);
+            }
+        }
+        return false;
+    }
+    var omniture_cid = getParameter('cid');
+    if (omniture_cid) {
+        window._mfq.push(['setVariable', 'omniture_cid', omniture_cid]);
+    }
+  let searchParams = new URLSearchParams(window.location.search)
+		searchParams.forEach((value, key) => {
+    if (value === "cmpid" || "cid"){
+        window._mfq.push(["setVariable", key, value ]);
+    };
+  });
+})();var mouseflowDisableKeyLogging = true;if(typeof mouseflow==='undefined'&&typeof mouseflowPlayback==='undefined'){(function(){var _390=true;var _389=false;var _412=[];var _414=[];var _54='https://us.mouseflow.com';ar _28=new _964(window);var _21=new _879(window);var _10=new _901(window,Math,JSON,_28);var _26=new _927(_28,_10);var _58=new _702('local',window,_10,_8);var _154=new _702('session',window,_10,_8);var _338=new _780(window);var _5=new _877(window,_58,_390,_389);_5._339=[];_5._342=[];_5._198=[];_5._1012=[];_5._49='335bca56-3787-4b14-9fd3-ab8a8cacc438';_5._433=true;_5._870='10000000';_5._362('appUrl',_54);function _542(_3,_121,_28,_5,_21,_10,_26,_180,_285,_58,_154,_156,_428,_8,_338){var _919=false;var _144='https://n2.mouseflow.com/';var _218=100.00000;var _166=[];var _988=[];var _817=[];var _268=["qualcomm.cn","www.qualcomm.cn"];var _742=false;var _922=true;var _899='2024-01-28T11:15:29.0481215Z';var _266='17.98';var _161=false;var _751=false;var _93=false;var _233=false;var _467=false;var _680=/\[(\d+)\]_mf$/;var _12=_3.document;var _70=_3.location;_772();var _13=_789();var _0=_512();var _326=_951();var _60={_568:100,_984:250,_985:10000,_986:300000,_502:1336,_403:1800000,_898:3600000,_912:7776000000,_999:100,_858:2000,_657:8000,_345:2048,_815:200,_814:5000};var _373,_375,_369,_371,_260,_255,_274,_458,_310,_103,_633=[],_636=[],_666=[],_413=[],_351=new Map();var _6={_304:0,_311:1,_332:2,_318:3,_317:4,_227:5,_219:6,_235:7,_444:8,_316:9,_243:10,_523:11,_547:12,_319:13,_713:14,_97:15,_1056:16,_1054:17,_88:18,_378:19,_820:20,_468:21,_443:22,_313:23,_442:24,_441:25,_440:26,_439:27,_438:28,_549:29,_437:30,_541:31,_404:32,_315:33,_721:34,_236:35,_550:36,_557:37,_35:38,_446:39,_966:40,_242:41,_102:42,_384:43};var _105={_546:{_24:'bounce',_4:2,_41:1,_145:1000},_610:{_24:'click-rage',_4:5,_41:2,_145:2000},_454:{_24:'click-error',_4:2,_41:3,_145:20},_235:{_24:'mouse-out',_4:1,_41:5,_145:20},_524:{_24:'speed-browsing',_4:1,_41:6,_145:1000},_236:{_24:'submit-failure',_4:3,_41:7,_145:20}};var _754=/[\x20\r\n]+/g;var _756=/(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@/;var _823=/^\d{12,19}$/;var _835=/^(onbeforeunload|onblur|onchange|onclick|onfocus|oninput|onkeydown|onkeypress|onkeyup|onload|onmousedown|onmouseenter|onmouseleave|onmousemove|onmouseout|onmouseover|onmouseup|onresize|onsubmit|ontouchcancel|ontouchend|ontouchenter|ontouchleave|ontouchmove|ontouchstart|onunload)$/;var _828=/checkbox|radio|button|submit|file|image|reset/;var _846=[{name:'VISA',patternRegex:/^4(\d{15}|\d{17,18})$/},{name:'Mastercard',patternRegex:/^(222[1-9]|22[3-9]\d|2[3-6]\d{2}|27[01]\d|2720|5[1-5]\d\d)\d{12}$/},{name:'American Express',patternRegex:/^3[47]\d{13}$/},{name:'Diners Club',patternRegex:/^3(0[0-5]|[689]\d)(\d{11}|\d{13}|\d{16})$/},{name:'Discover',patternRegex:/^(6011|64[456789]\d|65\d{2})(\d{12}|\d{15})$/},{name:'JCB',patternRegex:/^(352[89]|35[3-8]\d|2131|1800)\d{12,15}$/},{name:'China UnionPay',patternRegex:/^(62[03456]\d{3}]|6210\d\d|621[1-7]\d\d|6218[0-2]\d|6218[4-9]\d|6219[0-7]\d|6220[0-579]\d|62201\d|6220[2-9]\d|622[1-9]\d{2}|622018|627[026]\d\d|62770\d|6277[1-7]\d|62778[1-9]|62779\d|628[2-9]\d\d|629[12]\d\d|810\d\d\d|811\d\d\d|81[2-6]\d\d\d|817[01]\d\d)\d{8,13}$/},{name:'Maestro',patternRegex:/^((493698|50000\d|5000[1-9]\d|500[1-9]\d{2}|50[1-3]\d{3}|5040\d{2}|5041[0-6]\d|50417[0-4]|50417[6-9]|5041[89]\d|504[2-9]\d{2}|505\d{3}|506[0-5]\d{2}|5066[0-8]\d|50669[0-8]|506779|5067[89]\d|506[89]\d{2}|50[78]\d{3})\d{6,13}|(5[6-9]|63|67|6\d)\d{10,17})$/},{name:'Elo',patternRegex:/^(40117[89]|438935|457631|457632|431274|451416|457393|504175|506699|5067[0-6]\d|50677[0-8]|50900\d|5090[1-9]\d|509[1-9]\d{2}|627780|636297|636368|65003[1-3]|65003[5-9]|65004\d|65005[01]|65040[5-9]|6504[1-3]\d|65048[5-9]|65049\d|6505[0-2]\d|65053[0-8]|65054[1-9]|6505[5-8]\d|65059[0-8]|65070\d|65071[0-8]|65072[0-7]|65090[1-9]|6509[1-6]\d|65097[0-8]|65165[2-9]|6516[67]\d|65500\d|65501\d|65502[1-9]|6550[34]\d|65505[0-8])\d{10}$/},{name:'Hiper',patternRegex:/^(637095|63737423|63743358|637568|637599|637609|637612)\d{10}$/},{name:'Hipercard',patternRegex:/^(606282)\d{10}$/},{name:'Dankort',patternRegex:/^5019\d{12}$/},{name:'VISA Dankort',patternRegex:/^4571\d{12}$/}];var _788=([0,2,4,6,8,1,3,5,7,9]));4.prototype.push=
+    // Copyright 2011 Google Inc.
+    //
+    // Licensed under the Apache License, Version 2.0 (the "License");
+    // you may not use this file except in compliance with the License.
+    // You may obtain a copy of the License at
+    //
+    //     http://www.apache.org/licenses/LICENSE-2.0
+    //
+    // Unless required by applicable law or agreed to in writing, software
+    // distributed under the License is distributed on an "AS IS" BASIS,
+    // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    // See the License for the specific language governing permissions and
+    // limitations under the License.
+    //
+    // This component contains modifications carried out by Mouseflow ApS.
+    var __extends=this.__extends||var MutationObserverCtor;if(typeof WebKitMutationObserver!=='undefined')MutationObserverCtor=WebKitMutationObserver;else if(typeof MutationObserver!=='undefined')MutationObserverCtor=MutationObserver;if(MutationObserverCtor===undefined){_8('DOM Mutation Observers not supported.',_14())}var NodeMap=(();var Movement;((Movement||(Movement={}));ar NodeChange=(();var ChildListChange=(();var TreeChanges=((NodeMap);var MutationProjection=(();var Summary=(();var validNameInitialChar=/[a-zA-Z_]+/;var validNameNonInitialChar=/[a-zA-Z0-9_\-]+/;ar Qualifier=(();var Selector=(();var attributeFilterPattern=/^([a-zA-Z:_]+[a-zA-Z0-9_\-:\.]*)$/; MutationSummary=(();var TreeMirrorClient=(();tion _171(_9,_31){try{var _65=[];_9.split(',').forEach(function(_9){var _44=_9.split(' > :document-fragment: > ',1);_31.querySelectorAll(_44[0]).forEach(function(_1){if(_44[1]&&_1.shadowRoot){_171(_44[1],_1.shadowRoot).forEach(function(_1){_65.push(_1)})}else{_65.push(_1)}})});return _65}catch(_57){_8('Could not get element from selector: '+ex.message)}}unction _692(_20){return _20&&_20.nodeType===8&&_20.textContent.trim().toLowerCase().indexOf('mouseflowexcludestart')===0}s',_46)}function _848(){return _58._284('mf_replaceHashes')||[]}0()}__mouseflow_properties__';var _344='is-blacklisted';ion _434(_29,_6,_43,_59){_26._42(_29,_6,_43,_59,{_75:true,_334:true})}r _435=HTMLElement.prototype.attachShadow;var _300=false;-_0._249}ion _956(_19){return[_6._316,_6._243,_6._315,_6._102].indexOf(_19)!==-1}397(){return _154._284('mf_transmitQueue')||[]}function _717(_99){_154._286('mf_transmitQueue',_99)}on _706(){return _12.all&&!_3.atob;}ion _743(_99){_154._286('mf_initialDomQueue',_99)}ion _647(_87){return _645(_87)&&_87[2].filter(_935).length===_87[2].length}nction _935(_273){return _273.attributes.style&&_670(_273.attributes)===1}:'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=',encode:_916:;ar _374=0;);}_750();this.start=this.stop=_79;this.newPageView=_481;this.stopSession=_871;this.getSessionId=function(){return _13._55};this.getPageViewId=function(){return _13._64};this.tag=_88;this.star=_864;this.setVariable=_861;this.identify=_860;this.formSubmitAttempt=_859;this.formSubmitSuccess=_477;this.formSubmitFailure=_735;this.addFriction=this.isRecording=this.isReturningUser=this.activateFeedback=_421;this.proxyAttachShadow=_323;this.recordingRate=_218;this.version=_266;this.lastUpdate=_899;this.isCreditCard=_265}784(window);var _180=new _769(_5,_412,_414);var _285=(typeof _580==='function')?new _580(_5,_10):{_201:function(){}};var _762=/[?&]mf_feedback=old(&|#|$)/.test(window.location.search);if(_762)_605=_1052;var _156=(typeof _605==='function')?new _605(window,_5,_111,_21,_10,_285,_26,_154,_8):{_40:function(){},_79:function(){},_421:function(){},_1053:function(){},_422:function(){}};var _428=(typeof _616==='function')?new _616(_28,_5):{_165:;var _716=new _853(window,_111,_28,_21,_10,_26,_58,_5);var _337=new _852(window,_5,_111,_10,_26,_180,_58);var _544=new _850(window,_111,_21,_10,_26,_5);unction _644(){return null}ar shouldRecord=false;if(_5.privacyToolEnabled){_716._40(_54,_5._49,_5._339,_5._342,_5._198,_8)}else if(_5.liveHeatmapsEnabled){var _281;if(_5.taggerToolEnabled){_281=_337._40(_5._49,_8,_54,_281)}else if(_5.taggerToolEnabled){_544._40(_8,_54)}else if(typeof _542==='function'){window.mouseflow=new _542(window,Math,_28,_5,_21,_10,_26,_180,_285,_58,_154,_156,_428,_8,_338);shouldRecord=true}if(!shouldRecord){window.mouseflow={start:_118,stop:newPageView:stopSession:_118,getSessionId:_644,getPageViewId:_644,tag:_118,star:_118,setVariable:_118,identify:_118,formSubmitAttempt:_118,formSubmitSuccess:_118,formSubmitFailure:_118,addFriction:_118,isRecording:_643,isReturningUser:_643,activateFeedback:_118,proxyAttachShadow:_118,recordingRate:null,version:null};_338.proxyPushState(window.mouseflow.newPageView)}window.mouseflow.websiteId=_5._49;window.mouseflow.gdprEnabled=_5.gdprEnabled;window.mouseflow.updateHeatmap=_337._698;window.mouseflow.config=window.mouseflow.debug=)()}

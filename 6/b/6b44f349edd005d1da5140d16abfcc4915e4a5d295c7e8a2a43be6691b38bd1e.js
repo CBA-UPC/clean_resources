@@ -1,0 +1,2 @@
+/** medietall.no - 607d77e46bf6b242026472c2_6234877616330340977a496f_20220318_132158 - KK - Kilkaya AS - copyright 2022 */
+(function () {var d=document;if(d.head){var l="https://log.medietall.no/analytics.v2";var c=d.createElement("script"); var m=("noModule"in c);c.type=(m?"module":""),c.src=l+(m?'':'.legacy')+'.js',d.head.appendChild(c);}})();

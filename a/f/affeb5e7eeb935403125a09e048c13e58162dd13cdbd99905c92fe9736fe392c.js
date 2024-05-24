@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[page_slug]\u002Falbums","\u002F[page_slug]\u002Frecent","\u002F[page_slug]\u002Fsongs","\u002F[page_slug]\u002Ftrending-now\u002Falbums","\u002F[page_slug]\u002Ftrending-now\u002Fsongs"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

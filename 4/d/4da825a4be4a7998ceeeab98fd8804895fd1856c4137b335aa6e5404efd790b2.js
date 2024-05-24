@@ -1,0 +1,1 @@
+import{w as n}from"./entry.Cu783cqS.js";const a=n(!1),c=(t,e,s)=>{const o=t&&!e&&s;a.set(o)},p=n(void 0),i=()=>{const{update:t,subscribe:e,set:s}=n({message:"",show:!1,type:"notification",iconType:"info"});return{subscribe:e,set:s,hide:},d=i();export{p as g,d as n,a as s,c as u};

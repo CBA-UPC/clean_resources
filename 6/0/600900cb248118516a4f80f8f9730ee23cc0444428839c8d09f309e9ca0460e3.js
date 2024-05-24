@@ -1,0 +1,1 @@
+"use strict";var brandmetrics,__assign=this&&this.__assign||!brandmetrics||(brandmetrics={}));window.brandmetrics.bootstrap({baseUrl:"https://collector.brandmetrics.com",cdnUrl:"https://cdn.brandmetrics.com",siteId:"69328bfe-0ff0-4849-93e2-bfedbb57f474",consentMode:{type:'none'},query:"",scriptType:0,});

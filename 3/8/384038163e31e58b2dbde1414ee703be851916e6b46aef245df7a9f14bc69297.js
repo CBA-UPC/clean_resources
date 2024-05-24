@@ -1,0 +1,1 @@
+@media (max-width:768px){.nav--search .dropdown-content{width:100vw;position:fixed!important;overflow-x:hidden;left:0;right:0}}.header{transition:opacity .5s ease}

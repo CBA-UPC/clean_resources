@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.calcAdPos=function(){var t=ASCDP.adS;ASCDP.adS.loadModules(["calcY"],function(){for(var d in t.adElts)if(t.adElts.hasOwnProperty(d)){var a=t.adElts[d],o=a.masterSlot||a.adSlot||document.getElementById(d);try{o&&(a.posY=t.calcY(o,o.offsetTop))}catch(a){t.err(a,{caller:"calcAdPos"},d)}}})};

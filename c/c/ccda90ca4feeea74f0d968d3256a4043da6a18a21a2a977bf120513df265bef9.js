@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/784fdfb70d09/6423f3244577/d2bae156c3ee/RC4c52cf43a7dc40cfb2e40aa25dfe2827-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/784fdfb70d09/6423f3244577/d2bae156c3ee/RC4c52cf43a7dc40cfb2e40aa25dfe2827-source.min.js', "window.uetq=window.uetq||[],window.uetq.push({ec:att_inst.Util.getflowCode()+\"-\"+att_inst.Util.getCustomerType()+\"--\"+att_inst.Util.getLanguage(),ea:\"page_view\",el:att_inst.Util.getfriendlyPageName()});");

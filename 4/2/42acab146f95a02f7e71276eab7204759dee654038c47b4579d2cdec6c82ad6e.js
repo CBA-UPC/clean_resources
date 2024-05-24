@@ -1,0 +1,2 @@
+��ም {0} ን መጠቀም ያስፈልግዎታል።","searchMEAuthLinkText":"በመለያ ይግቡ","searchMEItemSelected":"ንጥል ነገር ተመርጧል።","searchMESearchComplete":"ፍለጋ ተጠናቋል","searchMESearchCleared":"የፍለጋ አርትዕ መስክ ጸድቷል።"}}')}}]);
+//# sourceMappingURL=779.62067920f46acbd56bb3.chunk.v7.js.map

@@ -1,0 +1,15 @@
+var var_ssenx43x59 = '';
+var_ssenx43x59 += "<"+"script type=\"application/javascript\" src=\"https://a.magsrv.com/video-slider.js\"><"+"/script>\n";
+var_ssenx43x59 += "<"+"script type=\"application/javascript\">\n";
+var_ssenx43x59 += "var adConfig = {\n";
+var_ssenx43x59 += "\"idzone\": 4950658,\n";
+var_ssenx43x59 += "\"frequency_period\": 60,\n";
+var_ssenx43x59 += "\"close_after\": 0,\n";
+var_ssenx43x59 += "\"on_complete\": \"repeat\",\n";
+var_ssenx43x59 += "\"branding_enabled\": 0,\n";
+var_ssenx43x59 += "\"screen_density\": 25,\n";
+var_ssenx43x59 += "\"cta_enabled\": 0\n";
+var_ssenx43x59 += "};\n";
+var_ssenx43x59 += "ExoVideoSlider.init(adConfig);\n";
+var_ssenx43x59 += "<"+"/script>\n";
+document.write(var_ssenx43x59);

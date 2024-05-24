@@ -1,0 +1,2 @@
+"use strict";(this.__LOADABLE_LOADED_CHUNKS__=this.__LOADABLE_LOADED_CHUNKS__||[]).push([[5268],{13498:(s,t,e)=>{e.r(t),e.d(t,{default:);var r=e(86459),n=e(17989),o=e(96832),_=e(34853);class c extends o.Component{componentDidMount(){const{path:s,setSearchQuery:t,searchQueryFromQS:e,openSearch:r}=this.props;"/search/"===s&&(t({query:e}),r())}render(){const{isAnonymous:s}=this.props;return s?(0,_.tZ)(n.Z,{}):(0,_.tZ)(r.Z,{})}}const h=c}}]);
+//# sourceMappingURL=Home.www.js.map

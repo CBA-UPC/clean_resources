@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/2cd47122fe1d/06f523b861f0/80185593f445/RC61e1e1885e7c4d2e8ed0ea80b31d3f23-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/2cd47122fe1d/06f523b861f0/80185593f445/RC61e1e1885e7c4d2e8ed0ea80b31d3f23-source.min.js', "<style>\n  .logo-carousel .swiper-container.swiper-container-horizontal .swiper-slide img {\n    -webkit-filter: none !important;\n    filter: none !important;\n  }\n</style>");

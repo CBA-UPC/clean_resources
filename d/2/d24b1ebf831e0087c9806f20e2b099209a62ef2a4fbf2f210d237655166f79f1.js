@@ -1,0 +1,1 @@
+if(!Element.prototype.matches){Element.prototype.matches=Element.prototype.msMatchesSelector||Element.prototype.webkitMatchesSelector;};if(typeof Object.assign!=='function'){Object.defineProperty(Object,'assign',{value:writable:true,configurable:true});};/*!https://mths.be/cssescape v1.5.1 by @mathias | MIT license*/;(typeof global!='undefined'?global:this,);;

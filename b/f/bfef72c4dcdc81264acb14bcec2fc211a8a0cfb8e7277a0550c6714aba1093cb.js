@@ -1,0 +1,22 @@
+(function(){r aa="function"==typeof Object.create?Object.create:t;
+if("function"==typeof Object.setPrototypeOf)t=Object.setPrototypeOf;else{var u;a:{var ba={M:!0},v={};try{v.__proto__=ba;u=v.M;break a}catch(a){}u=!1}t=u?null}var x=t;
+ar z="function"==typeof Object.defineProperties?Object.defineProperty:A="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this;
+.prototype.toString=function(){return this.a};var da=);
+rototype.i=.prototype.return=Promise",;
+var la="function"==typeof Object.assign?Object.assign:ka("Object.assign",;
+var ma={ma:"connect_debug",N:"https://signal-beacon.s-onetag.com/beacon.min.js",ka:"https://ap.lijit.com/readerinfo/v2",fa:"https://get.s-onetag.com/container-polyfills.js",ea:["fetch","Promise"],Z:"https://onetag-geo.s-onetag.com/",qa:"https://onetag-geo-grouping.s-onetag.com/",ra:"https://geo-location.s-onetag.com/",Da:"https://signal-segments.s-onetag.com/",pa:"https://signal-floors.s-onetag.com/",X:86400,W:200,za:"EU",xa:10,ja:"https://ap.lijit.com/www/delivery/fpi.js?z=",Ca:{ta:"https://get.s-onetag.com/safeframe-urls/1.0.0/safe-frame-internal.html",
+va:"https://get.s-onetag.com/safeframe-urls/1.0.0/safe-frame.js"},Ba:"https://prebid.s-onetag.com",na:"https://dfp-gateway.s-onetag.com/1",wa:86400,I:"https://connect-metrics-collector.s-onetag.com/metrics",Fa:5E3,Aa:"https://get.s-onetag.com/underground-sync-portal/Portal.html",la:"https://data-beacons.s-onetag.com/dataBeacons.min.js",sa:["hb_","ix_","amzn"],ya:7E3};var J;ar L;function M(){L||(L=new na);return L}na.prototype.get=var pa=this&&this.a||function(a,b,c,e){function k(f){return f instanceof c?f:new c(function(d){d(f)})}return new (c||(c=Promise))(function(f,d){function g(h){try{m(e.next(h))}catch(n){d(n)}}function l(h){try{m(e["throw"](h))}catch(n){d(n)}}function m(h){h.done?f(h.value):k(h.value).then(g,l)}m((e=e.apply(a,b||[])).next())})};ar N=null;a.prototype.create=var ta=this&&this.a||function(a,b,c,e){function k(f){return f instanceof c?f:new c(function(d){d(f)})}return new (c||(c=Promise))(function(f,d){function g(h){try{m(e.next(h))}catch(n){d(n)}}function l(h){try{m(e["throw"](h))}catch(n){d(n)}}function m(h){h.done?f(h.value):k(h.value).then(g,l)}m((e=e.apply(a,b||[])).next())})};().get();(Q,ya);Q.prototype.b=function(){this.j=!0};Q.prototype.a=(R,ya);R.prototype.a=R.prototype.f=function(){this.j=!1};ar S;za.prototype.j=function Aa(){}Aa.prototype.create=a.prototype.send=(Ca,Error);var Da=this&&this.a||function(a,b,c,e){function k(f){return f instanceof c?f:new c(function(d){d(f)})}return new (c||(c=Promise))(function(f,d){function g(h){try{m(e.next(h))}catch(n){d(n)}}function l(h){try{m(e["throw"](h))}catch(n){d(n)}}function m(h){h.done?f(h.value):k(h.value).then(g,l)}m((e=e.apply(a,b||[])).next())})};function Ea(){}
+var T=this&&this.a||function(a,b,c,e){function k(f){return f instanceof c?f:new c(function(d){d(f)})}return new (c||(c=Promise))(function(f,d){function g(h){try{m(e.next(h))}catch(n){d(n)}}function l(h){try{m(e["throw"](h))}catch(n){d(n)}}function m(h){h.done?f(h.value):k(h.value).then(g,l)}m((e=e.apply(a,b||[])).next())})};ar V;
+U.prototype.getData=.prototype.wait=var Ia=);var Ja=this&&this.a||function(a,b,c,e){function k(f){return f instanceof c?f:new c(function(d){d(f)})}return new (c||(c=Promise))(function(f,d){function g(h){try{m(e.next(h))}catch(n){d(n)}}function l(h){try{m(e["throw"](h))}catch(n){d(n)}}function m(h){h.done?f(h.value):k(h.value).then(g,l)}m((e=e.apply(a,b||[])).next())})};
+.prototype.G=W.prototype.get=
+ar Y;X.prototype.G=rototype.f=X.prototype.c=
+var Pa=this&&this.a||Qa.prototype.start=
+function Ta(){var a={H:{Ga:"66b78cef-2cf3-4499-b475-af4daf27e9af",s:416563},containerId:"aa40a8c7-d646-4438-aa0b-2856efd3c1e0",groups:[{groupId:"a106f0a6-8341-42b6-9b5e-78d051c09851",enabled:!0,filters:[],m:{},R:[]}],m:{S:!1,B:!0,C:!1}};this.h=a;J=ma;this.window=M().get();this.a=Ma();this.a.G(a.H.s);this.b=new Qa(a);var b=a.containerId;this.window.__connect=this.window.__connect||{};this.window.__connect.containerIds=this.window.__connect.containerIds||{};this.window.__connect.containerIds[b]||(a=
+a.containerId,Z(this.a,this.h.containerId),this.window.__connect.containerIds[a]=!0,Ua(this)?Va(this):this.start())}Ta.prototype.start=ew Ta;}).call({})
+/* 
+date-of-deployment: UTC2022-11-02T13:46:07Z 
+contents:
+filters:
+container:
+@connect/underground-container: 2.8.0
+*/

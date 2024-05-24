@@ -1,0 +1,1 @@
+((window,document,'script','dataLayer',ECOMMERCE_GTM_KEY);

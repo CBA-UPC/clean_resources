@@ -1,0 +1,2 @@
+/*! js-cookie v3.0.1 | MIT */
+!this,();

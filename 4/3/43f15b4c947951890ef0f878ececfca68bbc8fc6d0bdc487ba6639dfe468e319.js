@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RCe2afc0348c68464baa3fcde1780c23c2-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RCe2afc0348c68464baa3fcde1780c23c2-source.min.js', "document.body.dispatchEvent(new CustomEvent(\"c-tracking-dispatch-targetUpdate\",{bubbles:!0,detail:{initTimeout:0,spaTimeout:0}}));");

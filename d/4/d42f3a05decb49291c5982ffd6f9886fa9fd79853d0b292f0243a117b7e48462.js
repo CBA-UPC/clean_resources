@@ -1,0 +1,1 @@
+.inputs[data-v-2c9d43ce]{align-items:flex-end;display:flex;gap:16px}@media (max-width:768px){.inputs[data-v-2c9d43ce]{align-items:stretch;flex-direction:column}}.submit-button[data-v-2c9d43ce]{width:180px}@media (max-width:768px){.submit-button[data-v-2c9d43ce]{width:100%}}

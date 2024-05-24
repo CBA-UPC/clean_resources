@@ -1,0 +1,7 @@
+
+    window._seedtagq = window._seedtagq || []
+    window._seedtagq.push(["_setId", "9321-7024-01"])
+    window._seedtagq.push(["_setPublisher", {"i":"62f1109968d63f0700d176b1","n":"ndmais.com.br_premiumads","c":"News","u":"active","o":"BR","f":{},"e":".st-placement .st-adunit {\n\tz-index: 1 !important;\n}","bl":[],"t":[{"n":"article","c":"article","on":"return document.querySelector(\"body.single\");","p":0,"in":false,"a":[{"i":"62fd2de633a9910700910ae2","n":"standard_1","t":"inImage","e":"return greg.adunits(\".single-content img\")[0]","a":27147039,"r":20,"d":false,"g":{"activeLocationExpression":{"simpleSelector":"","slidesLocator":"","comparator":"","referenceLocator":""},"nestedImageSelector":"","transitions":0,"overEagerLoading":0,"loop":true,"active":true,"startingSlideIndex":0},"as":[[600,150],[150,600],[1,1],[600,600],[300,116],[11,2],[930,180],[300,1050],[11,3],[580,400]],"p":["CED","CEV","CID","CN","OMV","CBV","PCED","PCOV","OMN","COV","PCID","PCBV","PCEV","PCN","CFD","PCFD"]}]},{"n":"category","c":"category","on":"return document.querySelector(\"body.archive.category\")","p":0,"in":false,"a":[]},{"n":"main","c":"homepage","on":"return document.querySelector(\"body.home\")","p":0,"in":false,"a":[]}],"a":[]}])
+    window._seedtagq.push(["_setPublicPath", "https://t.seedtag.com/c/"])
+
+    ![);

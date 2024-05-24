@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC339be772e1244fe3a20af729b59dfa0d-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC339be772e1244fe3a20af729b59dfa0d-source.min.js', "var s=document.createElement(\"script\");s.src=\"https://nebula-cdn.kampyle.com/us/wu/264073/onsite/embed.js\",s.async=1,document.body.appendChild(s),_satellite.logger.info(\"DTM: Medallia Site Wide Tag\");");

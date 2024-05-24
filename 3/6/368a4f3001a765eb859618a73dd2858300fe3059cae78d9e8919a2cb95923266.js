@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/ccc66c06b30b/dec9e8a112d6/05828be5cb90/RC0ea7e4ff120e4023954d1befb8d2d9ea-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/ccc66c06b30b/dec9e8a112d6/05828be5cb90/RC0ea7e4ff120e4023954d1befb8d2d9ea-source.min.js', "<script>window.schema_highlighter={accountId: \"Acronym/Newssap\", key: \"325UM-NQRHZ-P7T97-M5SY8\", output: false}</script>\n<script async src=https://cdn.schemaapp.com/javascript/highlight.js></script>");

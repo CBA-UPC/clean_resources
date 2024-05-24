@@ -1,0 +1,1 @@
+window.plerdy_seo_rules=[]ing.configuration.assign({"heatmaps":[],"sessions":[],"idsite":"5","trackerid":"q3m5Z5"});

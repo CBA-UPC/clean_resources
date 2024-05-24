@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!--[if IE]><link rel="icon" href="/dist/favicon.ico"><![endif]-->
+    <title>TestHMR</title>
+  <link href="/dist/css/chunk-4a293c9a.bdf83199.css" rel="prefetch"><link href="/dist/css/chunk-63955faa.b6bb8d10.css" rel="prefetch"><link href="/dist/js/chunk-077a90f4.eba9e394.js" rel="prefetch"><link href="/dist/js/chunk-314de286.498faa73.js" rel="prefetch"><link href="/dist/js/chunk-365c89d0.abd8d130.js" rel="prefetch"><link href="/dist/js/chunk-4a293c9a.aac859c8.js" rel="prefetch"><link href="/dist/js/chunk-4ce8a24d.f2d7a5bd.js" rel="prefetch"><link href="/dist/js/chunk-5bb22cc4.7b94ac46.js" rel="prefetch"><link href="/dist/js/chunk-63955faa.d220c470.js" rel="prefetch"><link href="/dist/js/chunk-661f6ab4.5e76bd70.js" rel="prefetch"><link href="/dist/js/chunk-6b4cf2f1.874d6638.js" rel="prefetch"><link href="/dist/js/chunk-740b7ebe.03e94964.js" rel="prefetch"><link href="/dist/js/chunk-83b44274.17d3b3a1.js" rel="prefetch"><link href="/dist/js/vendors-async.9d2970ed.js" rel="prefetch"><link href="/dist/css/buefy.714fe934.css" rel="preload" as="style"><link href="/dist/js/app.1633cb75.js" rel="modulepreload" as="script"><link href="/dist/js/buefy.09db6ed6.js" rel="modulepreload" as="script"><link href="/dist/js/vendors-initial.38d4397e.js" rel="modulepreload" as="script"><link href="/dist/css/buefy.714fe934.css" rel="stylesheet"><link rel="icon" type="image/png" sizes="32x32" href="/dist/img/icons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/dist/img/icons/favicon-16x16.png"><link rel="manifest" href="/dist/manifest.json" crossorigin="use-credentials"><meta name="theme-color" content="#4DBA87"><meta name="apple-mobile-web-app-capable" content="no"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="belle_frontend_styria"><link rel="apple-touch-icon" href="/dist/img/icons/apple-touch-icon-152x152.png"><link rel="mask-icon" href="/dist/img/icons/safari-pinned-tab.svg" color="#4DBA87"><meta name="msapplication-TileImage" content="/dist/img/icons/msapplication-icon-144x144.png"><meta name="msapplication-TileColor" content="#000000"></head>
+  <body>
+    <noscript>
+      <strong>We're sorry but TestHMR doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  <script type="module" src="/dist/js/vendors-initial.38d4397e.js"></script><script type="module" src="/dist/js/buefy.09db6ed6.js"></script><script type="module" src="/dist/js/app.1633cb75.js"></script><script>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()},!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script><script type="text/javascript" src="/dist/js/vendors-initial-legacy.386ff54a.js" nomodule></script><script type="text/javascript" src="/dist/js/buefy-legacy.2a4e6f47.js" nomodule></script><script type="text/javascript" src="/dist/js/app-legacy.19c47a6a.js" nomodule></script></body>
+</html>

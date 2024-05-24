@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/a4797e413e83/9ecf5b94f9d4/2e5f0d80306a/RCf6c411251fa8455b837c9d77493f55dd-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/a4797e413e83/9ecf5b94f9d4/2e5f0d80306a/RCf6c411251fa8455b837c9d77493f55dd-source.min.js', "_satellite.getVar(\"CJS - Adobe - OptIn - Permissions\").adcloud&&dataLayerNew.push({event:\"AWIN non-paid channel\"});");

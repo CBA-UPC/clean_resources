@@ -1,0 +1,2 @@
+(window.officehome_webpackJsonp=window.officehome_webpackJsonp||[]).push([[947],{"034/":function(e,t,n){"use strict";n.r(t),n.d(t,"flyoutOpenedEventHandler",();var a=n("QjXU"),o=n("a3FV"),r=n("laSs");function i(e){return Object(a.__awaiter)(this,void 0,void 0,(function(){var t;return Object(a.__generator)(this,(function(n){return(t=e.data&&e.data())&&Object(r.a)({area:"AppBar",eventName:o.a.AppBarFlyoutOpened,totalSize:t.overflowCount}),[2]}))}))}}}]);
+//# sourceMappingURL=947.aa4e3f6ed5bdd9aac11f.chunk.v7.js.map

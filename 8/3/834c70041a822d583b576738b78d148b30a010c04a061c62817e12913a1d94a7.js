@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/36b74e34ece7/5e2db1ff2965/98a15182e19e/RCf3146c916190417bbb2a61ae1a0d3c66-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/36b74e34ece7/5e2db1ff2965/98a15182e19e/RCf3146c916190417bbb2a61ae1a0d3c66-source.min.js', "var pixel=document.createElement(\"img\");pixel.src=\"https://pixel.nine.com.au/?advertiser=NineRadioSegments&site_section=\"+trackingData.section.split(\":\")[1]+\"_\"+trackingData.section.split(\":\")[2],pixel.alt=\"\",document.body.appendChild(pixel);");

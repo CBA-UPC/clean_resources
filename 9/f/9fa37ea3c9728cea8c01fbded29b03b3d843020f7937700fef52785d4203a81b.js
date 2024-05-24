@@ -1,0 +1,11 @@
+(();
+(();(function(){var d=window.parent.document;function e(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent("on"+b,c)}window.usabilla_live=window.usabilla_live||{};window.usabilla_live.onEvent=e;window.usabilla_live.stopEvent=function(a,b,c){a.removeEventListener?a.removeEventListener(b,c,!1):a.detachEvent("on"+b,c)};window.usabilla_live.triggerEvent=function(a,b){if(d.createEventObject)a.fireEvent("on"+b,d.createEventObject());else{var c=d.createEvent("HTMLEvents");c.initEvent(b,!0,!0);a.dispatchEvent(c)}};
+window.usabilla_live.onParentLoad=function(a){"complete"==window.parent.document.readyState?setTimeout(a,0):e(window.parent,"load",a)};
+})();(();(function(){var d=window.parent.document;function e(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent("on"+b,c)}window.usabilla_live=window.usabilla_live||{};window.usabilla_live.onEvent=e;window.usabilla_live.stopEvent=function(a,b,c){a.removeEventListener?a.removeEventListener(b,c,!1):a.detachEvent("on"+b,c)};window.usabilla_live.triggerEvent=function(a,b){if(d.createEventObject)a.fireEvent("on"+b,d.createEventObject());else{var c=d.createEvent("HTMLEvents");c.initEvent(b,!0,!0);a.dispatchEvent(c)}};
+window.usabilla_live.onParentLoad=function(a){"complete"==window.parent.document.readyState?setTimeout(a,0):e(window.parent,"load",a)};
+})();(();(();(function(){var c=window.parent,e=c.document,f=null,g=null,k=null,l=window.usabilla_live=window.usabilla_live||{},m=null,n=window.usabilla_live_settings={local_data:{email:null,custom:{}},ie10focusfix:!1,eventCallback:null,form:null,zIndex:9999,configuration:{"ga":{"a":false}}},p=!0,q=null,r=!1;
+indow.createStyleElement=w;
+if(c!=window){var y=l.onParentLoad(;
+var x=[];window.lightningjs.provide("usabilla_live",{setStyle:setButtonZIndex:setInterfaceZIndex:setParent:show:hide:data:setCampaign:virtualPageView:trigger:l.campaignTrigger,popup:v,click:setForm:function(a){n.form=a},disableScreenshot:onLoad:ie10FocusFix:setEventCallback:function(a){n.eventCallback=
+a},setDataMasking:setSelectionCallback:function(a){n.selectionCallback=a},configureAdobeAnalytics:function(a){n.adobe=a},setCustomOptionClick:setIntegrationData:)};
+})();

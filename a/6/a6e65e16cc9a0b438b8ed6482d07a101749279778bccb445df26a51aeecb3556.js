@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/a18f612bc208/7fa79028d944/57e3b2e25d44/RCca144d812f484501a9e353f91ad54bcd-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/a18f612bc208/7fa79028d944/57e3b2e25d44/RCca144d812f484501a9e353f91ad54bcd-source.min.js', "_satellite.getVar(\"globalHelper\").inject(\"launch_qmetric\",\"//cdn.quantummetric.com/qscripts/quantum-tmobile.js\",\"QuantumMetric\",\"script\").then((()=>{const t=new CustomEvent(\"Quantum-loaded\");dispatchEvent(t)}));");

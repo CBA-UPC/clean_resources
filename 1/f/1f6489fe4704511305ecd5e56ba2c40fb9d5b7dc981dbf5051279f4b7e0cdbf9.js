@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.isChildOf=function(a,S){var d=a.parentNode||a.offsetParent;return d===S||"BODY"!==a.tagName&&ASCDP.adS.isChildOf(d,S)};

@@ -1,0 +1,2 @@
+�війдіть","searchMEItemSelected":"Вибрано # елемент.","searchMESearchComplete":"Пошук завершено.","searchMESearchCleared":"Поле редагування пошуку очищено."}}')}}]);
+//# sourceMappingURL=936.ba45e677dd8f6bc937ba.chunk.v7.js.map

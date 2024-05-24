@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/764583179334/cc8234bc2247/6530a4a5720b/RC615a84048b6844dbbc0ce15984765e22-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/764583179334/cc8234bc2247/6530a4a5720b/RC615a84048b6844dbbc0ce15984765e22-source.min.js', "window._6senseEVarsMapped=!0;");

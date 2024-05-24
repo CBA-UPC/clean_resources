@@ -1,0 +1,1 @@
+import{u as t,N as c}from"./itinerary-entities.5f897bcd.js";import{u as s}from"./useReload.488398cb.js";function S(e){const a=t(),r=c();return s({extraCondition:a.needsReloadPackageSet(),onTimeout:()=>{a.currentSetIndex=0,r.clearSelectedPackages(),e==null||e()}})}export{S as u};

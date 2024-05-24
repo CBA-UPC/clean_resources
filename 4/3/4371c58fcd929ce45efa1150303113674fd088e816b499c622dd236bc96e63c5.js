@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/479fbb05b9cf/acc4688a5e55/e122d4ddaee5/RC7348f15e21504b76bc62747d8a52c726-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/479fbb05b9cf/acc4688a5e55/e122d4ddaee5/RC7348f15e21504b76bc62747d8a52c726-source.min.js', "var scriptSource=\"https://btloader.com/tag?o=5643636704804864&upapi=true\",blockthroughScript=document.createElement(\"script\");blockthroughScript.setAttribute(\"src\",scriptSource),blockthroughScript.async=!0,document.body.appendChild(blockthroughScript);");

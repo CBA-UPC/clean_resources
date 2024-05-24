@@ -1,0 +1,7 @@
+/*
+ Ebis Tracking Object
+ Copyright 2017 YRGLM Inc.
+ @external Ebis
+*/
+(();
+window.ebis.cvx={"cvrl":[{"pid":"complete","cvr":["https:\/\/ecs.toranoana.jp\/ec\/app\/order\/complete\/"],"mt":"1"},{"pid":"complete_one_click","cvr":["https:\/\/ecs.toranoana.jp\/ec\/app\/order\/quick_order_complete\/"],"mt":"1"},{"pid":"member","cvr":["https:\/\/ecs.toranoana.jp\/ec\/app\/customer\/customer_result\/first_update\/"],"mt":"1"}],"rrl":[{"pid":"complete","uf":"f","rrlp":[[{"rr":["https:\/\/ecs.toranoana.jp\/ec\/app\/order\/confirm\/"],"mt":"1"}]]},{"pid":"complete_one_click","uf":"f","rrlp":[[{"rr":["\/digi\/item\/","\/ec\/item\/"],"mt":"0"}]]}],"xdl":"toranoana.jp|toranoana.shop","ed":"15","cf":{"ct":"124"},"pvr":false,"rdl":[{"e1":"toranoana.jp","rn":"ebis.toranoana.jp"},{"e1":"toranoana.shop","rn":"ebis.toranoana.shop"}],"cdl":[],"arg":"K6ViyWn6","gh":"rec.ebis.ne.jp","capc":0,"caps":[],"capp":{"fb":{"mdbid":[{"c":"_fbp"}],"mdcid":[{"c":"_fbc"},{"u":"fbclid"}]},"gf":{"mdcid":[{"u":"gbraid"},{"u":"gclid"},{"u":"wbraid"}]},"gg":{"mdcid":[{"u":"gclid"}]},"ln":{"mdbid":[{"c":"__lt__cid"}],"mdcid":[{"u":"ldtag_cl"}]},"tt":{"mdbid":[{"c":"_ttp"}],"mdcid":[{"c":"ttclid"},{"u":"ttclid"}]},"tw":{"mdcid":[{"c":"twclid"},{"u":"twclid"}]},"yd":{"mdbid":[{"c":"_yjr_yjad"}],"mdcid":[{"c":"_ycl_yjad"},{"u":"yclid"}]},"yf":{"mdcid":[{"c":"_ycl_yjad"},{"u":"yclid"}]},"ys":{"mdcid":[{"u":"yclid"}]}}}

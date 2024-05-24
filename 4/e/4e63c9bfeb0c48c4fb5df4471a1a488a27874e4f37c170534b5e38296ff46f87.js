@@ -1,0 +1,1 @@
+img.swan-progressive-image{opacity:.25;transition:opacity .3s ease-in}img.swan-progressive-image.swan-progressive-image-eager{opacity:.3}img.swan-progressive-image.swan-progressive-image-eager.swan-progressive-image-loaded{opacity:1}img.swan-progressive-image.swan-progressive-image-loaded{opacity:1}

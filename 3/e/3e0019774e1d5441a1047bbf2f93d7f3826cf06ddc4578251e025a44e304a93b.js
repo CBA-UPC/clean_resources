@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktama_web=self.webpackChunktama_web||[]).push([[499],{30499:(t,e,o)=>{o.r(e),o.d(e,{default:);o(91938);var s,n,a,p=o(76955),r=o(66948),u=o(97175),c=o(12942);var i=(0,r.$j)((,{throwNotFoundException:c.Qn})(s=(0,u.provideHooks)({fetch:function(t){var{dispatch:e}=t;e((0,c.Qn)())}})((a=n=class extends p.Component{n.displayName="NoMatch",s=a))||s)||s}}]);

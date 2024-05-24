@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/4bb933b9f431/RC9710617512624133b1be47233677433f-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/4bb933b9f431/RC9710617512624133b1be47233677433f-source.min.js', "<script>\n  var scBlackBar=_satellite.getVar('blackbar_status');\n  document.getElementById(\"consent_blackbar\").style.zIndex=\"999999999\";\n</script>");

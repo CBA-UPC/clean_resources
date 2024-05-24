@@ -1,0 +1,1 @@
+import{A as e,B as t,I as o}from"./vendor_6ed58054_r24-02-0_b0_t240129-161140.js";const s={xmlns:"http://www.w3.org/2000/svg",width:"9",height:"10",fill:"none",viewBox:"0 0 9 10"},n=o("path",{fill:"#fff",d:"M6.364.455h1.818v9.091H6.364zM0 .455h1.818v9.091H0z"},null,-1),c=[n];onst i={render:r};export{i as default,r as render};

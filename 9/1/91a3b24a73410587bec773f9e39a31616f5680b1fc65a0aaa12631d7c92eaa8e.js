@@ -1,0 +1,1 @@
+.emoji-panel[data-v-1089f6e6]{width:328px;height:276px}.k-file-label-emoji-panel .k-file-label-emoji-list .k-file-label-emoji-item{padding:7px}

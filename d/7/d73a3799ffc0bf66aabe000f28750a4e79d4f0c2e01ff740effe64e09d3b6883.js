@@ -1,0 +1,1 @@
+.__DW_SVELTE_PROPS__.isAutoDark=s,new VisualizationIframe({target:t,props:{...window.__DW_SVELTE_PROPS__,outerContainer:t,renderFlags:{...o,...i},emotion:a},hydrate:!0})}window.dw&&(window.dw.scriptLoaded=!0),render()})();//# sourceMappingURL=main.js.map

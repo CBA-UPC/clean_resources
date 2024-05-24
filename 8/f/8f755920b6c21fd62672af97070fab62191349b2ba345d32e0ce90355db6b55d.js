@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/82bf3c13a525/6733f7abbcb7/b1a8b77c2576/RC52177183e2bb44f7b58b3615082c803f-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/82bf3c13a525/6733f7abbcb7/b1a8b77c2576/RC52177183e2bb44f7b58b3615082c803f-source.min.js', "try{_satellite.track(\"datalayer check\")}catch(r){_satellite.logger.error(\"datalayer check not triggered\"),_satellite.logger.error(\"Error: \"+r)}");

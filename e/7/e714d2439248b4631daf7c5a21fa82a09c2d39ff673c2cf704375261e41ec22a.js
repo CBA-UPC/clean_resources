@@ -1,0 +1,1 @@
+__submenu",a.rootNode),p=!0,q=a.byId("pm-css-checker"),r=!1;f(),setTimeout(function(){clearTimeout(k),r||g()},1e3)},a.rootNode?a.initExternal():e.init.replace(function(){a.rootNode=byId(e.settings.rootClass),a.initInline(),a.initExternal()})}(f),c.timeEnd("portal-menu.external.js")}}).call(window);

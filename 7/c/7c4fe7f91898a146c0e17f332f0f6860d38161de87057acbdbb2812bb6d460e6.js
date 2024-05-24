@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.fireRequest=function(e){document.createElement("img").src=e.replace(/\$\{(CACHEBUSTER|TIMESTAMP)}/gi,(new Date).getTime().toString())};

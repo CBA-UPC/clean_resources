@@ -1,0 +1,2 @@
+/*! For license information please see worker.build.min.js.LICENSE.txt */
+anceof Function))throw new Error("ready parameter should be a function");e.length&&(e=h(e)),l[i]=r.apply(null,e)}}("nd.viewer.textview.articlelayout.builder.worker",(function(){return t}))}()}();

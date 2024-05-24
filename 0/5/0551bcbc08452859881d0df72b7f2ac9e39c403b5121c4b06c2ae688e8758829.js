@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/a18f612bc208/7fa79028d944/57e3b2e25d44/RC1b979af54b574f679488225c12c29c0f-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/a18f612bc208/7fa79028d944/57e3b2e25d44/RC1b979af54b574f679488225c12c29c0f-source.min.js', "console.info(\"Target Execution : Non-Phoenix\"),_satellite.getVar(\"mbox_StateManager\")();");

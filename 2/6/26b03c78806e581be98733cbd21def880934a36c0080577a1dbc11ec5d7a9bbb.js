@@ -1,0 +1,1 @@
+<div class="adaptive-content content-main"> <article class="error-wrapper" style="justify-content: center;"> <h1 class="ds-zerocase-title" style="margin: 0;">Check your internet connection and try again</h1> </article> </div> 

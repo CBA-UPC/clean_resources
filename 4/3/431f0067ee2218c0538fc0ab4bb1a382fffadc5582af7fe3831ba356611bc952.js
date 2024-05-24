@@ -1,0 +1,12 @@
+cntvPczh_1683(
+	{
+		"title":"\u603b\u53f02024\u7f51\u7edc\u6625\u665a<br>\u9752\u6625\u805a\u529b\uff0c\u5171\u8d74\u5f00\u65b0", 
+		"smallImg":"https://p1.img.cctvpic.com/fmspic/pd/341191yantai20240131.jpg",
+		"bigImg":"",
+		"clickUrl":"https://galaxy.bjcathay.com/c?z=cathay&la=0&si=3&cg=84&c=1683&ci=388&or=1128&l=11280&bg=11286&b=18548&u=https://wlchunwan.cctv.com",
+		"ad_text":"false",
+		"brief":"",
+		"eventExposure":"",
+		"eventClickUrl":""
+	}
+)

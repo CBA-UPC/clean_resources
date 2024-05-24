@@ -1,0 +1,1 @@
+ush(b.call(this));return a},b.optionalMany=function(a,b,c){if(this.expectOptionalToken(a)){a=[];do a.push(b.call(this));while(!this.expectOptionalToken(c));return a}return[]},b.many=function(a,b,c){this.expectToken(a);a=[];do a.push(b.call(this));while(!this.expectOptionalToken(c));return a},a}();h(x,function(){return{start:this.start,end:this.end}})}])});

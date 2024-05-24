@@ -1,0 +1,2 @@
+;(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);
+if(typeof window.ATInternet.onTrackerLoad==='function'){window.ATInternet.onTrackerLoad();}

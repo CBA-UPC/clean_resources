@@ -1,0 +1,1 @@
+.codex-image{border-radius:var(--codex-image-border-radius);margin-left:var(--codex-image-margin-left);margin-top:var(--codex-image-margin-top);margin-right:var(--codex-image-margin-right);margin-bottom:var(--codex-image-margin-bottom)}

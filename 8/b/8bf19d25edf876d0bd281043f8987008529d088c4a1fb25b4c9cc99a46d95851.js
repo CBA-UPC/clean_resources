@@ -1,0 +1,1 @@
+.reaction-image{padding:6px}.reaction-animation{height:44px}

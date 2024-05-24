@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_goto_oos_training_app=self.webpackChunk_goto_oos_training_app||[]).push([[2022],{12022:]);

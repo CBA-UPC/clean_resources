@@ -1,0 +1,8 @@
+;(function(){var dfltPluginCfg={};var dfltGlobalCfg={"site":606912,"log":"","logSSL":"","domain":"xiti.com","collectDomain":"logc409.xiti.com","collectDomainSSL":"logs1409.xiti.com","userIdOrigin":"server","pixelPath":"/hit.xiti","disableCookie":false,"disableStorage":false,"cookieSecure":false,"cookieDomain":".deutschlandradio.de","preview":false,"plgs":["Campaigns","Clicks","ClientSideUserId","ContextVariables","Page","IdentifiedVisitor","InternalSearch","MvTesting","RichMedia","OnSiteAds","Offline","Events","AvInsights"],"lazyLoadingPath":"","documentLevel":"document","redirect":false,"activateCallbacks":true,"medium":"","ignoreEmptyChapterValue":true,"base64Storage":false,"sendHitWhenOptOut":true,"forceHttp":false,"requestMethod":"GET","maxHitSize":2000,"urlPropertyAuto":true,"urlPropertyQueryString":true,"sameSiteStrict":false};((window);
+var Utils=
+ATInternet.Utils=new Utils;
+var BuildManager=TriggersManager=PluginsManager=CallbacksManager=BufferManager=PropertiesManager=Tag=
+ATInternet.Tracker.Tag=Tag;ATInternet.Tracker.instances=[];ATInternet.Tracker.pluginProtos={};ATInternet.Tracker.addPlugin=ATInternet.Tracker.delPlugin=
+ATInternet.Tracker.callbackProtos={};
+}).call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);
+if(typeof window.ATInternet.onTrackerLoad==='function'){window.ATInternet.onTrackerLoad();}

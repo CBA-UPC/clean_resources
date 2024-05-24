@@ -1,0 +1,11 @@
+import{g as v}from"./index-IMvvqvG5.js";ar f={};Object.defineProperty(f,"__esModule",{value:!0});var w=f.default=w;var h=f,L=_(h);function _(t){return t&&t.__esModule?t:{default:t}}var S={tags:function(e){var a=e.id,r=e.events,n=e.dataLayer,i=e.dataLayerName,s=e.preview,d=e.auth,u="&gtm_auth="+d,c="&gtm_preview="+s;a||(0,L.default)("GTM Id is required");var p=`
+      <iframe src="https://www.googletagmanager.com/ns.html?id=`+a+u+c+`&gtm_cookies_win=x"
+        height="0" width="0" style="display:none;visibility:hidden" id="tag-manager"></iframe>`,m=`
+      (function(w,d,s,l,i){w[l]=w[l]||[];
+        w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js', `+JSON.stringify(r).slice(1,-1)+`});
+        var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'`+u+c+`&gtm_cookies_win=x';
+        f.parentNode.insertBefore(j,f);
+      })(window,document,'script','`+i+"','"+a+"');",o=this.dataLayer(n,i);return{iframe:p,script:m,dataLayerVar:o}},dataLayer:function(e,a){return`
+      window.`+a+" = window."+a+` || [];
+      window.`+a+".push("+JSON.stringify(e)+")"}},N=S,M=N,l=T(M);function T(t){return t&&t.__esModule?t:{default:t}}var $={dataScript:gtm:function(e){var a=l.default.tags(e),r=function(){var d=document.createElement("noscript");return d.innerHTML=a.iframe,d},n=i=this.dataScript(a.dataLayerVar);return{noScript:r,script:n,dataScript:i}},initialize:function(e){var a=e.gtmId,r=e.events,n=r===void 0?{}:r,i=e.dataLayer,s=e.dataLayerName,d=s===void 0?"dataLayer":s,u=e.auth,c=u===void 0?"":u,p=e.preview,m=p===void 0?"":p,o=this.gtm({id:a,events:n,dataLayer:i||void 0,dataLayerName:d,auth:c,preview:m});i&&document.head.appendChild(o.dataScript),document.head.insertBefore(o.script(),document.head.childNodes[0]),document.body.insertBefore(o.noScript(),document.body.childNodes[0])},dataLayer:function(e){var a=e.dataLayer,r=e.dataLayerName,n=r===void 0?"dataLayer":r;if(window[n])return window[n].push(a);var i=l.default.dataLayer(a,n),s=this.dataScript(i);document.head.insertBefore(s,document.head.childNodes[0])}},O=$,x=O,D=E(x);ar g=D.default;const B=v(g),P=y({__proto__:null,default:B},[g]);export{P as i};

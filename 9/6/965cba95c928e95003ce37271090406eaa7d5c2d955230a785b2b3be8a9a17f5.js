@@ -1,0 +1,1 @@
+/*! Our embeddable contains third-party, open source software and/or libraries. To view them and their license terms, go to https://developer.zendesk.com/documentation/classic-web-widget-sdks/web-widget/getting-started/legal/ */

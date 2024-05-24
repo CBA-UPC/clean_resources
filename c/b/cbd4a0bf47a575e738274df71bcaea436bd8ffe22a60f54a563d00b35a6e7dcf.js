@@ -1,0 +1,7 @@
+(function() {window.PARSELY = window.PARSELY || {}; window.PARSELY.version = "2.2.0-dev.0"; window.PARSELY.majorVersion = 2; window.PARSELY.hotfixName = ""; window.PARSELY.flavor = "conversions-engagedtime-metadatahashing-slots-video"; window.PARSELY.__template_track_ips = true; window.PARSELY.__template_heartbeat_should_honor_autotrack = undefined; window.PARSELY.__template_limit_et_sample_len = false; window.PARSELY.__template_apikey = "aboutamazon.com"; window.PARSELY.__template_is_first_party = false; window.PARSELY.__template_pixelhost = ""; window.PARSELY.__template_customizations = {"customer":{"apikey":"aboutamazon.com"},"conversions":[{"type":"Newsletter Signup","selector":"form.NewsletterModule-form button.NewsletterModule-button","event":"click","label":"Newsletter Module","poll":true},{"type":"Newsletter Signup","selector":"form#pardot-form","event":"submit","label":"Newsletter Subscription"},{"type":"Link Click","selector":"a.MailToLink","event":"click","label":"Mail To"},{"type":"Newsletter Signup","selector":"button.NewsletterInterrupter-button","event":"click","label":"Newsletter Article Module"}]}; })();
+
+/*! parsely-js-api - v2.2.0-dev.0 - 2023-02-08
+ * http://www.parsely.com/
+ * 2023 Parsely, Inc. */
+
+indow.PARSELY=window.PARSELY||{},),),"object"!==("undefined"==typeof JSON?"undefined":_typeof(JSON))&&(JSON={}),),),"undefined"!=typeof window?window:this,,"undefined"==typeof window.PARSELY&&(window.PARSELY={}),0,,),this.PARSELY),this.PARSELY),),),),),),),this.PARSELY),),),),),),),);

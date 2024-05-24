@@ -1,0 +1,1 @@
+.announcement-bar{background-color:#262626;color:#eee;font-size:.85em;font-weight:500;padding:1ex 1em;position:relative;text-align:center;z-index:10}

@@ -1,0 +1,2 @@
+(window.officehome_webpackJsonp=window.officehome_webpackJsonp||[]).push([[902],{"EPf+":y","settingSearchEnterProductKeyText":"Qillqay ruru kichanata","settingSearchInstallOfficeText":"Officeta churay","settingSearchManageDevicesText":"Dispositivokunata kamachiy","settingSearchMyAccountText":"Yupayniy","settingSearchMyProfileText":"Runapa kayniy","settingSearchRedeemGiftCardText":"Suñay tarhita chhalay"}}')}}]);
+//# sourceMappingURL=902.98bbb20ea17fd7100b99.chunk.v7.js.map

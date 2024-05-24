@@ -1,0 +1,1 @@
+Query(window).on("load fusion-element-render-fusion_tb_woo_cart fusion-element-render-fusion_tb_woo_checkout_tabs fusion-element-render-fusion_tb_woo_checkout_billing fusion-element-render-fusion_tb_woo_checkout_shipping fusion-element-render-fusion_woo_cart_shipping",,jQuery(window).on("fusion-dynamic-content-render",;

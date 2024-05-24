@@ -1,0 +1,1 @@
+_um_ads_allowed = 1;

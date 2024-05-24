@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC1b1461f3b2254e96984947b5ab8beffe-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC1b1461f3b2254e96984947b5ab8beffe-source.min.js', "function gtag(){dataLayer.push(arguments)}gtag(\"event\",\"conversion\",{allow_custom_scripts:!0,send_to:\"DC-4053494/comca517/xfini00h+standard\"}),_satellite.logger.info(\"DTM:Google Doubleclick Floodlight - MV - 2723464 Homepage EVENT\");");

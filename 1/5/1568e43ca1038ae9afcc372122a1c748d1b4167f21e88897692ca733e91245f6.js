@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/764583179334/dd952b9e6603/32f9f9883dc6/RC9e3c33ab5d164c278815f7dbffb14704-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/764583179334/dd952b9e6603/32f9f9883dc6/RC9e3c33ab5d164c278815f7dbffb14704-source.min.js', "<img height=\"1\" width=\"1\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=1085999194802760&ev=PageView\"/>");

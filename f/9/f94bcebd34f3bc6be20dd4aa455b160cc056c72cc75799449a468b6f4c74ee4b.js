@@ -1,0 +1,1 @@
+{"common":["okfe/socket/3.0.0/core.js","okfe/util/ont/4.0.9/ont.js","okfe/libs/apmfe/apmfe-1.1.19.min.js","okfe/util/monitor/2.6.82/index.js"],"projects":{"okfe/market":{"project":"okfe/market","version":"0.19.5"},"okfe/comb-trade":{"project":"okfe/comb-trade","version":"3.122.6"}}}

@@ -1,0 +1,2 @@
+/*! For license information please see async-chat-feature-a2028a3b8e61f3e7dbd7.js.LICENSE.txt */
+"use strict";(globalThis.webpackChunktinderweb=globalThis.webpackChunktinderweb||[]).push([[40911],{546003:(e,s,a)=>{a.d(s,{k:()=>t,t:()=>c});const t="chat/START_SESSION",c="chat/END_SESSION"},174022:(e,s,a)=>{a.r(s),a.d(s,{reducer:()=>h});var t=a(343599),c=a(546003),d=a(871961);const h=(0,t.ZP)(((e,s)=>{switch(s.type){case c.k:{const{matchId:a,uuid:t}=s.payload;e.sessions[a]=t;break}case c.t:{const{matchId:a}=s?.payload;delete e.sessions[a];break}}}),d.default)}}]);

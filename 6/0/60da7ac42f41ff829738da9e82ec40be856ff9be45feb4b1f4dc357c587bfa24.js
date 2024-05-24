@@ -1,0 +1,1 @@
+importScripts('https://van.najva.com/static/js/scripts/technolife-website-9288-527e38cb-dd64-4535-bb15-41c45a09d8d8-service-worker.js');

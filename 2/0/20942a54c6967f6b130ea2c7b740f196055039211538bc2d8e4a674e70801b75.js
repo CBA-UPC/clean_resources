@@ -1,0 +1,2 @@
+<!-- Ads Managed by AdSpyglass.com -->
+			<iframe class="na" frameborder="0" scrolling="no" width="300" height="250" sandbox="allow-scripts allow-popups allow-forms allow-same-origin" src="//a.shukriya90.com/api/spots/350557?p=1&s1=49991&kw=General"></iframe>

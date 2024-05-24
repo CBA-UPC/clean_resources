@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.getNavHeight=function(){for(var e=0,a=ASCDP.pageSet,S="m"===a.view?a.naviMobile:a.navi,t=0;t<S.length;t++){var n,r=document.querySelector(S[t]);r&&(e=(n=parseInt(window.getComputedStyle(r).height))<=e?e:n,ASCDP.adS.navBar=r)}return e};

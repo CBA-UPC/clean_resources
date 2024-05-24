@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/39952453358b/bbeab55061fe/e390521b0a94/RC9b31c791c50e474da116ef4a0c5007d7-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/39952453358b/bbeab55061fe/e390521b0a94/RC9b31c791c50e474da116ef4a0c5007d7-source.min.js', "<script src=\"//tru.am/scripts/custom/nbcuniversal.js\"></script>");

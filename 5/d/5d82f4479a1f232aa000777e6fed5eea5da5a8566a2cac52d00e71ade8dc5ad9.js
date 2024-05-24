@@ -1,0 +1,3 @@
+"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{}).parcelRequire37b7.register("2L7l6",function(t,n){e(t.exports,"getFCP",function(){return g}),e(t.exports,"getCLS",function(){return h}),e(t.exports,"getFID",function(){return P}),e(t.exports,"getLCP",function(){return D}),e(t.exports,"getTTFB",function(){return k});var i,r,a,o,u=c=f=s=m=d=-1,p=v=l=g=y=!1,T=-1,h=E={passive:!0,capture:!0},w=new Date,L=b=S=F=P=function(e,t){var n,a=l(),d=u("FID"),p=v=c("first-input",p);n=m(e,d,t),v&&f(!0),v&&s(},C={},D=k=);//# sourceMappingURL=web-vitals.691a3681.js.map
+
+//# sourceMappingURL=web-vitals.691a3681.js.map

@@ -1,0 +1,2 @@
+ እንዲሰጡት ይፈልግዎታል።","f":0},"mandatoryLabelActionButtonText":{"s":"መለያ ይምረጡ","f":0},"sensitivityButtonAriaLabel":{"s":"የስሜታዊነት መለያ ቁልፍ","f":0},"sensitivityButtonLearnMoreLinkText":{"s":"ተጨማሪ ይወቁ","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"ዝጋ","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"መለያን ማስወገድ አይቻልም","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"ድርጅትዎ ይህንን ንጥል እንዲሰይሙ ይጠይቃል።","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings1.882dd3e3117c3916890a.chunk.v7.js.map

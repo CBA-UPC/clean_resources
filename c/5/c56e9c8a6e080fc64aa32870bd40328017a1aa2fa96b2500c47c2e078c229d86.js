@@ -1,0 +1,1 @@
+yolWPJsonp([42],{381:function(o,n,e){"use strict";var s=e(1);s(function(){s(".top10news-special-contents_list .modal_btn").on("click",function(){var o=s(this).index();s(".top10news-special-modal").eq(o).fadeIn()}),s(".top10news-special-modal_bg ,.top10news-special-modal_close ,.top10news-special-modal_close--top").click(})}},[381]);

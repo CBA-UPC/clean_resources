@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/b944018a7173/71fd789d535d/a02c90b3a2e2/RC149d5ce81b6a46268b9400d813c85372-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/b944018a7173/71fd789d535d/a02c90b3a2e2/RC149d5ce81b6a46268b9400d813c85372-source.min.js', "try{var removeBtns=document.querySelectorAll(\".removeOrderItem\");removeBtns.length>0&&removeBtns.forEach((e=>{e.addEventListener(\"click\",(()=>{adobeDataLayer.push({event:\"cart_remove\",event_name:\"cart_remove\"})}))}))}catch(e){}");

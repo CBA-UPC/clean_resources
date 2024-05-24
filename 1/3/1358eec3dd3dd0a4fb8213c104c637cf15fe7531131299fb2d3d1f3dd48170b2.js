@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/82bf3c13a525/6733f7abbcb7/b1a8b77c2576/RC48ac9871f36047bcb8e3fa5bc40a1438-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/82bf3c13a525/6733f7abbcb7/b1a8b77c2576/RC48ac9871f36047bcb8e3fa5bc40a1438-source.min.js', "try{_satellite.track(\"trigger AA PV\")}catch(r){_satellite.logger.error(\"AA PV not triggered\"),_satellite.logger.error(\"Error: \"+r)}");

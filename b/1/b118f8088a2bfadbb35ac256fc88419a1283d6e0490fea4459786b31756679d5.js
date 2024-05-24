@@ -1,0 +1,26 @@
+import{addParams as h,debug,removeParams as u}from"../base/croco.js";import{LOGGERS as t,getAutoResizeEnabled as i}from"../base/config.js";import{html as g}from"../vendors/lit-html/lit-html.js";import{ifDefined as I}from"../vendors/lit-html/directives/if-defined.js";const A=i();export const{IMPOLICY_PRODUCT,IMPOLICY_PRODUCT_PORTRAIT,IMPOLICY_CUSTOM,IMPOLICY_PLACEHOLDER,IMPOLICY_ZOOM}=Lacoste&&Lacoste.siteprefs&&Lacoste.siteprefs.IMAGE_MANAGER&&Lacoste.siteprefs.IMAGE_MANAGER.formats&&Lacoste.siteprefs.IMAGE_MANAGER.formats;const o=t.TEMPLATE;const l="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=";const p={320:"(max-width: 320px)",375:"(min-width: 321px) and (max-width: 375px)",414:"(min-width: 376px) and (max-width: 414px)",767:"(min-width: 415px) and (max-width: 767px)",1024:"(min-width: 768px) and (max-width: 1024px)",1190:"(min-width: 1025px) and (max-width: 1190px)",1349:"(min-width: 1191px) and (max-width: 1366px)",1663:"(min-width: 1367px) and (max-width: 1680px)",1903:""};const L=[768,1190,1920];const $={ALL:0,MOBILE:1,DESKTOP:2};const m=15;const round=(number,step)=>step*Math.round(number/step);const v=(t,i)=>round(t*i/25,m);export const buildImgSources=(m,{policy:p,sources,ratio})=>{if(m&&sources&&m.length===sources.length){for(let l=0,t=sources.length;l<t;l++){let source=sources[l];let t=m[l];for(let i=0,o=source["srcsets"].length;i<o;i++){let srcset=source["srcsets"][i];t=h(m[l],{imwidth:srcset,impolicy:p});source["srcsets"][i]=t+" "+srcset+"w"}sources[l]["default"]=t;if(!ratio){sources[l]["lqip"]=h(m[l],{impolicy:IMPOLICY_PLACEHOLDER})}}}else{debug("error",o,"[Picture]","Impossible to build sources","Parameters urls or/and sources invalid or not corresponding",m,p,sources,ratio)}return{policy:p,sources:sources,ratio:ratio}};var O=function(cells,mode){var t=[];var sizes=[];var i=Object.keys(p);var media="";if(mode===$.MOBILE){media="(max-width: 767px)";i=i.filter(}else if(mode===$.DESKTOP){media="(min-width: 768px)";i=i.filter(}for(var o=0,l=i.length;o<l;o++){var m=parseInt(i[o],10);var cellIndex=L.findIndex(;if(cellIndex>=0&&cells[cellIndex]>0){var width=v(m,cells[cellIndex]);var size=p[m]+" "+width+"px";t.indexOf(width)===-1&&t.push(width);sizes.push(size.trim())}}return{media:media,srcsets:t,sizes:sizes}};var P=function(length,index){const mode=index===0?$.MOBILE:$.DESKTOP;return length!==2?$.ALL:mode};export const getPicData=function(t,cells,i,o){var l=null;if(t&&cells&&cells.length===3&&i){var sources=[];for(var m=0,p=t.length;m<p;m++){var mode=P(p,m);var source=O(cells,mode);if(o&&o[m]){source.ratio=o[m]}else if(i===IMPOLICY_PRODUCT){source.ratio="1"}else if(i===IMPOLICY_PRODUCT_PORTRAIT){source.ratio="4-5"}sources.push(source)}if(sources.length>0){l={policy:i,sources:sources}}}return l};export function addImageFormatParams(url,format){const t=Lacoste.siteprefs.IMAGE_MANAGER;let i=url;if(t){const o=t.formats[format];const l={imwidth:o.imwidth||o.width,impolicy:o.impolicy||o.policy};if(l){i=h(url,l)}}return i}export const tplImage=({src,preventLazyload:t,alt,width,height,className,style,onImageError:i=undefined,zoomUrl:o,draggable=true})=>{return g`<img
+        src="${t?src:l}"
+        data-src="${I(!t?src:undefined)}"
+        class="${className||""}${!t?" lazyload js-lazyload":""}"
+        style="${I(style)}"
+        alt="${alt||""}"
+        width="${width||"auto"}"
+        height="${height||"auto"}"
+        @error="${I(i)}"
+        data-zoom-url="${I(o)}"
+        draggable="${draggable}"
+    />`};const M=(src,t,i)=>{const source=A?u(src.default,["imwidth"]):src.srcsets.join(",");return!A||!i?g`<source media="${src.media}"
+        data-srcset="${I(!t?source:undefined)}"
+        srcset="${I(t?source:undefined)}"
+        sizes="${I(!A?src.sizes.join(","):undefined)}"
+    />`:""};const C=({sources,className,picClassName:t,alt,width,height,preventLazyload:i,onImageError:o,zoomUrl:l})=>{const m=sources[sources.length-1].default;const p=A?u(m,["imwidth"]):m;return g`
+        <picture class="pict ${t||""} ${className||""}${!i?" lazyload ":""}" data-zoom-url="${I(l)}">
+            ${sources.map((source,t)=>M(source,i,t===sources.length-1))}
+            ${tplImage({src:p,preventLazyload:i,alt:alt,width:width,height:height,className:className,onImageError:o})}
+        </picture>`};const R=({sources,width,height})=>{const t=sources[1]?`l-ratio-td--${sources[1].ratio||"reset"}`:"";const i=sources[0].ratio?`l-ratio--${sources[0].ratio} ${t}`:"";return i?g`<div class="lqip ${i} pointer-none"></div>`:g`<picture class="lqip pointer-none l-block">
+            ${sources.map(}
+            ${tplImage({src:sources[sources.length-1].lqip,preventLazyload:true,width:width,height:height,className:"lqip pointer-none"})}
+    </picture>`};export const tplPicture=({src,cells,policy:t,ratio,className,picClassName:i,alt,width,height,preventLazyload:o,onImageError:l,zoomUrl:m})=>{if(!src||!cells||!t){return}const p=getPicData(src,cells,t,ratio);const h=buildImgSources(src,p);const sources=h.sources;const u=C({sources:sources,className:className,picClassName:i,alt:alt,width:width,height:height,preventLazyload:o,onImageError:l,zoomUrl:m});return!o?g`<div class="js-lazyload-wrapper with-placeholder">
+        ${u}
+        ${R({sources:sources,width:width,height:height})}
+    </div>`:g`${u}`};

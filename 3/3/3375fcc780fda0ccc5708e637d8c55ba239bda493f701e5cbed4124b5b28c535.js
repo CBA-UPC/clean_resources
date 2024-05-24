@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/12e39899e692/RCa08b984f610d43cea57fb2adf20191f1-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/101b76c36d9a/3e3b81cff9aa/12e39899e692/RCa08b984f610d43cea57fb2adf20191f1-source.min.js', "var i=0;do{if(digitalData){_satellite.logger.log(\"digitalData found at = \"+JSON.stringify(digitalData));break}_satellite.logger(\"digitalData not found at i = \"+i),i++}while(i<100);_satellite.logger.error(\"!!!!!!!digitalDataReady JS EVENt is called!!!!!!!!!\");");

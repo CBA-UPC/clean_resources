@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/7523aa4e1d5f/dfa93c60a52e/b3802daf56a8/RC1b09c94ed19a463c92cafb9cab28e87f-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/7523aa4e1d5f/dfa93c60a52e/b3802daf56a8/RC1b09c94ed19a463c92cafb9cab28e87f-source.min.js', "_satellite.logger.log(\">> digitalData Update Dectected\");var buildEnv=_satellite.buildInfo.environment;\"development\"===buildEnv&&console.log(\"digitalData\",JSON.stringify(window.digitalData));");

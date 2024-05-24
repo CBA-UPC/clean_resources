@@ -1,0 +1,1 @@
+﻿/* eslint-disable */}) (window,document,"script","//bat.bing.com/bat.js","uetq");

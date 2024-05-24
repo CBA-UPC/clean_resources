@@ -1,0 +1,1 @@
+karte.io/libs/tracker.moment.js")]:[3,6];case 5:s=r.sent(),i=s.moment,r.label=6;case 6:return[2,{jquery:e,lodash:n,moment:i}]}}))}))},_={local:"http://localhost:5000/build/chat-v3-in-widget.js",evaluation:"https://bs.dev-karte.com/action/__chat-v3-in-widget/latest/index.js",production:"https://bs.karte.io/action/__chat-v3-in-widget/latest/index.js"};export{g as default};

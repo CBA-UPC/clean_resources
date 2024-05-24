@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/98980a4572ae/1bd3a0633b81/a67f04725c64/RC95e078171a2646a48e447d5db4939f16-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/98980a4572ae/1bd3a0633b81/a67f04725c64/RC95e078171a2646a48e447d5db4939f16-source.min.js', "function removeItem(e,m,o){document.cookie=encodeURIComponent(e)+\"=; expires=Thu, 01 Jan 1970 00:00:00 GMT\"+(o?\"; domain=\"+o:\"\")+(m?\"; path=\"+m:\"\")}removeItem(\"SC_LINKS\"),removeItem(\"SC_LINKS\",!1,\".siriusxm.com\"),removeItem(\"SC_LINKS\",!1,\".corp.siriusxm.com\");");

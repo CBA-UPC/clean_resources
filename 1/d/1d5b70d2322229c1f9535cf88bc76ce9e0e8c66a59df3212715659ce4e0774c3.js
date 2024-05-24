@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/4fde0707732a/de4424eb2758/490952ea0aad/RCd1872eae201547059d5b34294a4b117f-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/4fde0707732a/de4424eb2758/490952ea0aad/RCd1872eae201547059d5b34294a4b117f-source.min.js', "digitalData.v2=JSON.parse(JSON.stringify(digitalData.v2).replace(/\"\\$/g,'\"'));");

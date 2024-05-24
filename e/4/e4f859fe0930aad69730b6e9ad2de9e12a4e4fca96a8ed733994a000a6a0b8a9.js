@@ -1,0 +1,7 @@
+(function() {window.PARSELY = window.PARSELY || {}; window.PARSELY.version = "2.1.0"; window.PARSELY.majorVersion = 2; window.PARSELY.hotfixName = ""; window.PARSELY.flavor = "conversions-engagedtime-slots-video"; window.PARSELY.__template_track_ips = true; window.PARSELY.__template_heartbeat_should_honor_autotrack = undefined; window.PARSELY.__template_limit_et_sample_len = true; window.PARSELY.__template_apikey = "digiday.com"; window.PARSELY.__template_is_first_party = false; window.PARSELY.__template_pixelhost = ""; window.PARSELY.__template_customizations = {"customer":{"apikey":"digiday.com"},"conversions":[{"type":"Newsletter Signup","selector":"form#gform_321","event":"submit","allowedUrls":["/newsletters"],"label":"Newsletter Signup"},{"type":"Newsletter Signup","selector":"form#subForm.js-cm-form","event":"submit","label":"Newsletter Signup","poll":true},{"type":"Subscription","event":"piano","poll":true,"allowedUrls":["/subscribe"],"label":"Subscription"},{"event":"submit","type":"Lead Capture","label":"Download","selector":"div.leadgen-type-partner-resources form","allowedUrls":["/form/"]}]}; })();
+
+/*! parsely-js-api - v2.1.0 - 2023-03-15
+ * http://www.parsely.com/
+ * 2023 Parsely, Inc. */
+
+indow.PARSELY=window.PARSELY||{},),),"object"!==("undefined"==typeof JSON?"undefined":_typeof(JSON))&&(JSON={}),),),"undefined"!=typeof window?window:this,,"undefined"==typeof window.PARSELY&&(window.PARSELY={}),0,,),this.PARSELY),this.PARSELY),),),),),this.PARSELY),),),),),),),);

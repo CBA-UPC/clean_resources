@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/784fdfb70d09/6423f3244577/d2bae156c3ee/RC5a4224ca79da488ab9d5d525a51030d5-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/784fdfb70d09/6423f3244577/d2bae156c3ee/RC5a4224ca79da488ab9d5d525a51030d5-source.min.js', "function sendImagePixel(e){var i=new Image;i.src=e,i.style.display=\"none\",i.width=1,i.height=1}_satellite.LiveRamp=function(){sendImagePixel(\"https://di.rlcdn.com/api/segment?pid=712003&pdata=mcid%3D\"+_satellite.getVar(\"visitor\"))},_satellite.LiveRamp();");

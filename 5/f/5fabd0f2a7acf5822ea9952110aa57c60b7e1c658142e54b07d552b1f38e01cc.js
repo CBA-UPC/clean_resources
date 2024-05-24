@@ -1,0 +1,1 @@
+import{g as s,d as S}from"./p-a571954c.js";let a="EN";const e={EN:"en-US",ES:"es-US"},t=()=>{const e=s("GNSESS"),t=e?JSON.parse(e):S;return a=t.LOCALE&&"es_us"===t.LOCALE.toLowerCase()?"ES":a};export{e as L,a as c,t as g};

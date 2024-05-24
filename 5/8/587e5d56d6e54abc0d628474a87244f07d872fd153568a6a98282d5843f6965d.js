@@ -1,0 +1,1 @@
+.icon-boxes .icon-boxx[data-v-3c2bdb67]:last-child{border-right:1px solid #ececec}

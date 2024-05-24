@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["amp-search"],{HeL6:,[["HeL6","runtime"]]]);

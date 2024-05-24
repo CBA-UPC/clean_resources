@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/98980a4572ae/1bd3a0633b81/a67f04725c64/RC750e62d4bf9240fe941add0ee6faefd3-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/98980a4572ae/1bd3a0633b81/a67f04725c64/RC750e62d4bf9240fe941add0ee6faefd3-source.min.js', "document.cookie=\"icc=;expires=-1;path=/;domain=siriusxm.com\";");

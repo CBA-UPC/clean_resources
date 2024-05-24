@@ -1,0 +1,1 @@
+function getMidasUserId() { var midasUserId = ""; if (midasUserId === "") { return null; } else { return midasUserId; }}

@@ -1,0 +1,134 @@
+! Title: uBlock filters – Quick fixes
+! Expires: 12 hours
+! Last modified: Tue, 30 Jan 2024 15:41:41 +0000
+! Diff-Path: ../patches/2024.1.30.1042.patch#ublock-quick-fixes
+! Diff-Expires: 317 minutes
+! License: https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE
+! *** uAssets:filters/quick-fixes.txt ***
+*$script,redirect-rule=noopjs,domain=dropgalaxy.*
+*$xhr,redirect-rule=nooptext,domain=dropgalaxy.*
+*$frame,redirect-rule=noopframe,domain=dropgalaxy.*
+*$image,redirect-rule=32x32.png,domain=dropgalaxy.*
+@@||dropgalaxy.*^$ghide
+||d1rp4yowwe587e.cloudfront.net^$script,domain=dropgalaxy.*,important
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect-rule=google-ima.js,domain=dropgalaxy.*
+||pocpoc.io^$domain=dropgalaxy.*
+||mobileoffers-ep-download.com^$domain=dropgalaxy.*
+@@||histats.com/js.js$script,domain=dropgalaxy.*
+@@||popads.net/js/adblock.js$script,domain=dropgalaxy.*
+@@||cdn.jsdelivr.net/gh/prebid/*$script,domain=dropgalaxy.*
+@@||fundingchoicesmessages.google.com^$script,domain=dropgalaxy.*
+@@*$script,xhr,from=dropgalaxy.*,to=googlesyndication.com|doubleclick.net|rsc.cdn77.org|vlitag.com|adoto.net|a2zapk.com|login.popmonetizer.com
+dropgalaxy.*##+js(nowoif)
+dropgalaxy.*##+js(trusted-set, document.visibilityState, visible)
+dropgalaxy.com#@#+js(abort-current-script, document.onkeydown)
+dropgalaxy.*##+js(set, supportedBrowsers, )
+dropgalaxy.*##html.i-amphtml-inabox
+dropgalaxy.*##[id^="TR-"][tr-id][style*="z-index: 9999"]
+! aternos anti adb
+aternos.org##.header-center:style(margin-top:-5000px !important;)
+aternos.org##.sidebar:style(width: 1.745px !important;)
+aternos.org##.ad-dfp:style(min-height: 0.1485mm !important; height: 0.1485mm !important;)
+! pixsera
+imgbncvnv.sbs,pixtryab.shop,imggune.shop,pictryhab.shop##+js(aopr, console.clear)
+imgbncvnv.sbs,pixtryab.shop,imggune.shop,pictryhab.shop##+js(nano-sib, timer)
+imgbncvnv.sbs,pixtryab.shop,imggune.shop,pictryhab.shop##div[id][style^="position: fixed; display: block; width: 100%;"]
+imgbncvnv.sbs,pixtryab.shop,imggune.shop,pictryhab.shop##div[style="width:100%;height:110px"]
+imgbncvnv.sbs,pixtryab.shop,imggune.shop,pictryhab.shop##+js(nowoif, !/prcf.fiyar|themes|pixsense|.jpg/)
+imgbncvnv.sbs,pixtryab.shop,imggune.shop,pictryhab.shop##div[class][style="display: block;"]
+!#if !cap_html_filtering
+!#if env_firefox
+youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots legacyImportant)
+!#endif
+!#endif
+! ||youtube.com/s/desktop/*/jsbin/desktop_polymer.vflset/desktop_polymer.js$~doc,uritransform=/desktop\/\w+\/jsbin/desktop\/6148f390\/jsbin/,domain=www.youtube.com
+www.youtube.com##+js(trusted-rpnt, script, /^(\(function serverContract\(\))/s, "caches.open('yt-appshell-assets').then(a=>['c21d783a','54055272','6148f390'].forEach(i=>a.delete(`/s/desktop/${i}/jsbin/desktop_polymer.vflset/desktop_polymer.js`)));$1")
+! VOE sites
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,3p,redirect=google-ima.js,domain=johntryopen.com
+johntryopen.com##+js(nowoif)
+johntryopen.com##+js(set, console.clear, undefined)
+dragontea.ink##html:not(:has(link[href="https://dragontea.ink/xmlrpc.php"], link[href="/cdn-cgi/styles/challenges.css"])) > body:not(.page-template)
+dragontea.ink##[id$="ink_1000x100_anchor_top"][class="stpdr rendered"][data-google-query-id][style]:style(position: absolute !important;)
+dragontea.ink##[id$="ink_1000x100_anchor"][class="stpdr rendered"][data-google-query-id][style]:style(position: absolute !important;)
+dragontea.ink###stpd_close:remove()
+dragontea.ink##ins[id^="gpt_unit_/"][style="display: block !important; width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; clear: none !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; position: fixed !important; vertical-align: baseline !important; visibility: visible !important; z-index: 2147483647 !important; background: transparent !important;"]
+||kiktu.com/wp-json/wp-statistics/$xhr,important
+||kiktu.com/wp-content/plugins/azee-safelink/img/clickheretodownload*.png$image,1p
+||kiktu.com/wp-content/plugins/azee-safelink/img/Download*.png$image,1p
+||kiktu.com/wp-content/plugins/azee-safelink/img/download_btns*.png$image,1p
+||kiktu.com/wp-content/plugins/azee-safelink/img/play*.jpg$image,1p
+||kiktu.com/wp-content/plugins/azee-safelink/img/StartDownload*.gif$image,1p
+techcyan.com,kiktu.com,upshrink.com,trangchu.news,banaraswap.in###btx1, #btx2, #wg-genx > .mediafire:style(visibility: hidden !important;)
+techcyan.com,kiktu.com,upshrink.com,trangchu.news,banaraswap.in##+js(spoof-css, #btx1\, #btx2\, #wg-genx > .mediafire, visibility, visible)
+.click/?s=$popup,domain=techcyan.com|kiktu.com|upshrink.com|trangchu.news|banaraswap.in
+*$image,domain=techcyan.com|kiktu.com|upshrink.com|trangchu.news|banaraswap.in,redirect-rule=2x2.png:5
+www.chip.de##+js(rpnt, style, { display: block ; }, {display: none !important;}, condition, /aspect-ratio:\s?auto/)
+www.chip.de##body.l-DownloadListing > div:has(> div > ul a[href^="https://www.chip.de/downloads/"] img[src^="https://im.chip.de/"])
+www.chip.de##body.l-DownloadListing .wrapper-safe.mt-sm > .fb > section:not(.Listing) ul:has(> li a[href^="https://www.chip.de/downloads/"] img[src^="https://im.chip.de/"])
+www.chip.de###CR[class="Downloads-Detail"] > #G32 > #M1 > [class="wrapper-safe"] > [class="fb mt-lg"] > [class="fb-col-lg-4 is-hidden-sm is-hidden-md"] > *:has(a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR[class="Downloads-Detail"] > #G32 > #M1 > [class="wrapper-safe"] ul.List.is-separated:has(a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR[class="Downloads-Detail"] > #G32 > #M1 > .wrapper-safe > div:has(> div > div > section > ul.List.is-separated a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR[class="Downloads-Detail"] > #G32 > #M1 > [class]:not([class="wrapper-safe"], [class="fb mt-lg"]) ul.List.is-separated:has(a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR[class="Downloads-Detail"] > #G32 > #M1 > [class]:not([class="wrapper-safe"], [class="fb mt-lg"]):has(> div > section:only-child > ul.List.is-separated a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR:is(.Downloads-Select, .Downloads-Getfile) > #G32 > #M1 > [class="wrapper-safe"] > [class^="fb mt-"] > div[class="fb-col-lg-4 is-hidden-sm is-hidden-md"] > div[class]:has(a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR:is(.Downloads-Select, .Downloads-Getfile) > #G32 > #M1 > [class="wrapper-safe"] > [class^="fb mt-"] > section > [class]:has(ul a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR:is(.Downloads-Select, .Downloads-Getfile) > #G32 > #M1 > [class]:not([class="wrapper-safe"]) ul.List.is-separated:has(a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR:is(.Downloads-Select, .Downloads-Getfile) > #G32 > #M1 > [class]:not([class="wrapper-safe"]):has(> div > section > ul.List.is-separated a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR:is(.Downloads-Select, .Downloads-Getfile) > #G32 > #M1 > .wrapper-safe > *:not([class^="fb mt-"]) ul.List.is-separated:has(a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR:is(.Downloads-Select, .Downloads-Getfile) > #G32 > #M1 > [class$="wrapper-safe"] > *:not([class^="fb mt-"]):has(> div > div > section > ul.List.is-separated a img[src*="https://im.chip.de/ii/"])
+www.chip.de###CR.Downloads-Select > #G32 > #M1 > [class="wrapper-safe"] > [class^="fb mt-"] > section > [class]:has(> a[style="display:flex;"] > div:has-text(Anzeige))
+www.chip.de##body[class="l-DownloadListing is-sticky"] > [class="Main Main--Skyscraper"] > .Main__Container > main[class="Downloads DownloadListing bg-white mt-xs"] > [class="mt-sm wrapper-bleed bg-blue"] + [class="wrapper-safe"]:has(a img[src*="https://im.chip.de/ii/"])
+www.chip.de##body[class="l-DownloadListing is-sticky"] > [class="Main Main--Skyscraper"] > .Main__Container > [class]:not([class^="Downloads DownloadListing"]) > div > ul.List.is-separated:has(a img[src*="https://im.chip.de/ii/"])
+www.chip.de##body[class="l-DownloadListing is-sticky"] > [class]:has(> div > section:only-child > ul.List.is-separated a img[src*="https://im.chip.de/ii/"])
+! restore speed (the anti adblock script causing lag spikes)
+!#if cap_html_filtering
+www.chip.de##^script:has-text(.slice(0, -1); })
+www.chip.de##^script:has-text((Math.PI).toFixed(10).slice(0, -1);)
+!#else
+www.chip.de##+js(rmnt, script, .slice(0\, -1); })
+www.chip.de##+js(rmnt, script, (Math.PI).toFixed(10).slice(0\, -1);)
+!#endif
+gamedrive.org##+js(aost, document.querySelector, /showModal|chooseAction|doAction|callbackAdsBlocked/)
+gamedrive.org##+js(acs, eval, replace)
+!#if cap_html_filtering
+bitcotasks.com##^script:has-text(AdblockRegixFinder)
+||bitcotasks.com/assets/js/mainjs.php$script,1p,replace=/entry.duration > 0/entry.duration < 10/
+.js|$script,redirect-rule=none:10,domain=bitcotasks.com
+!#else
+bitcotasks.com##+js(rmnt, script, AdblockRegixFinder)
+@@||static.ads-twitter.com/uwt.js$script,domain=bitcotasks.com
+@@||coinzillatag.com/lib/fp.js$script,domain=bitcotasks.com
+!#endif
+bitcotasks.com##+js(aeld, blur, event.triggered)
+||bitcotasks.com/assets/ads.php$frame,1p
+! perchance - broken by its dev
+perchance.org##+js(rpnt, script, '/if(\s){0,}\(..*\[\`.*\`\]\("."\)\) \{([\s\S]*?\}){2,}/gm', 'if (location.href.indexOf("ai-") !== -1) {String.prototype.includes=function (){return true};};riot.mount(\'app\', {generator: window.generatorData,dependencies: window.generatorDependenciesData,});window.successfulPageLoad = true;')
+perchance.org##+js(rmnt, script, '/(?<=if\((\s){0,}!window\.(\s){0,}[shouldExist\d+]{1,}\) {)([^;]+)/gms')
+perchance.org##+js(rmnt, script, '/document\[`(.+?)`\]\.innerHTML = window\..*;/gms')
+perchance.org##+js(rmnt, script, '/document.*.innerHTML =window\..*;/gms')
+perchance.org##+js(rmnt, script, '/document\["body"\]\.innerHTML\s*=\s*([^;]+);/g')
+! ytlarge detection
+@@||ytlarge.com^$ghide
+@@||pagead2.googlesyndication.com^$script,domain=ytlarge.com
+ytlarge.com##.adsbygoogle
+@@||ytlarge.com^$script,1p
+! Ad-Shield
+/loader.min.js$xhr,script,domain=loawa.com|ygosu.com|sportalkorea.com|algumon.com|hancinema.net|enetnews.co.kr|edaily.co.kr|economist.co.kr|etoday.co.kr|hankyung.com|isplus.com|hometownstation.com|kagit.kr|inven.co.kr|honkailab.com|warcraftrumbledeck.com|genshinlab.com|thestockmarketwatch.com|thephoblographer.com,replace=/\)\]\(\(function [a-zA-Z0-9]{2}\([a-zA-Z0-9\,]{2,5}\){var/)]((function neutralized(){var/g
+@@||alliptvlinks.com^$1p,script
+@@||alliptvlinks.com^$ghide
+alliptvlinks.com##+js(set, eazyAdUnblockerHolderDiv, {})
+alliptvlinks.com##+js(aost, document.body.innerHTML, /showModal|chooseAction|DeBlocker|mdpRunThePlugin/)
+alliptvlinks.com##+js(no-xhr-if, googlesyndication)
+alliptvlinks.com,daneiakartes.info##+js(aopr, eazyAdUnBlockerHttp) 
+/plugins/eazy-ad-unblocker/*$script,css
+||scdn.co/mp3-ad/$media,redirect=noop-1s.mp4:10,domain=open.spotify.com
+||2mdn.net^$media,redirect=noop-1s.mp4:10,domain=open.spotify.com
+*$media,3p,redirect-rule=noop-1s.mp4:10,domain=open.spotify.com
+@@||free-mp3-download.net^$script,1p
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=free-mp3-download.net
+free-mp3-download.net##iframe#aswift_0:remove()
+apkmirror.com#@#^script:has-text(/style:last-of-type|:empty|APKM\..+?\.innerHTML/)
+apkmirror.com#@#+js(rmnt, script, /style:last-of-type|:empty|APKM\..+?\.innerHTML/)
+@@||cxense.com/document/search?
+! unbreaks raiplay.it (EP issue)
+||raiplay.it/hit-service/$badfilter

@@ -1,0 +1,1 @@
+handle_naver_ads_response({"ads":[],"totalCount":0});

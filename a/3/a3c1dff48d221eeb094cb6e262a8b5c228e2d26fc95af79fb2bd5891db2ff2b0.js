@@ -1,0 +1,6 @@
+
+<script>
+
+var allowedOrigins = [[".*\\.theage\\.com\\.au", "i"], [".*\\.smh\\.com\\.au", "i"], [".*\\.myfairfax\\.com\\.au", "i"], ["^https?://(.+\\.)?agtrader\\.com\\.au$", ""], [".*.essentialbaby.com.au", "i"], [".*.essentialkids.com.au", "i"], ["^subscribers\\.smh\\.com\\.au$", ""], ["^subscribers\\.theage\\.com\\.au$", ""], ["^https?://(.+\\.)?stage\\-subscribers\\.smh\\.com\\.au/$", ""], ["^https?://(.+\\.)?stage\\-subscribers\\.theage\\.com\\.au/$", ""], ["^http://www\\.illawarramercury\\.com\\.au/$", ""], ["^http://localhost:8080$", ""], ["^http://www\\-illawarramercury\\-com\\-au\\.pspring\\.staging\\.newsnow\\.io/$", ""], ["^https?://(.+\\.)?subscribe\\.afr\\.com$", ""], ["^https?://(.+\\.)?subscribe\\.smh\\.com\\.au$", ""], ["^https?://(.+\\.)?subscribe\\.theage\\.com\\.au$", ""], ["^https?://(.+\\.)?smh\\.myfairfax\\.com\\.au$", ""], ["^https?://(.+\\.)?theage\\.myfairfax\\.com\\.au$", ""], ["^https?://(.+\\.)?stage\\-int\\.myfairfax\\.com\\.au$", ""], ["^https?://(.+\\.)?stage\\-subscribe\\.afr\\.com$", ""], ["^https?://(.+\\.)?login\\.myfairfax\\.com\\.au$", ""], [".*\\.afr\\.com", ""], [".*\\.ffxblue\\.com\\.au", "i"], ["^https?://(.+\\.)?watoday\\.com\\.au$", ""]];
+var blockedOriginsn)},!0)}();
+</script>

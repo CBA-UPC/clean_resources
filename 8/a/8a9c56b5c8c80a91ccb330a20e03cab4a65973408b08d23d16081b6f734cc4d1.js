@@ -1,0 +1,1 @@
+document.write('<div class="ao_hird" style="position: relative;"><span style="position: relative; display: block; font-weight: normal; font-style: normal; text-align: center; font-size: 10px; line-height: 15px; padding: 3px; margin:0px auto;width:100%;">Hirdet&eacute;s</span></div>');

@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/062a88abff57/3f6a592c0c6e/b1cc1a7e7646/RC2c534d78de8f44428f8f846bce86c6a2-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/062a88abff57/3f6a592c0c6e/b1cc1a7e7646/RC2c534d78de8f44428f8f846bce86c6a2-source.min.js', "\"registrado\"==window.vocento.dtm.data.tipologiaLogin?window.marfeel.cmd.push([\"compass\",function(e){e.setUserType(\"2\"),e.setSiteUserId(window.vocento.dtm.data.IDGigya)}]):window.marfeel.cmd.push([\"compass\",function(e){e.setUserType(\"0\")}]);");

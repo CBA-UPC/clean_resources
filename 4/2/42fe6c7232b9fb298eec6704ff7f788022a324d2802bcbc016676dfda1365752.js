@@ -1,0 +1,1 @@
+import{w as e}from"./entry.Cu783cqS.js";const l=e(0),i=e(0),n=(o,s=!0)=>{if(!o)return"";let r=o.getHours();const a=r>=12?"PM":"AM";r=r%12||12;let t=`${r}:00`;return s&&(t+=` ${a}`),t};export{n as c,l as h,i as p};

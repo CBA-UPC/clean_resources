@@ -1,0 +1,1 @@
+/**/ all-desc {\n    background-image: url(//img.alicdn.com/tfs/TB1dl28RXXXXXbzaFXXXXXXXXXX-136-50.png);\n    background-repeat: no-repeat;\n    background-size: 68px 25px;\n}\n</style>\n");

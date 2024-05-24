@@ -1,0 +1,1 @@
+com_sas_ci_acs.ob_injector.prototype.getSpotDefinitions=

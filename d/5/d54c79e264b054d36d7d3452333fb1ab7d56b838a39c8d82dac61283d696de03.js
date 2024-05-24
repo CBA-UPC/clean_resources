@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/2cd47122fe1d/06f523b861f0/80185593f445/RC2e8cb5538df24ec9a500a74371e94a63-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/2cd47122fe1d/06f523b861f0/80185593f445/RC2e8cb5538df24ec9a500a74371e94a63-source.min.js', "<style>\n  .video-js .vjs-control-bar {\n    color: #FFF !important;\n  }\n</style>");

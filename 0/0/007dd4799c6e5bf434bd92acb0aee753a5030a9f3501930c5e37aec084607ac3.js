@@ -1,0 +1,1 @@
+.svelte-zlzlqo::-webkit-scrollbar{width:5px}.svelte-zlzlqo::-webkit-scrollbar-track{background:#0f172a}.svelte-zlzlqo::-webkit-scrollbar-thumb{background:#94a3b8;border-radius:10px}.svelte-zlzlqo::-webkit-scrollbar-corner{display:none}.gradient.svelte-3sa73d{background:linear-gradient(270deg,#0f172a 21.57%,#0f172a00)}

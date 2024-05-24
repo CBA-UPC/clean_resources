@@ -1,0 +1,2 @@
+AriaLabel":{"s":"حساسیت لیبل کا بٹن","f":0},"sensitivityButtonLearnMoreLinkText":{"s":"مزيد جانیں","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"بند کريں","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"لیبل کو ہٹایا نہیں جا سکتا","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"آپ کی تنظیم آپ سے اس شے کو لیبل کرنے کا مطالبہ کرتی ہے۔","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings81.9d798a2d8b7a349bdb3b.chunk.v7.js.map

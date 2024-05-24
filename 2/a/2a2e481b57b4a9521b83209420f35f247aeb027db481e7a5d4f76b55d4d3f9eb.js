@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/05852ba8023b/741f445f9173/3b2e6c09412e/RCdd3525f176ec426f8b86a77c07368ae6-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/05852ba8023b/741f445f9173/3b2e6c09412e/RCdd3525f176ec426f8b86a77c07368ae6-source.min.js', "document.getElementsByTagName(\"html\")[0].style[\"scroll-behavior\"]=\"auto\";");

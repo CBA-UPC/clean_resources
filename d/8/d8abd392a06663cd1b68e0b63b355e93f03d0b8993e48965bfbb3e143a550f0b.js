@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/99b399019383/927c2d2012b0/e1638381e2fc/RCf3b0dca6b97642f78404730a06550307-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/99b399019383/927c2d2012b0/e1638381e2fc/RCf3b0dca6b97642f78404730a06550307-source.min.js', "<img style=\"display: none;\" src=\"https://di.rlcdn.com/api/segment?pid=712242\"/>");

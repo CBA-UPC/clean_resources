@@ -1,0 +1,1 @@
+.solar-responsive-image[data-v-435ecf33]{position:relative}.solar-responsive-image img[data-v-435ecf33]{width:100%;height:auto;background:var(--solar-color-neutral-50) url(https://imguol.com.br/c/home/layout/vueland/icons/geral/placeholder-logo.svg) no-repeat center/50%;object-fit:cover;vertical-align:middle}

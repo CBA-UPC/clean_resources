@@ -1,0 +1,1 @@
+.youtube-player__wrap[data-v-fa301130]{position:relative;padding-bottom:56.25%;height:0}.youtube-player__wrap iframe[data-v-fa301130]{position:absolute;top:0;left:0;width:100%;height:100%}

@@ -1,0 +1,2 @@
+(window.officehome_webpackJsonp=window.officehome_webpackJsonp||[]).push([[560],{"5o9B":uttonLearnMoreLinkText":{"s":"了解详细信息","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"关闭","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"无法删除标签","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"你的组织要求你标记此项目。","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings84.fe842d2111876f170b66.chunk.v7.js.map

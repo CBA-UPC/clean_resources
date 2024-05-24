@@ -1,0 +1,1 @@
+console.log("We track cwv metrics only in chrome as google do it")

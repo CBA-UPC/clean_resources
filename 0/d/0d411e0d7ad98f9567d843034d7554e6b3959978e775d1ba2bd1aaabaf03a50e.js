@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/98980a4572ae/1bd3a0633b81/a67f04725c64/RC393c760f6367411fa458a74a9f49ace0-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/98980a4572ae/1bd3a0633b81/a67f04725c64/RC393c760f6367411fa458a74a9f49ace0-source.min.js', "_satellite.cookie.set(\"sxmlastvisit\",Date.now(),{domain:\".siriusxm.com\"});");

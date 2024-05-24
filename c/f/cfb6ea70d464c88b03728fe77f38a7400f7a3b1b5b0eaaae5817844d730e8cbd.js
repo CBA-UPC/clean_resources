@@ -1,0 +1,2 @@
+/*! This file is auto-generated */
+!function(){"use strict";var e={d:o:r:,n={};e.r(n),e.d(n,{escapeAmpersand:function(){return r},escapeAttribute:function(){return c},escapeEditableHTML:function(){return a},escapeHTML:function(){return i},escapeLessThan:function(){return o},escapeQuotationMark:function(){return u},isValidAttributeName:);const t=/[\u007F-\u009F "'>/="\uFDD0-\uFDEF]/;function r(e){return e.replace(/&(?!([a-z0-9]+|#[0-9]+|#x[a-f0-9]+);)/gi,"&amp;")}function u(e){return e.replace(/"/g,"&quot;")}unction c(e){return u(r(e)))}ndow.wp=window.wp||{}).escapeHtml=n}();

@@ -1,0 +1,3 @@
+import{html as l}from"../../vendors/lit-html/lit-html.js";import{ifDefined as o}from"../../vendors/lit-html/directives/if-defined.js";import{getSVGPath as i}from"../../base/config.js";const $=i();export const tplIcon=({name,className,source="non-critical",size,ada:i=null,ariaHidden=true,style})=>{const t=`icon-svg ${className||""}${size?` ${size}-icon`:""}`;return name&&name.length?l`<svg role="presentation" class="${t}" aria-hidden="${ariaHidden}" style="${o(style)}">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="${$}/${source}.svg#icon-${name}"></use>
+    </svg>${i?l`<span class="visually-hidden">${i}</span>`:""}`:l`<div class="${t}" aria-hidden="${ariaHidden}" style="${o(style)}"></div>`};

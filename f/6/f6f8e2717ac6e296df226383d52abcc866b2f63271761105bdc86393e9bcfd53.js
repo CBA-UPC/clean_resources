@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/7139ee5a61cb/RC87bbffc6ff9e42928a26e90bc8ce59ba-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/7d6e749d4118/1f2b049df95b/7139ee5a61cb/RC87bbffc6ff9e42928a26e90bc8ce59ba-source.min.js', " <script id=\"_fed_an_ua_tag\" src=\"https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&subagency=CEN\"></script>");

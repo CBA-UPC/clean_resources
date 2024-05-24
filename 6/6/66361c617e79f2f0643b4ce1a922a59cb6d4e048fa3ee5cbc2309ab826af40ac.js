@@ -1,0 +1,5 @@
+(function(){var a,b;a=this.jQuery||window.jQuery;b=a(window);a.fn.stick_in_parent=function(d){var p,m,o,n,j,h,k,f,l,e,c,g;if(d==null){d={};}g=d.sticky_class,h=d.inner_scrolling,c=d.recalc_every,e=d.parent,l=d.offset_top,f=d.spacer,o=d.bottoming;
+if(l==null){l=0;}if(e==null){e=void 0;}if(h==null){h=true;}if(g==null){g="is_stuck";}p=a(document);if(o==null){o=true;}n=function(t,G,q,i,B,C,y,z){var D,H,r,F,I,s,w,u,x,A,v,E;
+if(t.data("sticky_kit")){return;}t.data("sticky_kit",true);I=p.height();w=t.parent();if(e!=null){w=w.closest(e);}if(!w.length){throw"failed to find stick parent";
+}r=false;D=false;v=f!=null?f&&t.closest(f):a("<div />");u=u();if(C===i){return;}F=void 0;s=l;A=c;E=x=H=b.on("touchmove",E);b.on("scroll",E);b.on("resize",x);a(document.body).on("sticky_kit:recalc",x);t.on("sticky_kit:detach",H);
+return setTimeout(E,0);};for(j=0,k=this.length;j<k;j++){m=this[j];n(a(m));}return this;};}).call(this);

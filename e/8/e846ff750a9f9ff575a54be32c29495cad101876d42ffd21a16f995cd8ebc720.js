@@ -1,0 +1,1 @@
+.notificationPreview[data-v-23e7fdf2]{width:220px}.notificationPreview-icon[data-v-23e7fdf2]{width:20px;height:20px}

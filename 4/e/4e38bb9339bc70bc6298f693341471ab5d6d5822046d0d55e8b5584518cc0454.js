@@ -1,0 +1,1 @@
+ItemViewRecommend.SetC2ItemViewRecommend([]);

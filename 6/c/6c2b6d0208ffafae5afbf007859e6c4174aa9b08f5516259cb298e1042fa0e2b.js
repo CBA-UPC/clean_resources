@@ -1,0 +1,1 @@
+)})),d(),window.addEventListener("message",(function(e){e.data.readOldCookie&&d()})),window.parent.postMessage("iframeContentLoaded","*")}();</script></head><body></body></html>

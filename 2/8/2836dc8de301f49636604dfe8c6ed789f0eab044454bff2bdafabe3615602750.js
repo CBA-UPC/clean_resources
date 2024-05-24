@@ -1,0 +1,1 @@
+yolWPJsonp([46],{329:function(n,t,e){"use strict";var i=e(1);i(function(){var n=".election-sangiin-profile-top-index",t=i(n+"-wrap");i(n+"__more-btn").on("touchend",function(n){n.preventDefault(),i(this).hide(),t.css("height","100%")})})}},[329]);

@@ -1,0 +1,3 @@
+(function(){
+run(document, 'https://cdn.pbstck.com/user-sessions-0a43cc9.js', '_.userSessions.pubstackAutoconfig(' + JSON.stringify({"endpoint":{"script":"https://cdn.pbstck.com/user-sessions-0a43cc9.js","gateway":"https://intake.pbstck.com/v1/intake"},"scopeId":"3c85d72f-c759-4521-be7f-33d16280e2f6","tagId":"feaba2b3-9a7f-4695-be44-d5b420c55476","bootstrapTime":1705577830891,"bootstrapVersion":"undefined","device":"desktop","browserName":"Firefox","browserVersion":"45","osName":"Windows","osVersion":"7","country":"ES"}) + ');');
+})()

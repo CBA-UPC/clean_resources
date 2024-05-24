@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/e857ea722210/c60b88468d27/85a62932d8a7/RC82b100ab3bd548cbb1a7a0a2419cd71f-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/e857ea722210/c60b88468d27/85a62932d8a7/RC82b100ab3bd548cbb1a7a0a2419cd71f-source.min.js', "<!-- Twitter conversion tracking event code -->\n<script type=\"text/javascript\">\n  // Insert Twitter Event ID\n  twq('event', 'tw-o36et-ocg8x', {\n  });\n</script>\n<!-- End Twitter conversion tracking event code -->");

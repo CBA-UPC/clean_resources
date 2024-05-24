@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.ovkvmf=ASCDP.ovkvmf||{},ASCDP.ovkvmf.propagateWinResize=function(){for(var e in ovkvmf.registredFrames)ovkvmf.registredFrames.hasOwnProperty(e)&&(-1===e.indexOf("ascdplacebo")&&ovkvmf.sendWinResize(e),ovkvmf.sendPageSize(e))};

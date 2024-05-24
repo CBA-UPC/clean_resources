@@ -1,0 +1,1 @@
+import{z as o,R as t,_ as e}from"./q-47fbe0ac.js";import{n as r}from"./q-9f2dbb5c.js";const a=i=r,s=o(t("s_XztA2aUHZtc")),n=o(t("s_4Qmy2tb6swQ"));export{s as EmbedWallTop,n as default,i as head,a as onGet};

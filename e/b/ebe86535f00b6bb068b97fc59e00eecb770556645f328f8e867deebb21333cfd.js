@@ -1,0 +1,29 @@
+//tealium universal tag - utag.sync ut4.0.202311301311, Copyright 2023 Tealium.com Inc. All Rights Reserved.
+try{try{(function(){var ud=window.utag_data||{};var site_name=window.location.href
+.split(".")[1]
+.replace("sit","")
+.replace("uat","");var cookieRead=var log=function(){if(window.location.href.indexOf("ad_test_debug=1")>-1||(window.localStorage&&window.localStorage.ad_test_debug==="1")){ud.ad_console_debug=true;}
+if(ud.ad_console_debug&&window.console!=="undefined"){console.log.apply(window.console,Array.prototype.slice.call(arguments));}};var logUserStatus=function(){log("utag_data.pc_memtype: "+
+ud.pc_memtype+
+"\nutag_data.pc_pcsid: "+
+ud.pc_pcsid);};var isSupercoach=ud.is_supercoach||false;var authData={site:site_name==="news"?"newscomau":site_name==="sn"?"skynews":isSupercoach?"supercoach":site_name};function initRampartSync(){var rampart=new Rampart(authData);return rampart;}
+var rampartToken=cookieRead("rampart_token");var subscriberToken=cookieRead("subscriber_token");var getAuth0LoginDefaults=function(){var think_id="";var subId="";var subProvider="";var authProvider="";var authProviderRemap={facebook:"facebook.com",twitter:"twitter.com","google-oauth2":"google.com",linkedin:"linkedin.com",auth0:""};var memtype=ud.pc_memtype||ud.pcmemtype||"anonymous";var getAuth0JSON=function(payload){try{var payloadDecoded=atob(payload.replace(/-/g,"+").replace(/_/g,"/"));return JSON.parse(payloadDecoded);}catch(err){return false;}};if(rampartToken&&rampartToken.indexOf(".")>-1){var payload=rampartToken.split(".")[1];var auth0=getAuth0JSON(payload);think_id=auth0["http://login.newscorpaustralia.com.au/profile"]?auth0["http://login.newscorpaustralia.com.au/profile"].think_id:"";authProvider=auth0["http://login.newscorpaustralia.com.au/profile"]?auth0["http://login.newscorpaustralia.com.au/profile"].authProvider:"";authProvider=authProvider in authProviderRemap?authProviderRemap[authProvider]:authProvider;subId=auth0.sub.split("|")[1];subProvider=auth0.sub.split("|")[0];}
+if(subscriberToken&&rampartToken){var entitlements=JSON.parse(decodeURI(subscriberToken));memtype=entitlements.entitlements?"subscriber":"registered";}else if(rampartToken){memtype="registered";}
+return{think_id:think_id,memtype:memtype,authProvider:authProvider,subId,subProvider};};if(typeof Rampart!=="undefined"){log("Rampart.js loaded.");if(!rampartToken){log("No Rampart token cookie present. Getting user status from Rampart API.");if(isSupercoach)window.loginStatusPromise=null;auth=initRampartSync();auth
+.getLoginStatus()
+.then(function(response){if(response.status==="loggedin"){ud.pc_memtype=response.memType;ud.pc_pcsid=response.think_id?response.think_id:"";logUserStatus();}})
+.catch(function(err){if(isSupercoach)window.loginStatusPromise=null;if(err.status=="not_authorised"){ud.pc_memtype="anonymous";ud.pc_pcsid="none";logUserStatus();}});}else{log("Rampart token cookie is present. Getting user status from it.");authData=getAuth0LoginDefaults();ud.pc_memtype=authData.memtype;ud.pc_pcsid=authData.think_id;logUserStatus();}}else{log("Rampart.js not loaded.");}})();}catch(e){console.log(e)}}catch(e){console.log(e);}
+try{try{(function(){if(location.hostname.indexOf('supercoach.')!==-1)return;var w=window,wut=w.utag_data||{};var pageTypes=["index","recipe","homepage","collection","story","galleries","video","breach+shopfront"];var optimizelyScriptUrl="https://cdn.optimizely.com/js/20352597942.js";var contentTypeValue=(location.hostname==='www.dailytelegraph.com.au'&&location.pathname.indexOf('subscribe/news/1')!==-1)?['homepage']:wut.net_content_type.split("+");var matchFound=contentTypeValue.some(;function loadScriptAsync(src){return new Promise(function(resolve,reject){var script=document.createElement("script");script.type="text/javascript";script.src=src;script.onload=script.onerror=document.head.appendChild(script);});}
+var includeToAllPagesBySite=function(){var allow=false;if(wut.net_site==='bodyandsoul'||wut.net_site==='escape'){allow=true;}
+return allow;}
+if(matchFound||includeToAllPagesBySite()){loadScriptAsync(optimizelyScriptUrl)
+.then(
+.catch(;}})();}catch(e){console.log(e)}}catch(e){console.log(e);}
+try{try{(function(){if(location.hostname.indexOf('supercoach.')!==-1)return;var w=window,wut=w.utag_data||{};var getOptimizelyData=function(){var data=window["optimizely"].get("data");var dataExperiments=data.experiments;var state=window["optimizely"].get("state");var campaignState=state.getCampaignStates(;var namesCombo=[];for(var campaignExperimentId in campaignState){if(campaignState.hasOwnProperty(campaignExperimentId)){var experiment=campaignState[campaignExperimentId];if(experiment.isActive){var decisionString=state.getDecisionString({"campaignId":campaignExperimentId});namesCombo.push(decisionString);}}}
+var result=namesCombo.length>1?namesCombo.join(";"):namesCombo.join("");return result;}
+var setOptimizelyResultValue=function(event){console.warn("Optimizely Event Fired",event);wut.abt=getOptimizelyData();}
+window["optimizely"]=window["optimizely"]||[];window["optimizely"].push({type:"addListener",filter:{type:"lifecycle",name:"initialized"},handler:setOptimizelyResultValue});window["optimizely"].push({type:"addListener",filter:{type:"lifecycle",name:"activated"},handler:setOptimizelyResultValue});})();}catch(e){console.log(e)}}catch(e){console.log(e);}
+if(false||true&&window.location.host.match(/^(|.*\.)news(dev|sit|uat)\.com\.au$/)&&window.location.pathname==="/"){(function(){var css=""+
+".story-block__heading { visibility: hidden; }"+
+"";var style=document.createElement('style');style.id="chartbeat-flicker-control-style";style.type='text/css';if(style.styleSheet){style.styleSheet.cssText=css;}else{style.appendChild(document.createTextNode(css));}
+var head=document.head||document.querySelector('head');head.appendChild(style);window.setTimeout(1000);})();}

@@ -1,0 +1,2 @@
+ol&&t!==Symbol.prototype?"symbol":typeof t};e.default=function(t){return function(t){for(var e=arguments.length,n=Array(e>1?e-1:0),c=1;c<e;c++)n[c-1]=arguments[c];return 1===n.length&&"object"===r(n[0])&&(n=n[0]),n&&n.hasOwnProperty||(n={}),t.replace(a,(function(e,r,a,c){var l=void 0;return"{"===t[c-1]&&"}"===t[c+e.length]?a:null==(l=(0,o.hasOwn)(n,a)?n[a]:null)?"":l}))}};var o=n(199),a=/(%|)\{([0-9a-zA-Z_]+)\}/g}}]);
+//# sourceMappingURL=5.77bc31fd74f72bbd4a5c.js.map

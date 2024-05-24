@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/5ef092d1efb5/2537c33769cb/c03f3fd14365/RCf0351de2f27d4af49c6b1422fe0ec74a-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/5ef092d1efb5/2537c33769cb/c03f3fd14365/RCf0351de2f27d4af49c6b1422fe0ec74a-source.min.js', "var head=document.getElementsByTagName(\"head\"),newMetaTag=document.createElement(\"meta\");newMetaTag.name=\"facebook-domain-verification\",newMetaTag.content=\"fwzwhbbzwmg5fzgotc2go51olc3566\",head[0].appendChild(newMetaTag);");

@@ -1,0 +1,1 @@
+!"clarity",document,window,"script",{"projectId":"98sfv4glec","upload":"https://d.clarity.ms/collect","expire":365,"cookies":["_uetmsclkid","_uetvid"],"track":true,"lean":true,"content":true,"dimensions":[[1000,0,".cart-item-title"],[1001,0,".item-price"]],"dob":1492});

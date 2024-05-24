@@ -1,0 +1,1 @@
+!{28:function(e,t,n){"use strict";n.r(t);({init(){window.pmc.hooks.add_filter("cxense_entitlements",(e,{has:t,or:n,exec:r})=>r({"wwd-reg":t("WWD.REG"),"digital-daily":t("WWD.DD"),annual:t("WWD.COM"),"annual-dd":n(t("WWD.COM","WWD.DD"),t("WWD.COMBO")),archive:t("WWD.ARCHIVE"),"archive-dd":n(t("WWD.ARCHIVE","WWD.DD"),t("WWD.ARCHIVE","WWD.COMBO"))})||e)}}).init()}});

@@ -1,0 +1,1 @@
+function adViewability(event){var slot=event.slot.getSlotElementId();if(typeof slot!=="undefined"){if(slot=="header-ad-slot"&&event.isEmpty){$(".ad__slot--leaderboard").removeClass("ad__fixed-viewability").addClass("ad__is-empty")}}setTimeout(4e3)}

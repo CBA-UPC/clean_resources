@@ -1,0 +1,1 @@
+.threadItemCard-price.threadItemCard-price--voucher span{height:auto}.threadItemCard-price.threadItemCard-price--voucher .icon{margin-right:.25em;height:1em;width:auto}

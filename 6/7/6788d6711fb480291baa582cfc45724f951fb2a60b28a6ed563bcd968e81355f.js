@@ -1,0 +1,1 @@
+/**/ typeof yaBrowserUpdaterJSONPCallback === 'function' && yaBrowserUpdaterJSONPCallback({"needUpdate":false,"browser":"fx","version":"45.0","browserName":"Firefox"});

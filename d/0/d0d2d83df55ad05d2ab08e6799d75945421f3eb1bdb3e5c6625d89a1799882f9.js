@@ -1,0 +1,2 @@
+rchMEItemSelected":"Ставката е избрана","searchMESearchComplete":"Пребарувањето заврши","searchMESearchCleared":"Пребарувањето на полето за уредување е избришано."}}')}}]);
+//# sourceMappingURL=873.0829c4746c7387e3a656.chunk.v7.js.map

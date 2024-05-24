@@ -1,0 +1,1 @@
+/* !color-cp:results-index */.results-index .ver-mais{clear:both}/* !end-color-cp:results-index */

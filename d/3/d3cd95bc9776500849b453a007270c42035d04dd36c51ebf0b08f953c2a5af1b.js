@@ -1,0 +1,2 @@
+s":"Белгі таңдау","f":0},"sensitivityButtonAriaLabel":{"s":"Құпиялылық белгісінің түймешігі","f":0},"sensitivityButtonLearnMoreLinkText":{"s":"Қосымша мәлімет","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"Жабу","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"Белгіні жою мүмкін емес","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"Ұйымыңыздың талабы бойынша бұл элементті белгілеп алу қажет.","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings40.d117a0f1b9353d783c25.chunk.v7.js.map

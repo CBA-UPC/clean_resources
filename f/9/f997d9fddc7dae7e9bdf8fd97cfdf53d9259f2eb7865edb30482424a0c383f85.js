@@ -1,0 +1,2 @@
+ທ່ານຈຳເປັນຕ້ອງ {0} ເພື່ອໃຊ້ແອັບນີ້.","searchMEAuthLinkText":"ລົງຊື່ເຂົ້າໃຊ້","searchMEItemSelected":"ເລືອກລາຍການແລ້ວ.","searchMESearchComplete":"ຊອກຫາສຳເລັດແລ້ວ","searchMESearchCleared":"ລຶບລ້າງຊ່ອງແກ້ໄຂການຊອກຫາແລ້ວ"}}')}}]);
+//# sourceMappingURL=868.72d7ddbb5213f1b64b95.chunk.v7.js.map

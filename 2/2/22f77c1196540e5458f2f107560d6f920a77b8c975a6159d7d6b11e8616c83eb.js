@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.getPlacementName=function(a){return(a.match("teaser")?a:(a.match(/(.*?)_\d.*/)||["",a])[1]).replace("pub_","")};

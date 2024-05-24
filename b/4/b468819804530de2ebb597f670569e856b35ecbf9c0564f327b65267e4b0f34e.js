@@ -1,0 +1,13 @@
+/*!
+ * Packery PACKAGED v1.4.3
+ * bin-packing layout library
+ *
+ * Licensed GPLv3 for open source use
+ * or Flickity Commercial License for commercial use
+ *
+ * http://packery.metafizzy.co
+ * Copyright 2015 Metafizzy
+ */
+
+!window),window),window),window),window),call(this),window),Element.prototype),window,,window,,window,,window,function(){ar b=window.Packery=return b.Rect=a,a.defaults={x:0,y:0,width:0,height:0},a.prototype.contains=a.prototype.overlaps=a.prototype.getMaximalFreeRects=a.prototype.canFit=a}),window,function(a){.prototype.reset=b.prototype.pack=b.prototype.placeInSpace=b.prototype.placed=b.prototype.mergeSortSpaces=b.prototype.addSpace=b.mergeRects=var c={downwardLeftToRight:function(a,b){return a.y-b.y||a.x-b.x},rightwardTopToBottom:;return b}),window,function(a,b,c){var d=a("transform"),e=e.prototype=new b.Item;var f=e.prototype._create;return e.prototype._create=e.prototype.dragStart=e.prototype.dragMove=e.prototype.dragStop=e.prototype.positionPlaceRect=e.prototype.getPlaceRectCoord=e.prototype.copyPlaceRectPosition=e.prototype.removeElem=e}),function(a,b){"function"==typeof define&&define.amd?define(["classie/classie","get-size/get-size","outlayer/outlayer","packery/js/rect","packery/js/packer","packery/js/item"],b):"object"==typeof exports?module.exports=b(require("desandro-classie"),require("get-size"),require("outlayer"),require("./rect"),require("./packer"),require("./item")):a.Packery=b(a.classie,a.getSize,a.Outlayer,a.Packery.Rect,a.Packery.Packer,a.Packery.Item);
+}(window,function(a,b,c,d,e,f){function g(a,b){return a.position.y-b.position.y||a.position.x-b.position.x}.prototype.canFit=var i=c.create("packery");return i.Item=f,i.prototype._create=i.prototype._resetLayout=i.prototype._getMeasurements=i.prototype._getItemLayoutPosition=i.prototype._packItem=i.prototype._setMaxXY=i.prototype._setRectSize=i.prototype._applyGridGutter=i.prototype._getContainerSize=i.prototype._manageStamp=i.prototype.sortItemsByPosition=i.prototype.fit=i.prototype._bindFitEvents=function(a){ar c=this,d=0;a.on("layout",function(){return b(),!0}),this.on("layoutComplete",},i.prototype.resize=i.prototype.itemDragStart=i.prototype.itemDragMove=i.prototype.clearDragTimeout=i.prototype.itemDragEnd=i.prototype._getDragEndLayoutComplete=function(b,c){var d=c&&c.needsPositioning,e=0,f=d?2:1,g=this;return function(){return e++,e!=f?!0:(c&&(a.remove(c.element,"is-positioning-post-drag"),c.isPlacing=!1,c.copyPlaceRectPosition()),g.unstamp(b),g.sortItemsByPosition(),d&&g.dispatchEvent("dragItemPositioned",null,[c]),!0)}},i.prototype.bindDraggabillyEvents=i.prototype.bindUIDraggableEvents=i.Rect=d,i.Packer=e,i});

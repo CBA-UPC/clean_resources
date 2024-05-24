@@ -1,0 +1,1 @@
+try{document.getElementById('FK-Dating-Tab').innerHTML = '<script defer type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> <ins class="eas6a97888e" data-zoneid="4110518" data-keywords="{keywords}" data-sub="527754719"></ins> <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>';}catch(e){};

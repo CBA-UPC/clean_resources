@@ -1,0 +1,1 @@
+var ASCDP=window.ASCDP||{};ASCDP.adS=ASCDP.adS||{},ASCDP.adS.getContWidth=function(){var r=0,e=ASCDP.pageSet;if("d"!==e.view)return ASCDP.adS.getWinWidth();for(var t=0;t<e.innerWrapperArr.length;t++){var i=document.querySelector(e.innerWrapperArr[t]);if(i){r=0!==i.clientWidth?i.clientWidth:i.offsetWidth;break}}return r};

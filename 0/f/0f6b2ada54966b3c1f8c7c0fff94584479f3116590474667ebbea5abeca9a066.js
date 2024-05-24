@@ -1,0 +1,1 @@
+yolWPJsonp([50],{355:function(o,n,c){"use strict";var e=c(1);e(function(){var o=e(".election-local-tochijisen2016-candidate-toggle"),n=e(".election-local-tochijisen2016-candidate");o.on("click",})}},[355]);

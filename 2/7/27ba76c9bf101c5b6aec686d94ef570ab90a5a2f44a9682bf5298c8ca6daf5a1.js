@@ -1,0 +1,1 @@
+var country = "spain"; var countryisocode = "esp"; var state = "barcelona"; var metro = "no metro"; var metrocode = "0"; var postcode = "08001"; var offset = "100"; var dst = "n"; var countrycode = "724"; var connection = "broadband"; 

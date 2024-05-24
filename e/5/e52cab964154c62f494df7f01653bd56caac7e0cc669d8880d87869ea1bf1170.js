@@ -1,0 +1,1 @@
+.EmptyRenderer__root--k_2U9{border:2px dashed #ccc;color:#545454;margin:0 auto;max-width:1216px;padding:0 10px;text-align:left}.Footnote__root--lso2g{color:#727272;font-size:.83333333rem;line-height:1.5;margin-bottom:3.675rem;width:100%}@media only screen and (min-width:768px){.Footnote__root--lso2g{font-size:.76923077rem;margin-bottom:5.25rem}}

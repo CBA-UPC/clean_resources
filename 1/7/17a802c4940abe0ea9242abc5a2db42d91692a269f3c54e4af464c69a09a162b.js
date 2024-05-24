@@ -1,0 +1,1 @@
+mpop-init"];Array.isArray(We)&&ze.runSpot.apply(ze,We),Ke=function(){for(var e=[],t=0;t<arguments.length;t++)e[t]=arguments[t];return ze.runSpot.apply(ze,e)},e[Ve="__popunder-event"]=Ke,t[Ve]&&(function(i){t[i].forEach((function(t){t(e[i])}))}(Ve),t[Ve]=null)})()})();

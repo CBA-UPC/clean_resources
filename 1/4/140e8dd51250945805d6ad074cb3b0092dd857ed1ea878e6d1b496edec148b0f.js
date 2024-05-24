@@ -1,0 +1,7 @@
+;(function(){var dfltPluginCfg={};var dfltGlobalCfg={"site":570592,"log":"","logSSL":"","domain":"xiti.com","collectDomain":"logc407.xiti.com","collectDomainSSL":"logs1407.xiti.com","userIdOrigin":"server","pixelPath":"/hit.xiti","disableCookie":false,"disableStorage":false,"cookieSecure":false,"cookieDomain":"","preview":false,"plgs":["Campaigns","Clicks","ClientSideUserId","ContextVariables","Page","RichMedia","InternalSearch","OnSiteAds"],"lazyLoadingPath":"","documentLevel":"document","redirect":false,"activateCallbacks":true,"medium":"","ignoreEmptyChapterValue":true,"base64Storage":false,"sendHitWhenOptOut":false,"forceHttp":false,"requestMethod":"GET","maxHitSize":2000,"urlPropertyAuto":false,"urlPropertyQueryString":false};((window);
+var Utils=ATInternet.Utils=new Utils;
+var BuildManager=TriggersManager=PluginsManager=CallbacksManager=BufferManager=PropertiesManager=Tag=
+ATInternet.Tracker.Tag=Tag;ATInternet.Tracker.instances=[];ATInternet.Tracker.pluginProtos={};ATInternet.Tracker.addPlugin=ATInternet.Tracker.delPlugin=
+ATInternet.Tracker.callbackProtos={};
+}).call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);(.call(window);
+if(typeof window.ATInternet.onTrackerLoad==='function'){window.ATInternet.onTrackerLoad();}

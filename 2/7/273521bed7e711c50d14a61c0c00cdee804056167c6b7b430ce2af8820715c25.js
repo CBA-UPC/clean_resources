@@ -1,0 +1,2 @@
+{"responseCode": "Ok"}
+","serviceUrl":"jssdk.mparticle.com/v2/JS/","secureServiceUrl":"jssdks.mparticle.com/v2/JS/","minWebviewBridgeVersion":2,"workspaceToken":"2FC20667","kitConfigs":[],"pixelConfigs":[],"flags":{"offlineStorage":"100","directURLRouting":"False","eventsV3":"100","eventBatchingIntervalMillis":"10000"}}

@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/5dfc7d97c6fb/7b9dae61b2a1/b4f987676724/RC55f7ba69e8ab4152bceaae509b17f5cf-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/5dfc7d97c6fb/7b9dae61b2a1/b4f987676724/RC55f7ba69e8ab4152bceaae509b17f5cf-source.min.js', "<script type=\"text/javascript\" src=\"https://cdn.siemens-web.com/js/jquery/3.6.0/jquery-3.6.0.min.js\" async=\"\"></script>");

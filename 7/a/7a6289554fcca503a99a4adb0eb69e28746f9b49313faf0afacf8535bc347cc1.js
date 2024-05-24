@@ -1,0 +1,1 @@
+import{j as n}from"./e5833d38.js";import{T as i}from"./48a35c56.js";const e=({headerMessage:r,subHeaderMessage:t})=>n.jsxs(n.Fragment,{children:[r&&n.jsx("h2",{className:"c-heading-2 heading-intro__heading",children:n.jsx(i,{textKey:r})}),t&&n.jsx("div",{className:"c-paragraph-3 heading-intro__subheading",children:n.jsx(i,{textKey:t})})]});export{e as H};

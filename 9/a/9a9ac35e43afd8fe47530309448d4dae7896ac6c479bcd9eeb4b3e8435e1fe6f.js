@@ -1,0 +1,15 @@
+var var_e3u7gui3h6 = '';
+var_e3u7gui3h6 += "<"+"script type=\"application/javascript\">\n";
+var_e3u7gui3h6 += "var ad_idzone = \"4425256\",\n";
+var_e3u7gui3h6 += "ad_popup_fallback = false,\n";
+var_e3u7gui3h6 += "ad_popup_force = false,\n";
+var_e3u7gui3h6 += "ad_chrome_enabled = true,\n";
+var_e3u7gui3h6 += "ad_new_tab = false,\n";
+var_e3u7gui3h6 += "ad_frequency_period = 60,\n";
+var_e3u7gui3h6 += "ad_frequency_count = 1,\n";
+var_e3u7gui3h6 += "ad_trigger_method = 3,\n";
+var_e3u7gui3h6 += "ad_trigger_delay = 0\n";
+var_e3u7gui3h6 += "ad_t_venor = false;\n";
+var_e3u7gui3h6 += "<"+"/script>\n";
+var_e3u7gui3h6 += "<"+"script type=\"application/javascript\" src=\"https://a.pemsrv.com/popunder1000.js\"><"+"/script>\n";
+document.write(var_e3u7gui3h6);

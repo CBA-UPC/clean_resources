@@ -1,0 +1,1 @@
+!(('apstag', window, document, 'script', '//c.amazon-adsystem.com/aax2/apstag.js');

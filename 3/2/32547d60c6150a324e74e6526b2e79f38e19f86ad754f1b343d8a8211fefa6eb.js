@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/98980a4572ae/1bd3a0633b81/a67f04725c64/RC5f7236e48699457aaef7def028d2bf10-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/98980a4572ae/1bd3a0633b81/a67f04725c64/RC5f7236e48699457aaef7def028d2bf10-source.min.js', "document.querySelectorAll(\"a[href*='sxm.smart.link']\").forEach((function(t){t.hasAttribute(\"target\")||(t.setAttribute(\"target\",\"sxmsmartlink\"),_satellite.logger.log(\"JSA*** Setting Attribute on \"+t.getAttribute(\"href\")))}));");

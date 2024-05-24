@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RCfffe7992431a4e14a35ec6362598d352-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RCfffe7992431a4e14a35ec6362598d352-source.min.js', "!function(e){var t=e.createElement(\"script\");t.src=e.location.protocol+\"//tag.bounceexchange.com/1369/i.js\",t.async=!0,e.getElementsByTagName(\"head\")[0].appendChild(t)}(document),_satellite.logger.info(\"DTM:BounceX - Site Tag\");");

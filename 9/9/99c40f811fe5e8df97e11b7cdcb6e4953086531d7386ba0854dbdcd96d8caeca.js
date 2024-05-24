@@ -1,0 +1,1 @@
+.results-index-wrapper h2{margin:20px 0 40px;font-size:26px;line-height:26px;color:#1a1a1a;font-weight:300}.results-index-wrapper .offer-notice{margin-top:50px;margin-bottom:0}@media (max-width:767px){.results-index-wrapper h2{text-align:center}.results-index-wrapper .offer-notice{margin-top:40px}}

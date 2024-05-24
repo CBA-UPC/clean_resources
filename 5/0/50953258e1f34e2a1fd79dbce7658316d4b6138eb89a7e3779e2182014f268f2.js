@@ -1,0 +1,1 @@
+.link-wrapper[data-v-6ac0e45c]{position:relative}.link-wrapper.link-modal[data-v-6ac0e45c]{cursor:pointer}.link-wrapper.tile-link[data-v-6ac0e45c]{font-family:Helvetica-Now-Text-Bold,Helvetica,Arial,sans-serif;text-decoration:underline}

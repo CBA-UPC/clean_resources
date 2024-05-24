@@ -1,0 +1,2 @@
+/*! For license information please see npm-xg-plugin.db6b02c31274788f1e13.js.LICENSE.txt */
+k}}return i&&Object.keys(i).forEach((function(e){t[e]=i[e]})),t}i.isBrowser="undefined"!=typeof window&&void 0!==window.navigator,i.hardwareConcurrency=i.isBrowser?0|window.navigator.hardwareConcurrency:0,i.deviceMemory=i.isBrowser?0|window.navigator.deviceMemory:0}}]);

@@ -1,0 +1,1 @@
+{"errorCode":405,"errorMessage":"HTTP 405 Method Not Allowed (getMethodRouter(MethodSelectingRouter.java:400))  for (GET) https://trafficmanager.anyclip.com/trafficmanager/api/authorization/authorize","customMessage":""}

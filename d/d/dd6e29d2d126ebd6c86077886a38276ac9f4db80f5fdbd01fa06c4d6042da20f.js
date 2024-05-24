@@ -1,0 +1,2 @@
+/*! For license information please see vdo.player.8.0.js.LICENSE */
+reamType="live",t.assetKey=e.assetKey;else{if(!(e instanceof ne))return void window.console.error("initDai() first parameter must be an instance of LiveStream or VodStream.");t.streamType="vod",t.cmsId=e.cmsId,t.videoId=e.videoId}t.streamFormat=e.streamFormat,this.imaDai=new ie(this,t)}));i(39);window.vdo_videojs=s.default}]);

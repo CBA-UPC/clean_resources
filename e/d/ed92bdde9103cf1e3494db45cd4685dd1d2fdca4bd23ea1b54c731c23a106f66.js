@@ -1,0 +1,1 @@
+((window);!function(){"use strict";const e=window.__oovvuuPlayerConfig,n=`${null==e?void 0:e.API_URL}/player/v2/index.js`;var o,t,l,d,r,i;o=document,t="script",l="oovvuu-player-sdk-v2",i=o.getElementsByTagName(t)[0],o.getElementById(l)||((r=o.createElement(t)).id=l,r.defer=!0,r.type="module",r.src=n,null===(d=null==i?void 0:i.parentNode)||void 0===d||d.insertBefore(r,i))}();

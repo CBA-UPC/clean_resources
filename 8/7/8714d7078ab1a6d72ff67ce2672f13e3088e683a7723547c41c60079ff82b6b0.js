@@ -1,0 +1,1 @@
+@media (max-width:767px){.photo.photo-embed{max-width:initial!important}}@media (min-width:768px){.photo.photo-embed{float:left;margin-right:20px}.photo.photo-embed[class*=crop-615]{max-width:initial!important;float:none;margin-right:0;width:100%}.photo.photo-embed .image [data-src]{position:relative}.photo.photo-embed .image i{display:none}}

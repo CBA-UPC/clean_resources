@@ -1,0 +1,166 @@
+<!DOCTYPE html><html lang="en"><head><script>
+    window.kcContext=  
+(()=>{
+
+    const out = 
+{
+    "execution": "374fefa1-ce2a-4c56-bca3-ee30c129e110",
+    "social": {
+        "displayInfo": true,
+        "providers": [
+            {
+                "displayName": "Facebook",
+                "providerId": "facebook",
+                "loginUrl": "\/realms/trafficstars/broker/facebook/login?client_id=web-app&tab_id=GcdXoPB_9q0&session_code=CjwaG31AatfcujcRzDLt1AZ-T3ef-WX7jkLEccXfKeQ",
+                "iconClasses": "fa fa-facebook",
+                "alias": "facebook",
+            },
+            {
+                "displayName": "Google",
+                "providerId": "google",
+                "loginUrl": "\/realms/trafficstars/broker/google/login?client_id=web-app&tab_id=GcdXoPB_9q0&session_code=CjwaG31AatfcujcRzDLt1AZ-T3ef-WX7jkLEccXfKeQ",
+                "iconClasses": "fa fa-google",
+                "alias": "google",
+            },
+        ],
+    },
+    "auth": {
+        "showResetCredentials": false,
+        "authenticationSelections": [
+        ],
+        "showUsername": false,
+        "showTryAnotherWayLink": false,
+    },
+    "profile": {
+        "attributesByName": {
+        },
+        "context": "REGISTRATION_PROFILE",
+        "formData": {
+        },
+        "attributes": [
+        ],
+    },
+    "login": {
+    },
+    "url": {
+        "oauthAction": "\/realms/trafficstars/login-actions/registration",
+        "resourcesPath": "\/resources/s7gli/login/trafficstars",
+        "loginAction": "https://id.trafficstars.com/realms/trafficstars/login-actions/registration?session_code=CjwaG31AatfcujcRzDLt1AZ-T3ef-WX7jkLEccXfKeQ&execution=374fefa1-ce2a-4c56-bca3-ee30c129e110&client_id=web-app&tab_id=GcdXoPB_9q0",
+        "loginUrl": "\/realms/trafficstars/login-actions/authenticate?client_id=web-app&tab_id=GcdXoPB_9q0",
+        "resourcesCommonPath": "\/resources/s7gli/common/keycloak",
+        "firstBrokerLoginUrl": "\/realms/trafficstars/login-actions/first-broker-login?client_id=web-app&tab_id=GcdXoPB_9q0",
+        "registrationUrl": "\/realms/trafficstars/login-actions/registration?client_id=web-app&tab_id=GcdXoPB_9q0",
+        "logoutConfirmAction": "\/realms/trafficstars/protocol/openid-connect/logout/logout-confirm?client_id=web-app&tab_id=GcdXoPB_9q0",
+        /*If you need 'loginUpdateProfileUrl' on register.ftl, please submit an issue to the Keycloakify repo*/
+        "registrationAction": "https://id.trafficstars.com/realms/trafficstars/login-actions/registration?session_code=CjwaG31AatfcujcRzDLt1AZ-T3ef-WX7jkLEccXfKeQ&execution=374fefa1-ce2a-4c56-bca3-ee30c129e110&client_id=web-app&tab_id=GcdXoPB_9q0",
+        "loginResetCredentialsUrl": "\/realms/trafficstars/login-actions/reset-credentials?client_id=web-app&tab_id=GcdXoPB_9q0",
+        /*If you need 'loginUsernameReminderUrl' on register.ftl, please submit an issue to the Keycloakify repo*/
+        "resourcesUrl": "\/resources/s7gli?client_id=web-app&tab_id=GcdXoPB_9q0/login/trafficstars",
+        "loginRestartFlowUrl": "\/realms/trafficstars/login-actions/restart?client_id=web-app&tab_id=GcdXoPB_9q0",
+        "oauth2DeviceVerificationAction": "\/realms/trafficstars/login-actions/registration",
+    },
+    "passwordRequired": true,
+    "messagesPerField": {
+    },
+    "client": {
+        "clientId": "web-app",
+        "description": "front-end app",
+        "baseUrl": "https://admin.trafficstars.com/",
+        "name": "web-app",
+        "attributes": {
+            "saml.multivalued.roles": "false",
+            "saml.force.post.binding": "false",
+            "post.logout.redirect.uris": "*",
+            "frontchannel.logout.session.required": "false",
+            "oauth2.device.authorization.grant.enabled": "false",
+            "backchannel.logout.revoke.offline.tokens": "false",
+            "use.refresh.tokens": "true",
+            "saml.server.signature.keyinfo.ext": "false",
+            "oidc.ciba.grant.enabled": "false",
+            "backchannel.logout.session.required": "true",
+            "client_credentials.use_refresh_token": "false",
+            "require.pushed.authorization.requests": "false",
+            "saml.client.signature": "false",
+            "saml.allow.ecp.flow": "false",
+            "saml.assertion.signature": "false",
+            "id.token.as.detached.signature": "false",
+            "saml.encrypt": "false",
+            "saml.server.signature": "false",
+            "exclude.session.state.from.auth.response": "false",
+            "tls-client-certificate-bound-access-tokens": "false",
+            "saml.artifact.binding": "false",
+            "saml_force_name_id_format": "false",
+            "acr.loa.map": "{}",
+            "tls.client.certificate.bound.access.tokens": "false",
+            "saml.authnstatement": "false",
+            "display.on.consent.screen": "false",
+            "token.response.type.bearer.lower-case": "false",
+            "saml.onetimeuse.condition": "false",
+        },
+    },
+    "realm": {
+        "displayName": "trafficstars",
+        "registrationAllowed": true,
+        "displayNameHtml": "trafficstars",
+        "resetPasswordAllowed": true,
+        "resetCredentialsActionTokenLifespanMinutes": "5",
+        "password": true,
+        "actionTokenGeneratedByUserLifespanMinutes": "5",
+        "internationalizationEnabled": false,
+        "idpVerifyAccountLinkActionTokenLifespanMinutes": "1,440",
+        "verifyEmailActionTokenLifespanMinutes": "10,080",
+        "loginWithEmailAllowed": true,
+        "duplicateEmailsAllowed": false,
+        "editUsernameAllowed": true,
+        "name": "trafficstars",
+        "rememberMe": true,
+        "registrationEmailAsUsername": false,
+        "identityFederationEnabled": true,
+    },
+    "scripts": [
+    ],
+    "properties": {
+        "kcLogoIdP-facebook": "fa fa-facebook",
+        "parent": "keycloak",
+        "kcAuthenticatorOTPClass": "fa fa-mobile list-view-pf-icon-lg",
+        "kcLogoIdP-bitbucket": "fa fa-bitbucket",
+        "kcAuthenticatorWebAuthnClass": "fa fa-key list-view-pf-icon-lg",
+        "kcWebAuthnDefaultIcon": "pficon pficon-key",
+        "kcLogoIdP-stackoverflow": "fa fa-stack-overflow",
+        "kcSelectAuthListItemClass": "pf-l-stack__item select-auth-box-parent pf-l-split",
+        "kcLogoIdP-microsoft": "fa fa-windows",
+        "kcLocaleItemClass": "pf-c-dropdown__menu-item",
+        "kcLoginOTPListItemHeaderClass": "pf-c-tile__header",
+        "kcLoginOTPListItemIconBodyClass": "pf-c-tile__icon",
+        "kcInputHelperTextAfterClass": "pf-c-form__helper-text pf-c-form__helper-text-after",
+        "kcFormClass": "form-horizontal",
+        "kcSelectAuthListClass": "pf-l-stack select-auth-container",
+        "kcInputClassRadioCheckboxLabelDisabled": "pf-m-disabled",
+        "kcSelectAuthListItemIconClass": "pf-l-split__item select-auth-box-icon",
+        "kcRecoveryCodesWarning": "kc-recovery-codes-warning",
+        "kcFormSettingClass": "login-pf-settings",
+        "kcWebAuthnBLE": "fa fa-bluetooth-b",
+        "kcInputWrapperClass": "col-xs-12 col-sm-12 col-md-12 col-lg-12",
+        "kcSelectAuthListItemArrowIconClass": "fa fa-angle-right fa-lg",
+        "meta": "viewport==width=device-width,initial-scale=1",
+        "styles": "css/login.css",
+        "kcFeedbackAreaClass": "col-md-12",
+        "kcLogoIdP-google": "fa fa-google",
+        "kcCheckLabelClass": "pf-c-check__label",
+        "kcSelectAuthListItemFillClass": "pf-l-split__item pf-m-fill",
+        "kcAuthenticatorDefaultClass": "fa fa-list list-view-pf-icon-lg",
+        "kcLogoIdP-gitlab": "fa fa-gitlab",
+        "kcFormAreaClass": "col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2",
+        "kcFormButtonsClass": "col-xs-12 col-sm-12 col-md-12 col-lg-12",
+        "kcInputClassRadioLabel": "pf-c-radio__label",
+        "kcAuthenticatorWebAuthnPasswordlessClass": "fa fa-key list-view-pf-icon-lg",
+        "kcSelectAuthListItemHeadingClass": "pf-l-stack__item select-auth-box-headline pf-c-title",
+        "kcInfoAreaClass": "col-xs-12 col-sm-4 col-md-4 col-lg-5 details",
+        "kcLogoLink": "http://www.keycloak.org",
+        "kcContainerClass": "container-fluid",
+        "kcSelectAuthListItemTitleADFOhABiM07AZvMEIdQvkG_MGBTD9RihvEAAMmOEoOYtBCEsT0BqBhAYxysMMR9OCEKZghCWawAhrUcCY9pEEIZ6jDDNpgQzHEhwlVcMMRnECFNtzgCVfIQw6e0IQ2ECELMLCgFY5AhTgQAQ9CEIIcipAlKBxBXlegwhVkGQcjnWFSZxBDHJKgBRrYgAZtEEOf4pAHIzhhCTSgAhv6mYckCIE7OWAD0kbHBjpYYQyHy0IdhDCEKkQhB1OwAxIIlyw7YAEOfjGDHBoFhStcAQd6eIMTYECENpgBBjLAwxhaQIc19IALdUgMa-TQgxLIwAhGNUJzvPMGuiHEDtOpTlKZ4gY3IISpJZiBEUoDkTKoJatEoMoNtFeDs5ChOhgxA0Z9F9U2nGUMYTjNFmDAAtB0QTdyQApDXCCDGZgEBjfoyW6-AIe8LgQGLkgMTlkjgxjIwCG59AxD6CqCMoxhN4dNbGIMMxUbBKcOQNGBCFICFhicjSs5yAFITvIXGUTlbCvJgV9lGwbCiIEMHTlLGiQrghjQ4AYuUIkLCoNYGewEsl_YLUZ8C1zhEpevxxVBHcKAEQQZkw1sCMMLapBYEKCAR2446x3mAAJqgsAGw90BCK6AzX-qN5eo4S4MUgCCI1h2DW94gQNjkBj-xgAERkiDeMzwBjy8gAbyfateRVCEKZzlDY8aw4IbfBY2LFgFKjBrGezwrDKwYSKQmQFWbjAXysrhDG6YiG0mcxAOi0EOC0mJQ1r8hTa8YS06UI0NWDyrhTREBGSY1RfsgBAfP7AGDnmDQnTgWcrMCg95gI0IsqiHhdDhjWWY8Ya_ECyMrAAGMdBBYs5yh-WqFgZnQcNyYYADNDtkDrnEyKzoEFcIt6AObkiDEX3rAjLI4MFwdkxtRCNbrMwFyUBe8EG-4Oez0MGttYnLYEgSg7lUpA1_jjRgz0aDSj_wBrl5CBk6XJovxHUikua0px2y5TCwASENWsgWSHLXh6wHIwdxSR0qepYU6pWyY6ANDPqggIAA',true,true)};count++;</script><noscript><img src="//pxl.tsyndicate.com/api/v1/p/p.js?p=APeIQFMmDJkycuaI0DGDhYgwY-gsjOGQzpmFImbgyDGmhgwZZlrYmEGjTAsaOHDMaIHDTJiQYsSMwSEjzI0xZGTeEOFwDJs0C2_kwOEwTJ0xGGmYERPGRkEcLcLMiFHjpA0bVSHaCCNya0scN8rgsCEjB08RYtKQwZiWjNovN2DYkIvDYNSDMU7G5ComhhmoOW7cqBFjRs0wMGAgLUrGzkIaNIZSFAGnjpjHNeLmKAoHzmMZNWBsFjEHjkQdNGSolEGWsZmJDtu4uagjxg2aNBzCkU37I47QDuvEwIiGDh04c3S8eHHmjYuCbee4GPOmzQs5dMS8SGPGRfMfeOSUMdOjSpgoQqKIMX7jiJsab4YEGRNkRpYbX5RAwUPDDps7gs0hhRJfMGFEE2-oMccVdMyRBBl3VCFFHWfcMYYTcSiBgxAxoEGFEW5EYUQLRtwRxxFG4CCGFWIQYZ8UadhwQxh5YIFEHnYswcQVaYiBRxpZqDEDFljEoUcUaiARBXxx4KBFDHcQgcZ8USARBhV0qMEEFmRoEYQceDRBRx5hxEBGDlngUMYbYyyhRBprBBEFjFlAcUYRbTTRxBNSqNFGGUUkUcYcWSQBAxxJEJHHbGswIccXWpCRRQtCaBHFFDm4IUQYUEhxRRVUNKHGFUrEUcURcTClxBxISCHHEm9gIUeCUxjxhBZ5NCFFEzNccccSdOgxRhpjtAEDFFHEwYYbSFzxhRxoSCEEFk20wIYYa5hBRBhBbMonFGoYAUeJOdSRZVpRnEHEHFXcUAQUNtTJxhFaEKFFEXnckUcUR-SgBRol0RHHHHb0xxUSQ0gxwxtmCHFEC2aUIUQQdsARxBVymLFEEkFQQQYVejTRURlKoDEFDE2xkYMSSwhRGRxHqKGGDWpQMewNRtzQBhwteEpHE_pSQQQOZFxxBhNH5HEEG3kgQYQVUABdxRQaYtHCYHYEgYcd5kKRhBxTfJEFE3d8UcMMbKChx79WNGHGF3lUsUYYc2h5xhk1KLHGEFnIStAMYbjRBB5laKFGGjGHG4cUTNDhhgxUrBHFEDgEEcMRQQwhBxNk1NDGF1hoSsMMEhZRh-HqojGEe1HY7HEaY8FxBxRvIAHFEs6WsYQaQYRhBw5wwGDGE1Ys0cYReKyRxRUtYGEF4rUzYccaRMQBg0ZHxIADFU4QLwQVbhhBwxM2PHFEE2SgMRgUdTRBc8hz1FAF-dnVgMfXOJiexhNmSEGHEUto1xeswAYjTKEKb1BCHWRgBxnAgAbhspgUzoCEKYTBRzY4gx7KkoYl5EFiM6iBHvAQBwrCYQlwYAMM2oCDJjCBBvMpAxluIIYaBO4_WNADG5QwLTFMig1PEE4WmoADOrTADUsgQ7VkgEQjqKEGccACFJ6wBhkwoQaPooMZpnCDhc0hClhYAhZowAQq0MhEQ7DDHN5ghxjIoQ55iEEbcKKGFvzqCSjRAgyckAc5hOENrcNBHexQBTu8AQpwKMIQbECEM6gBCzOoA-fWgAUnQBENOEADFOhABiM07AZvMEIdQvkG_MGBTD9RihvEAAMmOEoOYtBCEsT0BqBhAYxysMMR9OCEKZghCWawAhrUcCY9pEEIZ6jDDNpgQzHEhwlVcMMRnECFNtzgCVfIQw6e0IQ2ECELMLCgFY5AhTgQAQ9CEIIcipAlKBxBXlegwhVkGQcjnWFSZxBDHJKgBRrYgAZtEEOf4pAHIzhhCTSgAhv6mYckCIE7OWAD0kbHBjpYYQyHy0IdhDCEKkQhB1OwAxIIlyw7YAEOfjGDHBoFhStcAQd6eIMTYECENpgBBjLAwxhaQIc19IALdUgMa-TQgxLIwAhGNUJzvPMGuiHEDtOpTlKZ4gY3IISpJZiBEUoDkTKoJatEoMoNtFeDs5ChOhgxA0Z9F9U2nGUMYTjNFmDAAtB0QTdyQApDXCCDGZgEBjfoyW6-AIe8LgQGLkgMTlkjgxjIwCG59AxD6CqCMoxhN4dNbGIMMxUbBKcOQNGBCFICFhicjSs5yAFITvIXGUTlbCvJgV9lGwbCiIEMHTlLGiQrghjQ4AYuUIkLCoNYGewEsl_YLUZ8C1zhEpevxxVBHcKAEQQZkw1sCMMLapBYEKCAR2446x3mAAJqgsAGw90BCK6AzX-qN5eo4S4MUgCCI1h2DW94gQNjkBj-xgAERkiDeMzwBjy8gAbyfateRVCEKZzlDY8aw4IbfBY2LFgFKjBrGezwrDKwYSKQmQFWbjAXysrhDG6YiG0mcxAOi0EOC0mJQ1r8hTa8YS06UI0NWDyrhTREBGSY1RfsgBAfP7AGDnmDQnTgWcrMCg95gI0IsqiHhdDhjWWY8Ya_ECyMrAAGMdBBYs5yh-WqFgZnQcNyYYADNDtkDrnEyKzoEFcIt6AObkiDEX3rAjLI4MFwdkxtRCNbrMwFyUBe8EG-4Oez0MGttYnLYEgSg7lUpA1_jjRgz0aDSj_wBrl5CBk6XJovxHUikua0px2y5TCwASENWsgWSHLXh6wHIwdxSR0qepYU6pWyY6ANDPqggIAA&r=1&s=062134611a6153f58fd48b922122007d8f068813fa11534b24a837c21f7ed42c1707534160&w=t"></noscript>
+<div style="width:100%;height:100%;border:none"id="ts_t_389c522f"><iframe src="//go.eabids.com/rtb/if.go?xref=UaQBQbtt7Gn5oCAcA3Y7_JPx4vlw77sRJ_LFMojsWtsIdwURugwcNqJ8B1hTFnQF-FwqGF8bVbD3YRi67ayXHyvKLWibxiYj3XXqzQjHQ5oq8Z1wDhAcQHaTtjLXdZArxMtya1d9Y8eocKJikAQRiYPgEmMMORjmeEIesYI0pIDyngkLr_ZdY-BZQS9nBaPRWUTMjWJqUGqbaJsHRrKoXrojSFOZyMRM3WwKtzcicm0PQqlnHW_rhRBXM-lbkfDaABaORPjFpFw9utjbiQgDsU7EP6YPlGZDZEywyQG9Zh4etqsv4va-HCR3ofBG-feBAvpAWrfKIATdTzMc5eJhS0a6l9JKBpupGjj6jTci7F7mp-RWtMwyTD8dWgLGyGlyHDVPMwUSJ8X-75vAxvutPIrS_YLw_53lhzZhVMf_yUkasjLgg5JkCYXrhe3anMxeZjiGjjFqRLtn2TkQC8A1GACrLd5m_XnB43UREuZjgDhCGnQTcTdi86pwPoHPKW_eKjAav8p0fOVKmGxkYW-XViGoHLvkDq038G18TNOVBTnF4O6OGMdh75PuM6jzMs5UO6tb5xIr8EuiOfRtFKU7_VlFSUoJu2v204jFpARgHSabx6gz29iKyeB35zxqgHpKpl0m8ML4Aced7b5anlwXzlJBXbY-lOu1YM8t-nKdM-2nKFj5qXPOk2L5r_tfS73osQXKX4LTaywqCvsov1ruy1mcdj-wKO48Z0NyraoQT8uvUvoPpEC6DgjX3uLdkXN5qh8hPtdFfB7oFuoFoIr8pyali4fnb0LLrrbZIMtoMwXQXrvGzNSfIfVhjd9ziBgu3m5aboCLUnGNTm7OWy9OMmDY0SaVGTqDxBBrEtjPGYPlWTWZIqqzgY-gbqIZ464mbRjqyFNK4TlZ4yIBif9lLG43ltVcjiYuBCUQ9SvHxeQqvXp1ffrkLPWW8zoN0Dmf02xc-tk=&r=%2F%2Fgo.goaserv.com%2Fbanner.go%3Fspaceid%3D157185"style="width:100%;height:100%;;border:none"scrolling="no"allowtransparency="true" allowfullscreen="true"frameborder="0" marginheight="0" marginwidth="0"vspace="0" hspace="0"onload="u389c522f(1)" onerror="u389c522f(0)"seamless></iframe></div>
+
+
+</body></html>
+

@@ -1,0 +1,1 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title></title></head><body style="background-color: transparent"><img src="https://adservice.google.com/ddm/fls/z/src=4217297;type=invmedia;cat=u8vgzebu;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1"/></body></html>

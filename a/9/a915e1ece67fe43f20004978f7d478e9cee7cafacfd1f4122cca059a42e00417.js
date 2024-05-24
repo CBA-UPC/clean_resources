@@ -1,0 +1,2 @@
+/*! For license information please see cmp_ui.js.LICENSE.txt */
+e.privacyPolicyUrl,logoUrl:e.logoUrl,iconPosition:o,serviceDefinitions:n,hasMultipleDomains:e.hasMultipleDomains,gtmIntegration:e.gtmIntegration,hash:e.folderHash,storage:t,optOutModeWithoutDialog:e.optOutModeWithoutDialog,optOutConfigureAll:e.optOutConfigureAll,targetRoot:s}),s)}(e,Zi(e.folderHash,t))}}),(e=>{console.error(e.message)}))}))}()}();

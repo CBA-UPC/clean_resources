@@ -1,0 +1,4 @@
+//tealium universal tag - utag.63 ut4.0.201809191812, Copyright 2018 Tealium.com Inc. All Rights Reserved.
+try{(function(id,loader,u){try{u=utag.o[loader].sender[id]={}}catch(e){u=utag.sender[id]};u.ev={'link':1};u.t='@@',u.i=[],u.p=["https://www.facebook.com/tr?id=@@fbq_pixel_id@@&ev=@@fbq_event1@@&cd[value]=@@fbq_conversion_value@@&cd[value]=@@fbq_conversion_currency@@&noscript=1","","","","","","",""];u.cachebust="disabled";u.cachevar=""||"_rnd";u.map={};u.extend=[];u.send=function(a,b,c,d,e,f){if(u.ev[a]&&typeof b.fbq_pixel_id!=='undefined'){for(c=0;c<u.p.length;c++){if(u.p[c]!=""){var x=u.rp(u.p[c],b);if(x!=""){if(u.cachebust=="enabled"&&x.indexOf("_rnd")<0){x+="&"+u.cachevar+"="+Math.random();}
+var img=new Image();img.src=x;u.i.push(img);}}}}}
+u.rp=try{utag.o[loader].loader.LOAD(id)}catch(e){utag.loader.LOAD(id)}})('63','fox.delta');}catch(error){utag.DB(error);}

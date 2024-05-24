@@ -1,0 +1,1 @@
+.action-buttons[data-v-7a069fc9]{align-items:center;display:flex;justify-content:center;margin:16px 0}.action-buttons .action-button[data-v-7a069fc9]{flex:1}.action-buttons .action-button[data-v-7a069fc9]:first-child{margin-left:16px}[data-v-7a069fc9] .input-wrapper .input-container{border:1px solid #bec9d4;border-radius:10px;margin-bottom:40px;margin-top:60px}

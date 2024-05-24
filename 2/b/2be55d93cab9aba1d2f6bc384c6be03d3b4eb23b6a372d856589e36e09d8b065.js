@@ -1,0 +1,1 @@
+!function(){var e=Array.prototype.slice.call(document.querySelectorAll("iframe[src*=youtube]"),0);e.length>0&&(e.map((),upScore.addScript("//files.upscore.com/player/youtube_particle.js")),upScore.track()}();

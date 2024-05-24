@@ -1,0 +1,2 @@
+vityButtonAriaLabel":{"s":"سەزگۈرلۈك بەلگىسى كۇنۇپكىسى","f":0},"sensitivityButtonLearnMoreLinkText":{"s":"تەپسىلاتى","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"يېپىش","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"بەلگىنى چىقىرىۋەتكىلى بولمايدۇ","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"ئىدارىڭىز سىزدىن بۇ ئوبيېكتقا بەلگە قويۇشىڭىزنى تەلەپ قىلىدۇ.","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings79.29f01008eade16fc542f.chunk.v7.js.map

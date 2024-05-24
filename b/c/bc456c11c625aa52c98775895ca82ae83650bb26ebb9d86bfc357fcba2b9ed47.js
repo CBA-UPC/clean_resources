@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/f740f8a20d94/1dcfc2687ba3/cad02625de4c/RC9e51ff19ec6c4428a2a6b16b1bd24259-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/f740f8a20d94/1dcfc2687ba3/cad02625de4c/RC9e51ff19ec6c4428a2a6b16b1bd24259-source.min.js', "var ruleName=\"00 Page Load | 04 Window Loaded > Update Kiwi\";try{_satellite.logger.info(ruleName),kiwi.ddl.pageLoad.ts.onLoad=Date.now()}catch(e){_satellite.logger.error(ruleName+\" > ERROR: \"+e.message)}");

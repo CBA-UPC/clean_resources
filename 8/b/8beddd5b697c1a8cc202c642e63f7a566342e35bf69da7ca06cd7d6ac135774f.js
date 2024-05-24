@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/e857ea722210/c60b88468d27/85a62932d8a7/RC6f7298d250914cea80beb11f31bae4d3-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/e857ea722210/c60b88468d27/85a62932d8a7/RC6f7298d250914cea80beb11f31bae4d3-source.min.js', "<img src=\"https://pt.ispot.tv/v2/TC-3595-1.gif?app=web&type=visit\" style=\"border:0\" alt=\"\" />");

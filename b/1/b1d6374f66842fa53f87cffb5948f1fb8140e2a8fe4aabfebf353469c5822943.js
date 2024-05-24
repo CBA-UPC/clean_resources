@@ -1,0 +1,3 @@
+/*! For license information please see 2897.min.js.LICENSE.txt */
+(globalThis.webpackChunkelementsOutput=globalThis.webpackChunkelementsOutput||[]).push([[2897],{62819:87440:48763:97953:(t,n,r)=>{for(var e,i=r(62819).CASE_SENSITIVE_TAG_NAMES,u={},o=0,a=i.length;o<a;o++)e=i[o],u[e.toLowerCase()]=e;exports={formatAttributes:c,formatDOM:isIE:},72670:13683:69239:54848:6299:76635:pped__-\\u00emPropf:"xli:xlinkodule?tion(tion(t,n){var r,i=null;if(!t||"string"!=typeof t)return i;for(var u,o,a=e(t),c="function"==typeof n,f=0,l=a.length;f<l;f++)u=(r=a[f]).property,o=r.value,c?n(u,o,r):o&&(i||(i={}),i[u]=o);return i}}}]);
+//# sourceMappingURL=2897.min.js.map

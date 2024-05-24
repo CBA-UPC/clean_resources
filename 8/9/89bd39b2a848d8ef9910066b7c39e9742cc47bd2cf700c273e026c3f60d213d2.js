@@ -1,0 +1,1 @@
+(()=>{var e={726:,t={};.h=(()=>{"use strict";const e=n.h().substring(0,6);var t=n(726).PAGE_SOCIAL_SDK_ROOT;!function(n,r){var a=r.getElementsByTagName("script")[0],o=r.createElement("script");o.src=t+"/ta.".concat(e,".js"),a.parentNode.insertBefore(o,a);var c=o.addEventListener?o.addEventListener("load",c,!1):o.onreadystatechange=(window,document)})()})();

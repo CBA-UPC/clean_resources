@@ -1,0 +1,1 @@
+heckHoverTouchState(),jQuery(document).ready(;

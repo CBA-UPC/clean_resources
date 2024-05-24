@@ -1,0 +1,2 @@
+(window.officehome_webpackJsonp=window.officehome_webpackJsonp||[]).push([[500],{"5qEm":onLearnMoreLinkText":{"s":"קבל מידע נוסף","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"סגור","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"לא ניתן להסיר תווית","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"הארגון שלך מחייב אותך לסמן פריט זה בתווית.","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings30.63cb69b6272b3e485828.chunk.v7.js.map

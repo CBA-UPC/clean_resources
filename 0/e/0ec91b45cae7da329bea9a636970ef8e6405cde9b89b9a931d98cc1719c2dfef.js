@@ -1,0 +1,1 @@
+.svg-icon-fill[data-v-ac9649b7]{fill:var(--fillcolor)}.svg-icon-stroke[data-v-ac9649b7]{stroke:var(--strokecolor)}.svg-icon-fill-opacity[data-v-ac9649b7]{fill-opacity:var(--fillopacity)}.svg-icon-stroke-opacity[data-v-ac9649b7]{stroke-opacity:var(--strokeopacity)}svg[data-v-ac9649b7]{overflow:hidden;vertical-align:middle}

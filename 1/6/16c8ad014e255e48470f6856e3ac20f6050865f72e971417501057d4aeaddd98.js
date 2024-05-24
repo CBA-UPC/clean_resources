@@ -1,0 +1,1 @@
+e&&setTimeout(function(){e.onload&&e.onload()},2e3)},t.body.appendChild(e)})}(window,document)</script></head><body></body></html>

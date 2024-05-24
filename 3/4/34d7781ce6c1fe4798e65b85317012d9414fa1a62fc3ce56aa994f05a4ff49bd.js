@@ -1,0 +1,2 @@
+EItemSelected":"Избран е елемент.","searchMESearchComplete":"Търсенето е завършено.","searchMESearchCleared":"Полето за редактиране на търсенето е изчистено."}}')}}]);
+//# sourceMappingURL=787.bb86fe46b84a2dfba364.chunk.v7.js.map

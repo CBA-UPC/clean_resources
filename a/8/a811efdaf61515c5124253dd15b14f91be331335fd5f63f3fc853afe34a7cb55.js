@@ -1,0 +1,1 @@
+.emojiSelector-list{grid-template-columns:repeat(auto-fit,36px)}

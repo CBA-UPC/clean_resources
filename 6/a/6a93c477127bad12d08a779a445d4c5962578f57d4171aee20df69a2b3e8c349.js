@@ -1,0 +1,1 @@
+<!DOCTYPE html> <html lang="pt"> <head> <meta charset="UTF-8"> <title>[UOL Tag Manager] Clean Expired Cookie</title> </head> <body> <script src="//tm.jsuol.com.br/modules/client-purge.js"></script> </body> </html>

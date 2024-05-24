@@ -1,0 +1,1 @@
+.c-olympic-2020-title span{color:#a14439}

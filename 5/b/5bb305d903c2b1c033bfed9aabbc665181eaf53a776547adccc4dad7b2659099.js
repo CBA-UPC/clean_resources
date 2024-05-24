@@ -1,0 +1,1 @@
+try{parent.window.VIM.RTM_MANAGER.loadRTMContent([]);}catch(e){}

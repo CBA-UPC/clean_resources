@@ -1,0 +1,6 @@
+//tealium universal tag - utag.sync ut4.0.202401291333, Copyright 2024 Tealium.com Inc. All Rights Reserved.
+window.injectKmln=function injectKmln(){if(typeof document.cookie.split("userconsent=")[1]!=='undefined'){consent_stat=JSON.parse(document.cookie.split("userconsent=")[1].split(";")[0]).c.w.cs.c1;consent_perso=JSON.parse(document.cookie.split("userconsent=")[1].split(";")[0]).c.w.cs.c2;kameleoon_url="//a40vg3ronr.kameleoon.eu/kameleoon.js";if(window.location.hostname.indexOf("sosh.fr")!==-1){kameleoon_url="//x487g4irxj.kameleoon.eu/kameleoon.js";}
+if(window.location.hostname.indexOf("myshop-qualif.sso-ints.sosh.fr")!==-1){kameleoon_url="//5vge3pvmid.kameleoon.eu/kameleoon.js";}
+if(window.location.hostname.indexOf("myshop-qualif.sso-ints.orange.fr")!==-1){kameleoon_url="//sxu48m45ek.kameleoon.eu/kameleoon.js";}
+if(consent_stat==0&&consent_perso==0){window.kameleoonStartLoadTime=new Date().getTime();var scriptNode=document.createElement("script");scriptNode.src=kameleoon_url;scriptNode.type="text/javascript";scriptNode.async=true;scriptNode.setAttribute("data-tagmanager",true);document.head.appendChild(scriptNode);}}}
+window.injectKmln();

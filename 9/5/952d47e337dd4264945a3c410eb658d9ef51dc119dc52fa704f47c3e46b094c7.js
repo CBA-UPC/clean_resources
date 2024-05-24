@@ -1,0 +1,1 @@
+{ "Country":"ES",  "REGION_CODE":"CT",  "CITY":"BARCELONA",  "INEU":true,   "INUS":false}

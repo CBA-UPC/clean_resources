@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/fcfd3580c848/e6a79470bc2e/0305c00ea9e8/RCd0a3e16dd768409ca6f3652c7b8f46b3-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/fcfd3580c848/e6a79470bc2e/0305c00ea9e8/RCd0a3e16dd768409ca6f3652c7b8f46b3-source.min.js', "<style>\n@media only screen and (min-width: 700px){\n    .hero>.cmp-hero.image-hero .cmp-hero__image-container .cmp-image__image,\n    .hero>.cmp-hero.video-hero .cmp-hero__image-container .cmp-image__image {\n        width: 101%;\n    }\n}\n</style>");

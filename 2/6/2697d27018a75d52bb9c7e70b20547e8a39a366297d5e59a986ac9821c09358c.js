@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/5ef092d1efb5/e6b4ca74378c/3835a1ac9994/RC8c957989c33d47e7a8ba18f7ec8dd936-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/5ef092d1efb5/e6b4ca74378c/3835a1ac9994/RC8c957989c33d47e7a8ba18f7ec8dd936-source.min.js', "null!=window.wdgtagging&&null!=window.wdgtagging.twitter&&function(g,n){var w=function(){n.trackLoad(\"nvkh8\")};g.catCheckAllExecuteOrPush(w)}(window.wdgtagging,window.wdgtagging.twitter,window.jQuery);");

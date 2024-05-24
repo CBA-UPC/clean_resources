@@ -1,0 +1,2 @@
+у","f":0},"sensitivityButtonAriaLabel":{"s":"Кнопка метки конфиденциальности","f":0},"sensitivityButtonLearnMoreLinkText":{"s":"Подробнее","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"Закрыть","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"Невозможно удалить метку","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"В соответствии с требованиями вашей организации необходимо присвоить метку этому элементу.","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings66.d1c91a22062f122f5fdf.chunk.v7.js.map

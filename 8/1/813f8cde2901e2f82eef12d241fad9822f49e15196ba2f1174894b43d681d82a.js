@@ -1,0 +1,1 @@
+uery(window).on("load updated_wc_div fusion-element-render-fusion_tb_woo_cart",function(){avadaAddQuantityBoxes()}),jQuery(document).ajaxComplete(function(){avadaAddQuantityBoxes()}),jQuery(document).ready(,jQuery(".composite_data").length&&jQuery(".composite_data").on("wc-composite-initializing",;

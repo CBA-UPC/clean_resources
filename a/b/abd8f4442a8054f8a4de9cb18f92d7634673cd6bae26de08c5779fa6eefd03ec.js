@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/99b399019383/927c2d2012b0/e1638381e2fc/RC5ae4c51c22274046a113bf0d22bb31c2-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/99b399019383/927c2d2012b0/e1638381e2fc/RC5ae4c51c22274046a113bf0d22bb31c2-source.min.js', "var pageLoadStartTime=(new Date).getTime();_satellite.setVar(\"_pageLoadEndTime\",pageLoadStartTime);");

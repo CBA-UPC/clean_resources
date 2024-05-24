@@ -1,0 +1,2 @@
+.q8)(e)}),(function(e){throw new a.Z("Gif preview could not be generated",s)}))}var u=new a.Z("The provided image must be a gif",l);return Promise.reject(u)}var h=new a.Z("The provided file is not a valid image",o);return Promise.reject(h)}}}]);
+//# sourceMappingURL=https://ton.local.twitter.com/responsive-web-internal/sourcemaps/client-web-legacy/bundle.SettingsProfile.0413c07a.js.map

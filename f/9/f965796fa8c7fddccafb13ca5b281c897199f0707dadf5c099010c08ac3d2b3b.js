@@ -1,0 +1,1 @@
+var country = "spain"; var continent = "eu"; 

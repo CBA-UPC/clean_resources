@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/5faae1ca15b2/ae88ed11c951/526ea924518d/RC18121059b3a7485f9537ff7c77372e2e-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/5faae1ca15b2/ae88ed11c951/526ea924518d/RC18121059b3a7485f9537ff7c77372e2e-source.min.js', "window.setAnalytics=function(e,a){\"Add To Cart\"!=a&&(digitalData.page.events.eventName=\"setAnalytics\",adobeDataLayer.push({event:\"click\",link:{linkName:a,pageName:e}}))},digitalData.page.events={eventTriggered:\"no\"};");

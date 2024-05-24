@@ -1,0 +1,17 @@
+function klnServClass()
+{this.domainOrigin=document.location.hostname;this.invSlots=false;this.creatives=false;}
+klnServClass.prototype={constructor:klnServClass,getInfo:defineSlot:function(slots)
+{this.invSlots=JSON.parse(slots);},setCreatives:deliverAds:function()
+{if(typeof this.creatives==='object')
+{doc=[];readyStateCheckInterval=[];for(var key in this.creatives)
+{if(this.creatives.hasOwnProperty(key))
+{creativesContent=atob(this.creatives[key]['content']);var creativeCb_click=Math.random()+"";creativeCb_click=Math.round(creativeCb_click*10000000000000);var creativeDt=new Date();var creativeCb_imprs=''+creativeDt.getYear()+creativeDt.getMonth()+creativeDt.getDay()+creativeDt.getHours()+creativeDt.getMinutes();var trackerParam={'campaignId':this.creatives[key]['campaignID'],'creativeId':this.creatives[key]['creativeID'],'domainOrigin':this.domainOrigin,'type':'impression','cb':creativeCb_imprs}
+var impressionTracker=btoa(JSON.stringify(trackerParam));impressionTracker=this.base64EnDecode(impressionTracker,'en');impressionTracker='https://d.infeed.id/tracker/'+(impressionTracker)+'/'+creativeCb_imprs;trackerParam['type']='click';trackerParam['cb']=creativeCb_click;var clickTracker=btoa(JSON.stringify(trackerParam));clickTracker=this.base64EnDecode(clickTracker,'en');clickTracker='https://d.infeed.id/tracker/'+(clickTracker)+'/'+creativeCb_click+'%25url%3d';creativesContent=creativesContent.replace('%%IMPR_TRACKER%%',impressionTracker);creativesContent=creativesContent.replace('%%CLICK_TRACKER%%',clickTracker);if(this.invSlots.hasOwnProperty(key))
+{var elTarget=!!document.getElementById(this.invSlots[key]['cont']);if(elTarget)
+{var iframe=document.getElementById(this.invSlots[key]['cont']).appendChild(document.createElement('iframe'));iframe.setAttribute("id","frame-"+key);iframe.setAttribute("name","frame-"+key);iframe.setAttribute("sandbox","allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-top-navigation");iframe.setAttribute("scrolling","no");var iframeHtml=creativesContent;doc[key]=iframe.contentWindow.document;var elSize=this.creatives[key]['size'];elSize=elSize.split(",");w=parseInt(elSize[0]);h=parseInt(elSize[1]);iframe.style.cssText="border:none;margin:0 auto;display:block;";iframe.width=w;iframe.height=h;doc[key].open();doc[key].write(iframeHtml);doc[key].close();readyStateCheckInterval[key]=setInterval(function(frameDoc){if(frameDoc.readyState==="complete"){frameDoc.body.style.cssText="margin:0px;padding:0;border:none;";clearInterval(readyStateCheckInterval[key]);}},10,doc[key]);}}}}}else{console.log('Invalid Creatives collection !');}},base64EnDecode:function($string,$type)
+{base64Replacer={'/':'-slash-','+':'-plus-','=':'-equal-'};if($type=='en')
+{$string=$string.replace(/\/|\+|\=/gi,;return $string;}
+else
+{}}};(function(){var dt=new Date();var klnServCb=''+dt.getYear()+dt.getMonth()+dt.getDay()+dt.getHours()+(parseInt(dt.getMinutes()/ 5)*5);if(typeof klnAdSlots!='undefined'){klnInvSlots=klnAdSlots;}
+var s=document.createElement("script");var adunitRequest=btoa(JSON.stringify(Object.keys(klnInvSlots)));var priorateCampaignID=(klnInvSlots[Object.keys(klnInvSlots)].campaignId);if(priorateCampaignID==undefined){priorateCampaignID='';}
+el=document.getElementsByTagName("script")[0];s.async=true;s.type='text/javascript';s.src="https://d.infeed.id/klnserv/loader/"+adunitRequest+"/"+klnServCb+"/"+priorateCampaignID;el.parentNode.insertBefore(s,el);})();

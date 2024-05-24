@@ -1,0 +1,1 @@
+!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports={TrackJS:e()}:"function"==typeof define&&define.amd?define(e):t.TrackJS=e()}(this,(function(){return "undefined"==typeof self?void 0:self,"undefined"==typeof document?void 0:document)}));

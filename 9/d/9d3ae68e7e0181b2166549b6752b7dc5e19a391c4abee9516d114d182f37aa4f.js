@@ -1,0 +1,1 @@
+export class WebWorker extends Worker{ostnPost(name,o){this.addEventListener("message",}}export const webworker=new WebWorker(window.webWorkerUrl);

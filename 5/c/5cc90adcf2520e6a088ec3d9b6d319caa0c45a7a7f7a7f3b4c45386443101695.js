@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{345:408:function(e,a,n){"use strict";n.r(a);var c=n(0),r=n.n(c);n(345);a.default=function(e){var a=e.route,n=e.children,c=e.classNames;return r.a.createElement("aside",{id:"sidebar-wrapper-".concat(a),className:c},n)}}}]);

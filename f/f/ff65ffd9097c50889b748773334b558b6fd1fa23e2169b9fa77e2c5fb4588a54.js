@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/b944018a7173/71fd789d535d/a02c90b3a2e2/RC3502de1486d346129ade58eed2b80c39-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/b944018a7173/71fd789d535d/a02c90b3a2e2/RC3502de1486d346129ade58eed2b80c39-source.min.js', "document.referrer.search(/\\/login\\//i)>-1&&setTimeout((function(){adobeDataLayer.push({event:\"sign_in_complete\",event_name:\"sign_in_complete\"})}),1e3);");

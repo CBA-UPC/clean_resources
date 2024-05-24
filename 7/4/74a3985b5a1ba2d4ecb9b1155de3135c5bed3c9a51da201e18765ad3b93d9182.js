@@ -1,0 +1,1 @@
+.cms-recommendations-wrapper[data-v-a646b69a]{aspect-ratio:1.1}@media (min-width: 768px){.cms-recommendations-wrapper[data-v-a646b69a]{aspect-ratio:2.1}}@media (min-width: 1025px){.cms-recommendations-wrapper[data-v-a646b69a]{aspect-ratio:2.7}}

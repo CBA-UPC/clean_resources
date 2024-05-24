@@ -1,0 +1,1 @@
+WT.fireEvent(new WT.Event(WT.Event.CONTROL_RESPONSE, WT.Event.STATUS_FAULT, {alias:"", control:"WT3CFaZmg1-zrCVp1CwnUvYJibSyHXWCng4LnzvfnHu_Lji6lVM3tv7yUJq5F_5W9lwtm3bJl0xBmeHKSiqw95RYSuOt9wXxrXomT_Y4Dsg28FuorXyhEEgJJaT_kDCwH6hg06cbBGxqW6MdTX2-7F5OTnnhv7VNXrGOiML7-M1Iij9Iqkc9_dLVBlMULZYyn3Q"}));

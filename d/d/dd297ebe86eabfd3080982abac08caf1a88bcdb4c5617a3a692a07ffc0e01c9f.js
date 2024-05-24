@@ -1,0 +1,1 @@
+var avadaTriggerPageTitleFading=jQuery(window).on("load",;

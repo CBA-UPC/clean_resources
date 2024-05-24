@@ -1,0 +1,5 @@
+
+gekko.cmd.push({cmd: function(){gekko.clearCachedTargeting().setTargeting('env', 'p', 100).setTargeting('gVer', '2c2459919aae00f0bb408a398c738e483ae47e7d', 100).setTargeting('usr', 'g', 100).clearCachedParameters().setParameter('activityWindows', ['1000','20']).setParameter('community', '1').setParameter('lastAdsSupTime', ['10']).setParameter('tabFocusTime', ['300']).setParameter('geo', 'ES').setParameter('sc', 't').setParameter('maxRefreshes', ['10']).setParameter('analyticsRefreshTimeouts', ['0', '150']).setParameter('cg_allow_st', ['120','747']).setParameter('enableRefreshTimer', ['1']).setParameter('nmdt', ['300']).setParameter('refreshTimeouts', ['0','150']).setParameter('cg_allow_exlba', ['256','557']).setParameter('analyticsActivityWindows', ['1000', '20']).setParameter('lastSupTime', ['1.2']).setParameter('viewabilityThreshold', ['0']).setAnalytics('c', '1'); gekko.enableRefreshTimer(); gekko.enableAnalyticsRefreshTimer();}, important: true});
+
+gekko.times = gekko.times || [];
+gekko.times.push({secEnd: new Date().getTime()});

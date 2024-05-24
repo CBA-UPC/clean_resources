@@ -1,0 +1,38 @@
+;/*FB_PKG_DELIM*/
+
+__d("CacheStorage",["ErrorGuard","ExecutionEnvironment","WebStorage","cr:6943","cr:8958","emptyFunction","err","killswitch"],(,34);
+__d("StringTransformations",[],(,66);
+__d("WebStorageCleanupReason",[],(,66);
+__d("WebStorageMonster",["AsyncRequest","CacheStorage","Event","ExecutionEnvironment","NetworkStatus","StringTransformations","UserActivity","WebStorage","WebStorageCleanupReason","WebStorageMonsterLoggingURI","ifRequired","isEmpty","killswitch","setTimeoutAcrossTransitions"],(,98);
+__d("EventListenerImplForCacheStorage",["CometEventListener"],(,66);
+__d("InstagramODSObserver",["BaseEventEmitter"],(,98);
+__d("InstagramODSImpl",["InstagramODSObserver","ODS"],(function(a,b,c,d,e,f,g){"use strict";var h,i="instagram",j={addListener:incr:function(a,b){b===void 0&&(b=1),(h||(h=d("ODS"))).bumpEntityKey(5588,i,a,b),c("InstagramODSObserver").emit("event",{count:b,key:a})},incr_CAREFUL_WHEN_USE_DYNAMIC_KEY:;a=j;g["default"]=a}),98);
+__d("ClickRefUtils",["DataAttributeUtils"],(,null);
+__d("ClickRefLogger",["Arbiter","Banzai","ClickRefUtils","ScriptPath","SessionName","Vector","collectDataAttributes","ge","pageID"],(,null);
+__d("DimensionTracking",["Cookie","Event","debounce","getViewportDimensions","isInIframe"],(,34);
+__d("TimeSpentArray",["Banzai","TimeSlice","clearTimeout","pageID","setTimeoutAcrossTransitions"],(,98);
+__d("TimeSpentImmediateActiveSecondsLogger",["cr:844180"],(function(a,b,c,d,e,f,g){"use strict";g["default"]=b("cr:844180")}),98);
+__d("WebTimeSpentBitArrayFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("1829320");b=d("FalcoLoggerInternal").create("web_time_spent_bit_array",a);e=b;g["default"]=e}),98);
+__d("TimeSpentBitArrayLogger",["Arbiter","Env","LogHistory","ODS","TimeSpentArray","TimeSpentConfig","TimeSpentImmediateActiveSecondsLogger","UserActivity","WebSession","WebTimeSpentBitArrayFalcoEvent","cr:1187159","isInIframe"],(,34);
+__d("Chromedome",["fbt"],(,98);
+__d("NavigationClickPointHandler",["Event","ScriptPath","collectDataAttributes"],(,98);
+__d("WebPerfDeviceInfoLogFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("1871697");b=d("FalcoLoggerInternal").create("web_perf_device_info_log",a);e=b;g["default"]=e}),98);
+__d("XDeviceClassRealtimeController",["XController"],(,null);
+__d("WebDevicePerfInfoLogging",["AsyncTypedRequest","JSScheduler","Promise","WebDevicePerfInfoData","WebPerfDeviceInfoLogFalcoEvent","XDeviceClassRealtimeController","asyncToGeneratorRuntime"],(,98);
+__d("ArtillerySegment",["invariant","performanceAbsoluteNow"],(,98);
+__d("ArtillerySequence",["invariant"],(,98);
+__d("ArtilleryTrace",["invariant","ArtillerySegment","ArtillerySequence"],(,98);
+__d("ServiceWorkerRegistration",["BrowserPaymentHandlerConfig","ClientServiceWorkerMessage","EventListener","Promise","Run","promiseDone"],(,null);
+__d("Artillery",["invariant","ArtilleryTrace","Banzai","ClientServiceWorkerMessage","Run","ServiceWorkerRegistration","forEachObject","mixInEventEmitter","performance"],(,98);
+__d("TransportSelectingClientSingletonConditional",["cr:5800"],(,98);
+__d("ErrorSetup",["fb-error"],(,98);
+__d("ErrorLogging",["ClientConsistency","Env","ErrorGuard","ErrorSetup","ErrorTransport","JSErrorLoggingConfig","ScriptPath","SiteData","WebSession","setTimeout"],(,34);
+__d("QuickMarkersBlue",["QuickMarkersSrcFalcoEvent","performanceNow"],(,98);
+__d("WebBlueTimeSpentNavigationFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("1829319");b=d("FalcoLoggerInternal").create("web_blue_time_spent_navigation",a);e=b;g["default"]=e}),98);
+__d("WebImmediateActiveSecondsFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(,98);
+__d("FalcoAppUniverse",["$InternalEnum"],(,66);
+__d("Queue",[],(,66);
+__d("FalcoLoggerTransports",["AnalyticsCoreData","Banzai","ExecutionEnvironment","FBLogger","FalcoAppUniverse","FalcoUtils","ODS","PersistedQueue","Queue","WebSession","performanceAbsoluteNow","promiseDone","requireDeferredForDisplay","uuidv4"],(,98);
+__d("ScriptPathLogger",["Banzai","LogHistory","ScriptPath","URI","WebBlueTimeSpentNavigationFalcoEvent","WebSession","isInIframe"],(,98);
+__d("ServiceWorkerURLCleaner",[],(,66);
+__d("TimeSpentImmediateActiveSecondsLoggerBlue",["ImmediateActiveSecondsConfig","ScriptPath","WebImmediateActiveSecondsFalcoEvent"],(,34);

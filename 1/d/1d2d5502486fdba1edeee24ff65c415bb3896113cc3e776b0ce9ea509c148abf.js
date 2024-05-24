@@ -1,0 +1,1 @@
+table.popular_posts_debug_table{border-collapse:collapse}.popular_posts_debug_table tr td,.popular_posts_debug_table tr th{font-size:10px;margin:0;border:1px solid #000;padding:3px}

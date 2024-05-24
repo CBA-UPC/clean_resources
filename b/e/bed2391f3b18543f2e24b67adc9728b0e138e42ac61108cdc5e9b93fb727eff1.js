@@ -1,0 +1,1 @@
+.styles_ApartmentsNearMeWidget__YSkJT{margin-bottom:40px}.styles_CardContents__pxL30{width:100%;flex-wrap:nowrap;display:flex;align-items:center}

@@ -1,0 +1,2 @@
+(window.officehome_webpackJsonp=window.officehome_webpackJsonp||[]).push([[601],{Uv8L:function(o,e,n){"use strict";n.r(e),n.d(e,"ShareControlModuleNgFactory",();var r=n("keVe"),b=n("8rwQ"),c=n("zqZp"),a=n("TOqr"),t=n("CCRL"),i=r.Eb(b.a,[],(function(o){return r.Tb([r.Ub(512,r.k,r.hb,[[8,[c.a]],[3,r.k],r.D]),r.Ub(4608,a.m,a.l,[r.z]),r.Ub(1073742336,a.c,a.c,[]),r.Ub(1073742336,b.a,b.a,[]),r.Ub(256,t.a,b.b,[])])}))}}]);
+//# sourceMappingURL=share-control.50e5507818c52258b1da.chunk.v7.js.map

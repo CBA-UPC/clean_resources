@@ -1,0 +1,1 @@
+is.parentNode.removeChild(this)}})}))}]);

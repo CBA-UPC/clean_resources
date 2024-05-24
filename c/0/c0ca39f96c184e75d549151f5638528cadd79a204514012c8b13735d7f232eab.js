@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RCe2bdde41ebf647ebaf00dc823d221fe6-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RCe2bdde41ebf647ebaf00dc823d221fe6-source.min.js', "_satellite.setVar(\"targetFired\",\"yes\");");

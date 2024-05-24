@@ -1,0 +1,2 @@
+searchMEAuthDescription":"អ្នកនឹងត្រូវ {0} ដើម្បីប្រើកម្មវិធីនេះ។","searchMEAuthLinkText":"ចុះឈ្មោះចូល","searchMEItemSelected":"ធាតុដែលបានជ្រើសរើស។","searchMESearchComplete":"បញ្ចប់ការស្វែងរក","searchMESearchCleared":"បានលុបកន្លែងកែសម្រួលការស្វែងរក។"}}')}}]);
+//# sourceMappingURL=858.0460d977d89c830e3fc6.chunk.v7.js.map

@@ -1,0 +1,1 @@
+body,html{margin:0}#root,body,html{height:100%}.grecaptcha-badge{visibility:hidden}.cc-window.cc-floating{max-width:100%!important;text-align:center;width:100%}.cc-bottom{bottom:0!important}

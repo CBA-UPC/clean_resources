@@ -1,0 +1,1 @@
+window.jad=window.jad||{};jad.cmd=jad.cmd||[];jad.cmd.push(;function addComScorePixel(){var random=parseInt(Math.random()*99999999);var urlComScore=document.createElement('img');urlComScore.src="https://sb.scorecardresearch.com/p?c1=8&c2=6035191&c3=22968734174&cj=1&rn="+random;console.log("addComScorePixel");}

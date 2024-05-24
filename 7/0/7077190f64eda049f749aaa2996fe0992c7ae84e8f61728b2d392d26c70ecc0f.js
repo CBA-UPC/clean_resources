@@ -1,0 +1,2 @@
+�چسب حساسیت","f":0},"sensitivityButtonLearnMoreLinkText":{"s":"بیشتر بدانید","f":0},"sensitivityLabelErrorDialogCloseButtonText":{"s":"بستن","f":0},"sensitivityLabelErrorDialogMandatoryText":{"s":"حذف برچسب امکان‌پذیر نیست","f":0},"sensitivityLabelErrorDialogMandatorySubText":{"s":"سازمانتان شما را ملزم می‌کند که این مورد را برچسب‌گذاری کنید.","f":0}}}')}}]);
+//# sourceMappingURL=informationprotectionstrings21.1a0bcf8445c1ce96f86e.chunk.v7.js.map

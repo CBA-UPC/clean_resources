@@ -1,0 +1,1 @@
+.offer-notice{width:100%;margin-bottom:40px;margin-top:20px}

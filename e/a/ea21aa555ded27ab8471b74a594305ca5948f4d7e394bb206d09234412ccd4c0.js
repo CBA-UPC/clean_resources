@@ -1,0 +1,14 @@
+var var_nvwvp66qz7 = '';
+var_nvwvp66qz7 += "<"+"script type=\"application/javascript\" src=\"https://a.magsrv.com/video-slider.js\"><"+"/script>\n";
+var_nvwvp66qz7 += "<"+"script type=\"application/javascript\">\n";
+var_nvwvp66qz7 += "var adConfig = {\n";
+var_nvwvp66qz7 += "\"idzone\": 5126336,\n";
+var_nvwvp66qz7 += "\"frequency_period\": 60,\n";
+var_nvwvp66qz7 += "\"close_after\": 0,\n";
+var_nvwvp66qz7 += "\"on_complete\": \"repeat\",\n";
+var_nvwvp66qz7 += "\"screen_density\": 25,\n";
+var_nvwvp66qz7 += "\"cta_enabled\": 1\n";
+var_nvwvp66qz7 += "};\n";
+var_nvwvp66qz7 += "VideoSlider.init(adConfig);\n";
+var_nvwvp66qz7 += "<"+"/script>\n";
+document.write(var_nvwvp66qz7);

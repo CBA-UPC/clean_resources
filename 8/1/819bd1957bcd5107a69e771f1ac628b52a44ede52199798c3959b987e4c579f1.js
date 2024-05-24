@@ -1,0 +1,2 @@
+const vapidPublicKey = 'BI-rN5donZOhkjlW9509nBd1FkziHFeH7yboMOm8hRQK0XwKUA1REBRQD3JWLYUctEOTgoqVTjQExNGyEqKkFS4',licenseCode = 'in~~99199192';
+importScripts('https://widgets.in.webengage.com/js/merged-worker.js');

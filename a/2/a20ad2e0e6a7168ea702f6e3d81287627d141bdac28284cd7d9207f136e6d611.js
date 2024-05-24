@@ -1,0 +1,1 @@
+.AppBarComponent-module__left-nav-container__7RW6U{position:absolute;top:0;height:100%;width:68px}

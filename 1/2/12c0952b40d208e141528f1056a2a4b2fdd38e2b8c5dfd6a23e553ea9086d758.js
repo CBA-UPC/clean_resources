@@ -1,0 +1,9 @@
+//tealium universal tag - utag.sync ut4.0.202401230614, Copyright 2024 Tealium.com Inc. All Rights Reserved.
+var hostURL=window.location.hostname;var optimizelyURL;if(hostURL.indexOf("fr.review.visa.com")!=-1|hostURL.indexOf("visa.fr")!=-1|hostURL.indexOf("fr.rvcom-qa.visa.com")!=-1){window.optimizely=window.optimizely||[];window.optimizely.push({type:"holdEvents"});optimizelyURL="https://cdn.optimizely.com/js/15040670456.js";}
+else if(hostURL.indexOf("de.review.visa.com")!=-1|hostURL.indexOf("visa.de")!=-1|hostURL.indexOf("de.rvcom-qa.visa.com")!=-1|hostURL.indexOf("de.rvcom-uat.visa.com")!=-1){window.optimizely=window.optimizely||[];window.optimizely.push({type:"holdEvents"});optimizelyURL="https://cdn.optimizely.com/js/19751006531.js";}
+else if(hostURL.indexOf("it.review.visa.com")!=-1|hostURL.indexOf("visaitalia.com")!=-1|hostURL.indexOf("it.rvcom-qa.visa.com")!=-1){window.optimizely=window.optimizely||[];window.optimizely.push({type:"holdEvents"});optimizelyURL="https://cdn.optimizely.com/js/20299543332.js";}
+else if(hostURL.indexOf("pl.review.visa.com")!=-1|hostURL.indexOf("visa.pl")!=-1|hostURL.indexOf("pl.rvcom-qa.visa.com")!=-1){window.optimizely=window.optimizely||[];window.optimizely.push({type:"holdEvents"});optimizelyURL="https://cdn.optimizely.com/js/15065010295.js";}
+else if(hostURL.indexOf("uk.review.visa.com")!=-1|hostURL.indexOf("visa.co.uk")!=-1|hostURL.indexOf("uk.rvcom-qa.visa.com")!=-1|hostURL.indexOf("uk.rvcom-uat.visa.com")!=-1){window.optimizely=window.optimizely||[];window.optimizely.push({type:"holdEvents"});optimizelyURL="https://cdn.optimizely.com/js/15056420509.js";}
+else
+{optimizelyURL="";}
+var scr=document.createElement('script');scr.src=optimizelyURL;document.getElementsByTagName('head')[0].appendChild(scr);

@@ -1,0 +1,2 @@
+!this,function(n){var l,u,i,t,o,f,r,e,c={},s=[],a=/acit|ex(?:s|g|n|p|$)|rph|grid|ows|mnc|ntw|ine[ch]|zoo|^ord|itera/i;is.l[n.type+!1](u.event?u.event(n):n)}e,u={__e:,i=0,t=_.prototype.setState=_.prototype.forceUpdate=_.prototype.render=d,o=[],f="function"==typeof Promise?Promise.prototype.then.bind(Promise.resolve()):setTimeout,g.__r=0,e=0,n.render=O,n.hydrate=n.createElement=y,n.h=y,n.Fragment=d,n.createRef=n.isValidElement=t,n.Component=_,n.cloneElement=n.createContext=n.toChildArray=n.options=u});
+//# sourceMappingURL=preact.umd.js.map

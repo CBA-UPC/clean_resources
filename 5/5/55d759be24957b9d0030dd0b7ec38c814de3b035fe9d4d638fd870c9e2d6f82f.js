@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC434aef338a064efbb76a06403357fcdd-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/331fbea29f79/a5b25a446515/b72ad8d73d8d/RC434aef338a064efbb76a06403357fcdd-source.min.js', "adobe.target.trackEvent({mbox:\"custom-mbox\",params:{segmentType:_satellite.getVar(\"user | segmentType\"),customerType:_satellite.getVar(\"user | customerType\")}});");

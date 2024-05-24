@@ -1,0 +1,1 @@
+.gainer-gold-row{display:-ms-flexbox;display:flex;width:100%;-ms-flex-pack:justify;justify-content:space-between}.gainer-gold-row .gainer-losers,.gainer-gold-row .spot-rate{width:100%;max-width:450px}.mobile_body .gainer-gold-row{-ms-flex-wrap:wrap;flex-wrap:wrap}

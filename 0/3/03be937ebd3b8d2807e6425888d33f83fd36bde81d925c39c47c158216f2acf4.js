@@ -1,0 +1,1 @@
+.k-dialog-link-jump-tip-footer{margin-top:36px;text-align:right}.k-dialog-link-jump-tip .k-dialog-title{padding:0!important;margin:0 30px;border-bottom:1px solid #e7e9eb}.k-dialog-link-jump-tip .el-dialog__headerbtn{top:30px;right:30px}.k-dialog-link-jump-tip .k-dialog-body{padding:30px!important}
